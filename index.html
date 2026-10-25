@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TDE 2.0 Survey Coverage</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="leaflet.css">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/plotly.js-basic-dist-min@2.35.2/plotly-basic.min.js"></script>
+</head>
+<body>
+<!--BODY-START-->
+<div class="frame">
+  <header class="topbar">
+    <span class="brand">TDE 2.0</span>
+    <span class="brand-sub">Survey coverage</span>
+    <span class="headline" id="headline"></span>
+    <button class="menu-btn" id="menu-btn" type="button" aria-controls="sidebar" aria-expanded="true">Controls</button>
+  </header>
+
+  <div class="app">
+    <aside class="sidebar" id="sidebar">
+      <div class="side-section">
+        <div class="side-head">Ecoregions
+          <span class="links"><button class="link" type="button" id="eco-all">all</button><button class="link" type="button" id="eco-none">none</button></span>
+        </div>
+        <div id="eco-checks"></div>
+      </div>
+
+      <div class="side-section">
+        <div class="side-head">Cells</div>
+        <label class="field" for="colour-mode">Colour cells by</label>
+        <select id="colour-mode">
+          <option value="status">Ecoregion &amp; survey status</option>
+          <option value="richness">Species recorded</option>
+          <option value="records">Records</option>
+          <option value="gap">Expected species found</option>
+        </select>
+        <label class="check"><input type="checkbox" id="show-cells" checked> Show grid cells</label>
+        <label class="check"><input type="checkbox" id="show-nonsample" checked> Show non-survey cells</label>
+        <label class="check"><input type="checkbox" id="focus-eco"> Grey out other ecoregions when one is selected</label>
+      </div>
+
+      <div class="side-section">
+        <div class="side-head">Data included</div>
+        <div id="src-checks"></div>
+        <div class="check-inline" id="grp-checks"></div>
+      </div>
+
+      <div class="side-section">
+        <div class="side-head">Overlays</div>
+        <div class="radio-row" id="basemap">
+          <label><input type="radio" name="basemap" value="light" checked> Light (Esri)</label>
+          <label><input type="radio" name="basemap" value="streets"> Streets (OSM)</label>
+          <label><input type="radio" name="basemap" value="none"> None</label>
+        </div>
+        <label class="check"><input type="checkbox" id="ov-eco" checked> Ecoregion boundaries</label>
+        <label class="check"><input type="checkbox" id="ov-pa"> Protected areas</label>
+        <label class="check"><input type="checkbox" id="ov-wet"> Wetland registry</label>
+        <label class="check"><input type="checkbox" id="ov-sites"> Survey sites</label>
+      </div>
+
+      <div class="side-section">
+        <div class="side-head">Find</div>
+        <label class="field" for="find-species">Species</label>
+        <div class="combo">
+          <input type="text" id="find-species" placeholder="type a species name" autocomplete="off" spellcheck="false">
+          <button class="clear" id="find-species-clear" type="button" title="Clear species" hidden>&times;</button>
+          <div class="combo-list" id="species-list" hidden></div>
+        </div>
+        <div class="sp-layers">
+          <label class="check"><input type="checkbox" id="sp-dots" checked> Record points (red)</label>
+          <label class="check"><input type="checkbox" id="sp-bg" checked> All-records background (grey)</label>
+          <label class="check"><input type="checkbox" id="sp-telem" checked> Telemetry tracks</label>
+        </div>
+        <label class="field" for="find-cell">Cell</label>
+        <input type="text" id="find-cell" placeholder="e.g. REDS_-9_11" autocomplete="off" spellcheck="false">
+        <p class="hint">Choosing a species shows every record of it in red (all sources), its expert range in sand, and GPS collar tracks where they exist — over a grey wash of all wildlife records. With grid cells on, cells shade dark by that species' record count; turn cells off to see points and range alone.</p>
+      </div>
+    </aside>
+
+    <section class="map-card">
+      <div id="map" role="application" aria-label="Survey grid map"></div>
+      <div class="map-legend" id="legend"></div>
+    </section>
+
+    <section class="rail">
+      <div class="tabs" role="tablist">
+        <button role="tab" data-tab="cell" aria-selected="true" type="button">Cell</button>
+        <button role="tab" data-tab="eco" aria-selected="false" type="button">Ecoregion</button>
+        <button role="tab" data-tab="overview" aria-selected="false" type="button">Overview</button>
+        <button role="tab" data-tab="about" aria-selected="false" type="button">About</button>
+      </div>
+
+      <div class="panel" id="panel-cell" role="tabpanel">
+        <div id="cell-head"></div>
+        <div id="cell-stats"></div>
+        <div id="cell-sub">
+          <div class="subtabs" role="tablist">
+            <button role="tab" data-sub="species" aria-selected="true" type="button">Species</button>
+            <button role="tab" data-sub="sites" aria-selected="false" type="button">Sites</button>
+            <button role="tab" data-sub="records" aria-selected="false" type="button">Records</button>
+            <button role="tab" data-sub="expected" aria-selected="false" type="button">Expected</button>
+          </div>
+          <div id="cell-tbl-species"></div>
+          <div id="cell-tbl-sites" hidden></div>
+          <div id="cell-tbl-records" hidden></div>
+          <div id="cell-tbl-expected" hidden></div>
+        </div>
+      </div>
+
+      <div class="panel" id="panel-eco" role="tabpanel" hidden>
+        <div id="eco-head"></div>
+        <div id="eco-stats"></div>
+        <div id="eco-body">
+          <div class="curve-controls">
+            <div class="radio-row" id="sat-type">
+              <label><input type="radio" name="sat-type" value="cells" checked> by survey cell</label>
+              <label><input type="radio" name="sat-type" value="records"> by record</label>
+            </div>
+            <select id="sat-group"></select>
+          </div>
+          <div class="plot curve" id="eco-curve"></div>
+          <p class="hint">Species recorded, by group and source (a species seen by two sources counts in both).</p>
+          <div class="plot breakdown" id="eco-breakdown"></div>
+          <div id="eco-tbl-species"></div>
+        </div>
+      </div>
+
+      <div class="panel" id="panel-overview" role="tabpanel" hidden>
+        <p class="hint">Survey cells by ecoregion and what we hold for them. Click a row in the table to open that ecoregion.</p>
+        <div class="plot overview" id="overview-plot"></div>
+        <div id="overview-tbl"></div>
+      </div>
+
+      <div class="panel about" id="panel-about" role="tabpanel" hidden>
+        <h3>What this is</h3>
+        <p>A static build of the TDE 2.0 survey-coverage dashboard: 12 ecoregion survey grids over Saudi Arabia, the wildlife records that fall into each cell, and how far they go towards the species an expert range says should be there. Everything recomputes in the browser from the record level; there is no server.</p>
+
+        <h3>Sources</h3>
+        <table>
+          <tr><th>Source</th><th>Tier</th><th>Notes</th></tr>
+          <tr><td>Bird survey programme</td><td>field</td><td>Spring and autumn 2025 point counts.</td></tr>
+          <tr><td>Wetland rapid assessments</td><td>field</td><td>Four zone/sector workbooks; sites linked to the wetland registry within 2 km. Undated.</td></tr>
+          <tr><td>Partner (RSG / BIOPOLIS)</td><td>field, compiled</td><td>Habitats baseline. MOVEBANK and GBIF rows dropped; bibliography rows kept as tier <code>compiled</code>.</td></tr>
+          <tr><td>Ranger sightings</td><td>internal</td><td>NCW app snapshot, Apr 2025 onward. Opportunistic, so never flips a cell to field-surveyed; excluded from site tables.</td></tr>
+          <tr><td>NCW internal records</td><td>internal</td><td>NCW species database extract; GBIF-sourced rows and plants dropped; exact duplicates collapsed.</td></tr>
+        </table>
+        <p>GPS collar telemetry is display-only: fixes never count as records, species or sites. Only the higher-quality collars are kept (PDOP ≤ 8, deployment and dead-tail trims, the six longest collars per species and cluster with ≥ 100 live fixes, plus the single qualifying Nubian ibex collar).</p>
+
+        <h3>Definitions</h3>
+        <ul>
+          <li><b>Survey cell</b>: grid status <code>Random</code> or <code>Systematic</code>. Other cells are shown pale and never count towards coverage.</li>
+          <li><b>With data</b>: at least one record of any source falls in the cell. <b>Field-surveyed</b>: at least one field-tier record.</li>
+          <li><b>Species</b>: distinct names at rank species or subspecies. Genus-only, unidentified and unparsed names stay in the record counts but never in species counts.</li>
+          <li><b>Expected species</b>: a species whose expert range contains the cell centroid (the strict rule). A touch-any variant is in the data pack.</li>
+          <li><b>Records</b> in the headline, cell and ecoregion views count record-to-cell links: a record that falls where two ecoregion grids overlap is counted in both cells, exactly as in the Shiny app.</li>
+          <li><b>Accumulation curves</b>: by survey cell, the mean (± 1 sd) over 50 random cell orderings; by record, individual-based rarefaction (Hurlbert).</li>
+          <li>Counts of individuals are carried in the data but never displayed.</li>
+        </ul>
+
+        <h3>Data files</h3>
+        <p>The site reads the compact JSON and GeoJSON files in <code>data/</code>. The hand-off pack that ships with the deploy bundle (<code>download/</code>) carries the same content in full resolution and open formats: a GeoPackage with grid cells, ecoregions, protected areas, wetland registry, species ranges, telemetry segments and observation points; the same layers as GeoJSON; and every table as CSV, including the unified <code>observations.csv</code> with the source-specific attributes as JSON.</p>
+        <p id="download-links"></p>
+      </div>
+    </section>
+  </div>
+</div>
+
+<div class="loading" id="loading">
+  <span class="brand">TDE 2.0</span>
+  <div class="bar"><i id="load-bar"></i></div>
+  <span class="msg" id="load-msg">Loading data…</span>
+</div>
+<!--BODY-END-->
+<script src="smooth-zoom.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

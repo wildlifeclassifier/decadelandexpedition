@@ -1,0 +1,33 @@
+device_id,species,species_label,cluster,n_fixes,dur_days,first_fix,last_fix
+155506,Oryx leucoryx,Arabian oryx,Northern cluster,2316,400,2025-02-19,2026-03-26
+155495,Oryx leucoryx,Arabian oryx,Northern cluster,2188,375.2,2025-02-19,2026-03-01
+155499,Oryx leucoryx,Arabian oryx,Northern cluster,1833,349.8,2025-02-19,2026-02-04
+155484,Oryx leucoryx,Arabian oryx,Northern cluster,770,216.2,2026-01-27,2026-08-31
+155505,Oryx leucoryx,Arabian oryx,Northern cluster,1247,212,2025-02-19,2025-09-19
+155502,Oryx leucoryx,Arabian oryx,Northern cluster,347,62.3,2026-01-26,2026-03-29
+155487,Oryx leucoryx,Arabian oryx,Southern cluster,2697,477,2024-12-07,2026-03-29
+155504,Oryx leucoryx,Arabian oryx,Southern cluster,2687,472.8,2024-12-12,2026-03-30
+155500,Oryx leucoryx,Arabian oryx,Southern cluster,2622,460.3,2024-12-24,2026-03-30
+155482,Oryx leucoryx,Arabian oryx,Southern cluster,2676,459.7,2024-12-24,2026-03-29
+155492,Oryx leucoryx,Arabian oryx,Southern cluster,795,146.2,2024-12-24,2025-05-19
+155483,Oryx leucoryx,Arabian oryx,Southern cluster,561,96.8,2024-12-24,2025-03-31
+155583,Gazella arabica,Idmi (mountain gazelle),Northern cluster,2439,463.7,2024-12-21,2026-03-30
+155587,Gazella arabica,Idmi (mountain gazelle),Northern cluster,2425,463.7,2024-12-21,2026-03-30
+155567,Gazella arabica,Idmi (mountain gazelle),Northern cluster,2405,463.7,2024-12-21,2026-03-30
+155564,Gazella arabica,Idmi (mountain gazelle),Northern cluster,813,137.5,2025-11-12,2026-03-29
+155571,Gazella arabica,Idmi (mountain gazelle),Northern cluster,387,68.8,2024-12-21,2025-02-28
+155579,Gazella arabica,Idmi (mountain gazelle),Northern cluster,289,50.8,2025-11-12,2026-01-02
+155545,Gazella arabica,Idmi (mountain gazelle),Southern cluster,697,140.7,2024-12-24,2025-05-14
+155540,Gazella arabica,Idmi (mountain gazelle),Southern cluster,778,140.7,2024-12-24,2025-05-14
+155578,Gazella arabica,Idmi (mountain gazelle),Southern cluster,738,140.3,2024-12-24,2025-05-13
+155509,Capra nubiana,Nubian ibex,Southern cluster,2783,536.8,2024-03-05,2025-08-24
+155562,Gazella marica,Reem (sand gazelle),Northern cluster,3100,621,2024-12-19,2026-09-01
+155549,Gazella marica,Reem (sand gazelle),Northern cluster,3092,616.3,2024-12-19,2026-08-27
+155556,Gazella marica,Reem (sand gazelle),Northern cluster,2799,558.3,2025-02-19,2026-08-31
+155555,Gazella marica,Reem (sand gazelle),Northern cluster,2767,557.5,2025-02-19,2026-08-30
+155537,Gazella marica,Reem (sand gazelle),Northern cluster,2544,465.7,2024-12-19,2026-03-30
+155552,Gazella marica,Reem (sand gazelle),Northern cluster,2469,465.2,2024-11-08,2026-02-16
+155538,Gazella marica,Reem (sand gazelle),Southern cluster,885,539.7,2024-03-06,2025-08-28
+155543,Gazella marica,Reem (sand gazelle),Southern cluster,2669,460.2,2024-12-24,2026-03-29
+155569,Gazella marica,Reem (sand gazelle),Southern cluster,820,436.2,2024-03-06,2025-05-16
+155550,Gazella marica,Reem (sand gazelle),Southern cluster,433,140.7,2024-12-24,2025-05-14

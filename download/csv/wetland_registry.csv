@@ -1,0 +1,623 @@
+wetland_id,name_ar,name_en,iucn_realm,iucn_biome,iucn_type,ramsar_class,ramsar_code,region,governorate,pa_name,pa_category,lat,lon,surveyed,survey_site_code
+1,مـارد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Asyah Governorate,,,26.8155,44.2095,FALSE,
+2,الناصفة (شعيب سمرمدا),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Al-Qurayyat Governorate,King Slaman Royal Reserve,TPA,31.0386,37.6136,FALSE,
+3,وادي المراء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,31.6374,40.1468,FALSE,
+4,غريف الجدارة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.9097,40.762,FALSE,
+5,تلاع الشمالي؟,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Tabuk Governorate,,,28.2626,36.5707,FALSE,
+6,بيضان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Mahd Governorate,,,23.1397,40.4862,FALSE,
+7,الروضة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.8217,41.6023,FALSE,
+8,الحائط,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Hait Governorate,,,25.9636,40.4709,TRUE,W290
+9,ذاره,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.0188,40.331,FALSE,
+10,الفوارة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,,,23.2787,45.2364,FALSE,
+11,عكرمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.2436,40.3585,TRUE,W599
+12,السلف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.4286,41.5202,TRUE,W326
+13,عريعرة الجنوبي 2,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Zulfi Governorate,,,26.3373,44.8471,FALSE,
+14,حلباء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.2465,42.12,FALSE,
+15,وادي ضحكان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,27.4141,35.7605,FALSE,
+16,حاير سديس,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.7869,45.3682,FALSE,
+17,جزيرة كرين,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,Gulf Islands Wildlife Sanctuary,MPA,27.6492,49.8197,FALSE,
+18,الحجري,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Riyadh Governorate,,,24.5714,46.7227,TRUE,W398
+19,خليج تاروت,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Ras Tanura Governorate,Khalij Tarut,TPA-MPA,26.6407,50.0563,FALSE,
+20,الشواحطة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.9864,40.8319,FALSE,
+21,الحفيرة (الحصاة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,As-sawadah/Al-hasat,TPA,22.8243,44.9555,FALSE,
+22,أبا الحيران,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,King Slaman Royal Reserve,TPA,27.0552,41.0152,FALSE,
+23,الماوين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.6502,42.3973,FALSE,
+24,خثعـم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,Extention to Jabal Uthrub / Al-Balas,TPA,19.7994,41.8825,FALSE,
+25,تربة الجوفي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.8476,41.4281,TRUE,W619
+26,جـازان (ملاكي، ملكي، حكيمة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Abu Arish Governorate,Wadi Jawwah / Wadi Jazan,TPA,17.049,42.9574,TRUE,W057
+27,وادي صعب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.2388,40.3836,TRUE,W604
+28,وادي الهميجة (الراغية),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Makkah Al-Mukarramah Governorate,The Haram of Makkah,TPA,21.4795,39.8585,FALSE,
+29,الهدار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Aflaj Governorate,,,21.9219,45.935,FALSE,
+30,الساقية (الشنان، ساقية فيد),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,,,27.1447,42.4545,FALSE,
+31,الفرعة (وادي بسـل),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.1684,40.7033,TRUE,W590
+32,لصاد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Hariq Governorate,,,23.627,46.6323,FALSE,
+33,توران,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,King Slaman Royal Reserve,TPA,27.5761,41.44,TRUE,W343
+34,ودي الزريب (الشجنه),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,26.2848,36.5841,FALSE,
+35,بحيرة الأصفر,,F - Freshwater,F3 Artificial fresh waters biome,F3.2 Constructed lacustrine wetlands,Human-made wetlands,8,Eastern Province,Al-Ahsa Governorate,,,25.532,49.7895,FALSE,
+36,وادي اللويزية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,31.0858,41.0222,FALSE,
+37,الفروان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Dhahran Al-Janoub Governorate,Imam Faisal bin Turki,TPA-MPA,17.7223,43.4959,TRUE,W160
+38,وادي السبعان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Kamil Governorate,Wadi Murwani / Jabal ash-shamansir,TPA,22.3827,39.9575,FALSE,
+39,خور واهلان,,MFT - Marine–Freshwater–Terrestrial (transitional realms),MFT1 Brackish tidal systems biome,MFT1.2 Intertidal forests and shrublands,Marine/Coastal Wetlands,I,Jizan,Ahad Masarha Governorate,,,16.7342,42.7006,TRUE,W060
+40,النابع,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,,,26.4185,37.085,FALSE,
+41,كتنة (وادي ضراء),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,20.9026,40.9298,TRUE,W602
+42,الفرعة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Yanbu Al-Bahr Governorate,,,24.4808,38.4932,FALSE,
+43,البير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Thadiq Governorate,,,25.27,45.9703,TRUE,W438
+44,البار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.387,41.5003,TRUE,W324
+45,وادي قطن,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Thar Governorate,Wadi al-Hizmah / Wadi Tathlith,TPA,18.1896,44.0158,TRUE,W481
+46,جيزان,,MT - Marine–Terrestrial (transitional realms),MT1 Shoreline systems biome,,Marine/Coastal Wetlands,G,Jizan,Sabya Governorate,,,17.0959,42.4526,TRUE,W066
+47,الملد (قـوب),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Baha Governorate,,,20.0129,41.4867,FALSE,
+48,بحيرة دومة الجندل,,F - Freshwater,F3 Artificial fresh waters biome,F3.2 Constructed lacustrine wetlands,Human-made wetlands,2,Al-Jawf,Dumat Al-Jandal Governorate,,,29.811,39.9088,FALSE,
+49,وادي عرعر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,30.8087,40.6965,FALSE,
+50,جبل أجا,,F - Freshwater,F1 Rivers and streams biome,F1.4 Seasonal upland streams,Inland Wetlands,N,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5581,41.5184,FALSE,
+51,وبح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Kamil Governorate,Wadi Murwani / Jabal ash-shamansir,TPA,22.2382,39.8492,FALSE,
+52,الوق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,,,18.0136,43.3289,TRUE,W164
+53,الضمخات,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5045,41.5332,TRUE,W328
+54,المحجر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.8515,43.7138,TRUE,W475
+55,ملهم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Huraymila Governorate,,,25.1434,46.2407,TRUE,W442
+56,قـرن,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.5898,40.4001,FALSE,
+57,عمق باللحمر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.686,42.2915,FALSE,
+58,الحيسية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.9172,46.1809,FALSE,
+59,تبوك (قاعدة الملك فيصل الجوية),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Tabuk Governorate,,,28.3833,36.6333,FALSE,
+60,وادي تربة,,F - Freshwater,F1 Rivers and streams biome,F1.5 Seasonal lowland rivers,Inland Wetlands,N,Makkah,Turbah Governorate,,,20.9998,41.4927,FALSE,
+61,نبـه,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,,,19.7138,41.8971,FALSE,
+62,بدائع الدهمشية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.8958,42.0448,FALSE,
+63,أبو صليله,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.049,40.4733,FALSE,
+64,أبن مشوط,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Hariq Governorate,,,23.2157,45.8788,FALSE,
+65,الشويحطية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Sakaka Governorate,,,30.3258,40.188,FALSE,
+66,مسكة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,,Asir,Bisha Governorate,,,20.0235,42.1859,FALSE,
+67,مربة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,17.902,42.3838,FALSE,
+68,السليمي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,As-Sulaymi Governorate,,,26.3026,41.3495,FALSE,
+69,السد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.8089,40.882,FALSE,
+70,وادي عمود,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Al-Rayth Governorate,,,17.5527,43.0122,TRUE,W052
+71,عشيرة سدير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.6349,45.694,FALSE,
+72,العزيزية,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Khobar Governorate,,,26.1672,50.1657,FALSE,
+73,القتب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Al-Qurayyat Governorate,King Slaman Royal Reserve,TPA,31.5589,37.9121,FALSE,
+74,الليث,,MT - Marine–Terrestrial (transitional realms),MT1 Shoreline systems biome,MT1.2 Muddy shores,Marine/Coastal Wetlands,G,Makkah,Al-Lith Governorate,,,20.2811,40.1219,FALSE,
+75,الفصل,,MFT - Marine–Freshwater–Terrestrial (transitional realms),MFT1 Brackish tidal systems biome,MFT1.3 Coastal saltmarshes and reedbeds,Marine/Coastal Wetlands,H,Eastern Province,Al-Jubail Governorate,,,27.0757,49.4814,FALSE,
+76,جفنا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Dawadmi Governorate,,,24.1579,43.45,FALSE,
+77,بلقثاء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Extention to Majami' al-Hadb,TPA,21.6338,43.9659,FALSE,
+78,الحصيد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Khaybar Governorate,Harrat khaybar extension,TPA,25.5511,39.3859,FALSE,
+79,الغرابة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.7908,42.3053,FALSE,
+80,الحلوة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Hariq Governorate,,,23.4511,46.691,FALSE,
+81,الحميراء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Makhwah Governorate,,,19.6471,41.2305,FALSE,
+82,المشرب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.4353,43.3917,FALSE,
+83,معشوقة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.3636,41.4115,FALSE,
+84,وادي ترج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Tanumah Governorate,Imam Faisal bin Turki,TPA-MPA,19.1041,42.295,FALSE,
+85,آل حديله,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Ahad Rafidah Governorate,,,18.0511,42.8138,FALSE,
+86,جزيرة فرسان,,M - Marine,,,Marine/Coastal Wetlands,A,Jizan,Farasan Governorate,Farasan Islands,MPA,16.7167,41.9333,FALSE,
+87,جثليه,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.1641,40.3297,FALSE,
+88,العقيق,Alaqiq Dam,F - Freshwater,F3 Artificial fresh waters biome,F1.3 Freeze–thaw rivers and streams,Human-made wetlands,6,Al-Baha,Al-Aqiq Governorate,,,20.2367,41.5708,FALSE,
+89,سرابة,,,,,,,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.1045,42.1433,FALSE,
+90,وادي البطنـة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,18.8584,42.6554,FALSE,
+91,الغاط,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Ghat Governorate,,,25.9674,45.0348,FALSE,
+92,بحيرة رايس (بحيرة الشايع),,F - Freshwater,F3 Artificial fresh waters biome,F3.2 Constructed lacustrine wetlands,Human-made wetlands,8,Tabuk,Tabuk Governorate,,,28.3089,36.505,FALSE,
+93,بزاخة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,,,27.2441,41.405,TRUE,W333
+94,فيضة المخفية,,TF - Terrestrial–Freshwater (transitional realms),TF1 Palustrine wetlands biome,TF1.4 Seasonal floodplain marshes,Inland Wetlands,Ss,Al-Qassim,Unaizah Governorate,,,26.1709,44.097,FALSE,
+95,الحفاة (آل زيان),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.5365,42.3945,FALSE,
+96,جلاجل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.6517,45.4197,FALSE,
+97,صلبوخ,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Huraymila Governorate,Tuwaiq,TPA,25.0739,46.3363,FALSE,
+98,وادي عرنة (مجرى مياه الصرف الصحي بمكة المكرمة),,F - Freshwater,F3 Artificial fresh waters biome,"F3.5 Canals, ditches and drains",Human-made wetlands,8,Makkah,Makkah Al-Mukarramah Governorate,The Haram of Makkah,TPA,21.3375,39.8665,TRUE,W587
+99,عريعرة الشمالي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Zulfi Governorate,,,26.3399,44.8411,FALSE,
+100,وادي شهدان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Sabya Governorate,,,17.4546,42.736,TRUE,W067
+101,سمنان الثاني,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Zulfi Governorate,,,26.2514,44.8909,FALSE,
+102,وادي المريفق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.8001,40.9086,FALSE,
+103,قارح جنوبي عقدة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5015,41.599,TRUE,W336
+104,العنبري,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Shaqra Governorate,,,25.1953,45.2773,TRUE,W451
+105,بهوان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.6828,42.4131,FALSE,
+106,وادي مـلل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,,,24.3702,39.2892,FALSE,
+107,تمنية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.023,42.7637,FALSE,
+108,ناوان نيرا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Makhwah Governorate,Extention to Jabal Shada,TPA,19.7585,41.3344,FALSE,
+109,الثميلة (بمبان),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Riyadh Governorate,,,25.0803,46.5901,FALSE,
+110,أبالحياص,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Nabhaniyah Governorate,Al-banat/wadi ar-rimah,TPA,25.5228,42.8156,FALSE,
+111,ظـروة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,Jabal Uthrub / Al-Balas,TPA,19.7999,41.7092,FALSE,
+112,الملية (القرينة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Huraymila Governorate,Tuwaiq,TPA,25.1266,46.1645,TRUE,W441
+113,سدوس,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,25.0059,46.1476,TRUE,W389
+114,عتام,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.0721,40.4945,TRUE,W598
+115,نعمان (وادي الضيقة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Makkah Al-Mukarramah Governorate,Jabal suhar/wadi an-Nu'man,TPA,21.255,40.217,TRUE,W583
+116,المهدية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Riyadh Governorate,Tuwaiq,TPA,24.6628,46.4278,FALSE,
+117,خضار (الحمية),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.6974,42.5273,FALSE,
+118,عجلان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Baha Governorate,,,20.0146,41.4581,FALSE,
+119,حائل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5323,41.596,FALSE,
+120,الريث,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Al-Rayth Governorate,Imam Faisal bin Turki,TPA-MPA,17.6489,42.738,TRUE,W053
+121,صفار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.7264,46.5521,FALSE,
+122,المناضح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.7223,40.9041,FALSE,
+123,وادي رحيب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Tabuk Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,27.4755,36.7976,FALSE,
+124,وادي عينونة,,,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,NEOM,TPA-MPA,28.2108,35.3281,FALSE,
+125,جبل خاط (وادي جبل الافاقمة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Majardah Governorate,Imam Faisal bin Turki,TPA-MPA,19.09,42.0467,FALSE,
+126,تمرة الأيسر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Sulayyil Governorate,,,20.3403,45.3953,FALSE,
+127,أبحر,,MT - Marine–Terrestrial (transitional realms),MT3 Anthropogenic shorelines biome,MT3.1 Artificial shores,Marine/Coastal Wetlands,G,Makkah,Jeddah Governorate,,,21.7844,39.0535,FALSE,
+128,الوادي الشمالي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,,,27.4474,41.6002,TRUE,W332
+129,العمارية (المطيرفية),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.7498,46.3921,TRUE,W383
+130,الهطال,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Extention to Majami' al-Hadb,TPA,21.3879,44.085,FALSE,
+131,الخروعية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,23.8112,45.5768,FALSE,
+132,وادي بدوة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.1681,42.1647,FALSE,
+133,أم القماري,,M - Marine,,,Marine/Coastal Wetlands,A,Makkah,Al-Qunfudhah Governorate,Juzur Umm al-Qamari,TPA-MPA,18.9832,41.101,FALSE,
+134,وادي النميص,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,As-sawadah/Al-hasat,TPA,23.2683,44.6383,FALSE,
+135,وادي أميرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Is Governorate,,,25.5816,38.1052,FALSE,
+136,شعيب العوجاء (زلوم),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Sakaka Governorate,,,30.184,40.2568,FALSE,
+137,باشوت,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,,,19.5793,41.8895,FALSE,
+138,وادي الجناح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Ardiyat Governorate,,,19.6951,41.6914,FALSE,
+139,مرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Muhayil Asir Governorate,Imam Faisal bin Turki,TPA-MPA,18.583,42.1499,FALSE,
+140,وساع,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Sabya Governorate,,,17.4021,42.831,TRUE,W068
+141,خليج قيشران,,M - Marine,M4 Anthropogenic marine systems biome,M4.2 Marine aquafarms,Marine/Coastal Wetlands,A,Makkah,Al-Lith Governorate,Ra's Kishran / Jazirat Sharifah,TPA-MPA,20.266,40.1054,FALSE,
+142,بحيرات الأحساء,,F - Freshwater,F3 Artificial fresh waters biome,"F3.5 Canals, ditches and drains",Human-made wetlands,9,Eastern Province,Al-Ahsa Governorate,,,25.3926,49.6307,FALSE,
+143,وادي ضم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Tabuk Governorate,,,28.5686,35.9997,FALSE,
+144,وادي الخضارة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.8947,43.6927,TRUE,W497
+145,القمع,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,Jabal Uthrub / Al-Balas,TPA,19.807,41.714,FALSE,
+146,البره,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Huraymila Governorate,Tuwaiq,TPA,24.9482,45.897,TRUE,W443
+147,الجنابين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.9004,41.7107,FALSE,
+148,البليطيح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,27.212,36.8614,FALSE,
+149,جرية المجاردة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Majardah Governorate,,,19.1951,41.923,FALSE,
+150,وادي شوقب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.5498,41.1171,FALSE,
+151,سدوان (العوصاء),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Tanumah Governorate,Imam Faisal bin Turki,TPA-MPA,18.9086,42.2251,FALSE,
+152,شقرا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.1572,40.3505,TRUE,W597
+153,خليج العقير,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Ahsa Governorate,Salwa,TPA-MPA,25.6932,50.1747,FALSE,
+154,دوحة المسلمية,,,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,Jubail Marine Area,TPA-MPA,27.4069,49.2208,FALSE,
+155,أبن عسكر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.9774,43.7978,TRUE,W476
+156,الشرائـع,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,,Madinah,Al-Madinah Al-Munawwarah Governorate,The Haram of Al-Madinah,TPA,24.4105,39.6398,FALSE,
+157,القوباء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Bisha Governorate,,,19.5044,42.1851,FALSE,
+158,الأحمر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Aflaj Governorate,,,22.3705,46.1171,FALSE,
+159,دوقة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Qilwah Governorate,,,19.8948,41.1366,FALSE,
+160,وادي شعبان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.1238,42.1902,FALSE,
+161,ثـعابة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,18.2662,42.2701,FALSE,
+162,وادي النخيل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Nabhaniyah Governorate,,,25.4287,42.8397,FALSE,
+163,ملكان (أم الراكة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Bahrah Governorate,,,21.1489,40.0349,TRUE,W617
+164,النعـى,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,27.1777,42.2752,FALSE,
+165,العصمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Al-Eidabi Governorate,,,17.1916,43.0015,TRUE,W058
+166,وادي حلية الأسودين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Lith Governorate,,,20.1608,40.8388,FALSE,
+167,سمنان الأول,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Zulfi Governorate,,,26.2679,44.8817,FALSE,
+168,ابوغاشـا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.3167,40.3833,FALSE,
+169,أبا اللصف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Bin Tamim Governorate,,,23.4705,46.853,FALSE,
+170,الرقب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Hait Governorate,,,25.7124,41.0749,FALSE,
+171,المعزب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,18.8508,42.8555,FALSE,
+172,حميران,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.9847,43.8677,TRUE,W474
+173,الهدا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.3512,40.3302,TRUE,W593
+174,العسران,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,18.0348,43.0665,TRUE,W178
+175,وادي أبو القزاز (وادي ساحوب),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,26.7844,36.7681,FALSE,
+176,الدافعة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,Imam Faisal bin Turki,TPA-MPA,17.787,43.3795,TRUE,W154
+177,الغيل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Aflaj Governorate,Nafud ad-Dahi/Al-Ghayl,TPA,22.6005,46.4597,FALSE,
+178,جوي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.798,45.3938,FALSE,
+179,النستق الشمالي (الشمام),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,24.0056,45.0103,FALSE,
+180,روضة سدير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.6096,45.5102,FALSE,
+181,المانح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Marat Governorate,,,25.0675,45.4509,TRUE,W458
+182,السروى,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,18.0503,43.1293,FALSE,
+183,عسيلان بالرين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,,,23.6664,45.3756,FALSE,
+184,العشة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Dhahran Al-Janoub Governorate,Murtafa'at Najran,TPA,17.5561,43.6121,TRUE,W158
+185,لبن,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Riyadh Governorate,,,24.6207,46.6053,TRUE,W401
+186,عـنم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,18.0498,43.2271,FALSE,
+187,وادي خلب,,F - Freshwater,F1 Rivers and streams biome,F1.5 Seasonal lowland rivers,Inland Wetlands,N,Jizan,Ahad Masarha Governorate,,,16.7225,43.0247,TRUE,W061
+188,رغبة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Thadiq Governorate,Tuwaiq,TPA,25.1135,45.8159,TRUE,W437
+189,المقرن (وادي العروس),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,24.9902,40.5452,FALSE,
+190,العزيزا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.2991,41.414,FALSE,
+191,ثادق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Thadiq Governorate,,,25.275,45.875,TRUE,W440
+192,أبن مرشد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.8089,45.7463,FALSE,
+193,غضـار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,,Asir,Balqarn Governorate,,,19.5496,41.9836,FALSE,
+194,سروم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,,,17.9036,43.4709,FALSE,
+195,العنادية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,,,23.3773,45.5639,FALSE,
+196,خليج سلوى,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Udayd Governorate,,,25.25,50.6667,FALSE,
+197,ابا الهدار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Nabhaniyah Governorate,,,25.5491,42.7506,FALSE,
+198,منطقة الهيئة الملكية بينبع,,,,,Marine/Coastal Wetlands,I,Madinah,Yanbu Al-Bahr Governorate,Medina Marine Reserve,MPA,23.9333,38.2333,FALSE,
+199,الغزالة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.7955,41.353,FALSE,
+200,الصنينا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,King Slaman Royal Reserve,TPA,27.3054,41.0671,TRUE,W346
+201,المحند,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Turbah Governorate,,,21.042,41.608,TRUE,W618
+202,الرضفين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,King Slaman Royal Reserve,TPA,27.2673,41.2282,TRUE,W345
+203,وادي الهلالي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,30.831,41.2449,FALSE,
+204,العين الحارة,,F - Freshwater,,,Inland Wetlands,Zg,Jizan,Al-Aridah Governorate,Wadi Jawwah / Wadi Jazan,TPA,17.0513,42.9745,FALSE,
+205,الهبيرية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Buraydah Governorate,,,26.2402,42.469,FALSE,
+206,بحيرة الخرارة,,F - Freshwater,F2 Lakes biome,F2.5 Ephemeral freshwater lakes,Inland Wetlands,P,Riyadh,Al-Muzahmiyya Governorate,,,24.4065,46.2457,TRUE,W435
+207,وادي الفرع,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Wadi Al Fara Governorate,,,23.3434,39.6634,FALSE,
+208,وادي سمين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,,,25.113,37.419,FALSE,
+209,ريمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.355,42.3865,FALSE,
+210,الدبدب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Mandaq Governorate,,,20.1207,41.2927,FALSE,
+211,الحريق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Hariq Governorate,,,23.671,46.4301,FALSE,
+212,الخلصة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.7673,42.2614,FALSE,
+213,الحليفة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Marat Governorate,,,25.1285,45.3869,TRUE,W456
+214,ظلامة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Wadi Al Fara Governorate,Jibal Wirqan / Idqis/as-Suddah,TPA,23.6983,39.5688,FALSE,
+215,الأثايبة (أبا الرشاش، وادي الرغام),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Najran Governorate,,,17.6263,44.206,TRUE,W488
+216,بحيرة الحائر,,F - Freshwater,F3 Artificial fresh waters biome,F3.2 Constructed lacustrine wetlands,Human-made wetlands,6,Riyadh,Riyadh Governorate,Al Ha'ir Wetland,TPA,24.3836,46.8883,TRUE,W397
+217,العيص,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Is Governorate,,,25.0479,38.0981,FALSE,
+218,عـروة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,The Haram of Al-Madinah,TPA,24.4371,39.564,FALSE,
+219,الرم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.9815,43.21,TRUE,W155
+220,بطحان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,The Haram of Al-Madinah,TPA,24.4105,39.6397,FALSE,
+221,عرده الجوفي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.6199,41.2994,FALSE,
+222,وادي حضر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.1966,42.1425,FALSE,
+223,السديري,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Dawadmi Governorate,,,24.1539,44.6967,FALSE,
+224,تربان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Extention to Majami' al-Hadb,TPA,21.3936,44.059,FALSE,
+225,وادي الخرار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Ula Governorate,,,26.2031,37.3777,FALSE,
+226,وادي ماطوة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,Jabal Uthrub / Al-Balas,TPA,19.7885,41.7404,FALSE,
+227,الرتق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.9166,41.6014,FALSE,
+228,الوادي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,,,27.4424,41.5926,TRUE,W331
+229,وادي أرنب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,NEOM,TPA-MPA,28.085,35.5021,FALSE,
+230,الهيجة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.838,41.6376,FALSE,
+231,تلاع (الغافية),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Thar Governorate,,,18.0475,43.9615,TRUE,W483
+232,وادي داما,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,27.3779,36.4431,FALSE,
+233,الأرزاق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,,Hail,Al-Hait Governorate,,,25.9179,40.7597,FALSE,
+234,الحبيس,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.9505,41.541,FALSE,
+235,قطن,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Uqlat As Suqur Governorate,Jabal Qitan,TPA,25.9551,42.338,FALSE,
+236,وادي قوس 2,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Jeddah Governorate,,,21.5041,39.3918,FALSE,
+237,جبال قراقر,,F - Freshwater,F1 Rivers and streams biome,F1.4 Seasonal upland streams,Inland Wetlands,N,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,27.6338,36.5206,FALSE,
+238,العقيق الأعلى,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,The Haram of Al-Madinah,TPA,24.4896,39.5716,FALSE,
+239,تبوك,,TF - Terrestrial–Freshwater (transitional realms),TF1 Palustrine wetlands biome,TF1.4 Seasonal floodplain marshes,Human-made wetlands,8,Tabuk,Tabuk Governorate,,,28.598,36.5904,FALSE,
+240,ذهبان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Birk Governorate,Imam Faisal bin Turki,TPA-MPA,18.1382,41.6402,FALSE,
+241,أبو محيثلات,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,,,26.3253,36.7658,FALSE,
+242,نايف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,,,27.2546,41.3659,TRUE,W320
+243,الجزر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.6975,45.4353,FALSE,
+244,الشعراء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Dawadmi Governorate,,,24.2344,44.1538,FALSE,
+245,أشيقر (المنحنى),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Shaqra Governorate,,,25.3525,45.1631,TRUE,W450
+246,رأس أبو عريقات,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Buqayq Governorate,Salwa,TPA-MPA,25.8467,50.0851,FALSE,
+247,الحضيرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Baha Governorate,,,20.0405,41.4414,FALSE,
+248,الوجب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,24.9933,40.0401,FALSE,
+249,بحيرة البكيرية,,F - Freshwater,F3 Artificial fresh waters biome,F3.3 Rice paddies,Human-made wetlands,8,Al-Qassim,Al-Bukayriyah Governorate,,,26.1441,43.6814,FALSE,
+250,وادي شرما,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,NEOM,TPA-MPA,28.085,35.5022,FALSE,
+251,بدر الجنوب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.8948,43.6923,FALSE,
+252,باير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Al-Qurayyat Governorate,King Slaman Royal Reserve,TPA,31.1614,37.4828,FALSE,
+253,الشاله,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,The Haram of Al-Madinah,TPA,24.3914,39.635,FALSE,
+254,العيـزاء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.9785,43.1963,TRUE,W180
+255,سراء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Khaybar Governorate,,,26.4101,39.0918,FALSE,
+256,الاشعرية,,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,R,Makkah,Al-Muwayh Governorate,,,22.5712,41.5219,TRUE,W614
+257,المـلح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Makhwah Governorate,Southeastern_Albaha_Escapment,TPA,19.7689,41.4762,FALSE,
+258,جبل اللوز,,F - Freshwater,F1 Rivers and streams biome,F1.4 Seasonal upland streams,Inland Wetlands,N,Tabuk,Tabuk Governorate,NEOM,TPA-MPA,28.6883,35.3424,FALSE,
+259,وادي قوس 1 (أم الخير),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Jeddah Governorate,,,21.5239,39.2637,FALSE,
+260,السبعين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.6106,45.5531,FALSE,
+261,وادي أثال,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Hajrah Governorate,,,20.3251,41.0571,FALSE,
+262,الغرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.2605,42.0927,FALSE,
+263,العفارة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,Jabal Uthrub / Al-Balas,TPA,19.7782,41.7224,FALSE,
+264,الباحة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Baha Governorate,,,20.0146,41.458,FALSE,
+265,غراب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.2121,40.3812,FALSE,
+266,هرجاب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,,Asir,Bisha Governorate,,,19.3328,42.8355,FALSE,
+267,نخيلان (الباردة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,23.9689,44.9096,FALSE,
+268,المطلاع الأيسر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Nabhaniyah Governorate,Al-banat/wadi ar-rimah,TPA,25.8214,43.0169,FALSE,
+269,جاش (الريازة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Tathlith Governorate,,,19.3221,43.3874,FALSE,
+270,وادي بدنة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,31.0301,40.8514,FALSE,
+271,المزدلفة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Makkah Al-Mukarramah Governorate,The Haram of Makkah,TPA,21.3939,39.9273,FALSE,
+272,قـران,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Mahd Governorate,,,23.2737,40.3306,FALSE,
+273,الرميد (جوف آل معمر),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.2119,43.1672,FALSE,
+274,قرية العليا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.8475,41.4589,FALSE,
+275,الصمخية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Ahad Rafidah Governorate,,,18.0731,42.8295,FALSE,
+276,ماسل الحمره,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Extention to Majami' al-Hadb,TPA,21.7567,43.8818,FALSE,
+277,الخـرار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Mandaq Governorate,,,20.2173,41.264,FALSE,
+278,وادي بيش,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Al-Rayth Governorate,Imam Faisal bin Turki,TPA-MPA,17.6657,42.6576,FALSE,
+279,العشة,,,,,,,Asir,Dhahran Al-Janoub Governorate,Murtafa'at Najran,TPA,17.556,43.6121,FALSE,
+280,مزوى,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,As-sawadah/Al-hasat,TPA,23.25,44.65,FALSE,
+281,السدرية (أم نخلة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,,,23.7419,45.1514,FALSE,
+282,جزيرة الجريد,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,,,27.1994,49.9568,FALSE,
+283,وتده,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Simira Governorate,,,26.2714,42.0866,FALSE,
+284,ظهر حبة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,King Slaman Royal Reserve,TPA,27.4869,41.3877,TRUE,W247
+285,عليب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Hajrah Governorate,,,20.1457,41.0665,FALSE,
+286,بحيرة طرفاء (سدوس),,F - Freshwater,F2 Lakes biome,F2.5 Ephemeral freshwater lakes,Inland Wetlands,Ts,Riyadh,Huraymila Governorate,Tuwaiq,TPA,25.0662,46.1757,TRUE,W444
+287,السلامة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.9846,43.8677,FALSE,
+288,جبال الدبغ,,F - Freshwater,F1 Rivers and streams biome,F1.4 Seasonal upland streams,Inland Wetlands,N,Tabuk,Al-Wajh Governorate,NEOM,TPA-MPA,27.8627,35.7402,FALSE,
+289,أبو هشيم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.1441,40.4397,FALSE,
+290,شيبانة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,,,19.5888,41.9277,FALSE,
+291,جزيرة كاران (قران),,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,Gulf Islands Wildlife Sanctuary,MPA,27.7196,49.8252,FALSE,
+292,آل ثابت,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Dhahran Al-Janoub Governorate,Imam Faisal bin Turki,TPA-MPA,17.7592,43.4703,TRUE,W165
+293,الأجفر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Baqa'a Governorate,,,27.5081,43.0367,FALSE,
+294,وادي طريف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.3553,42.0908,FALSE,
+295,الصـر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.3718,41.4362,TRUE,W327
+296,عنان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,23.8328,45.2031,FALSE,
+297,القفيل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,,,27.1081,42.4746,FALSE,
+298,جبل كدمبل,,F - Freshwater,F1 Rivers and streams biome,F1.4 Seasonal upland streams,Inland Wetlands,N,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,17.8917,41.6922,FALSE,
+299,العريشين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,Jabal Uthrub / Al-Balas,TPA,19.7974,41.707,FALSE,
+300,كورنيش جدة الجنوبي,,M - Marine,M1 Marine shelf biome,,Marine/Coastal Wetlands,I,Makkah,Jeddah Governorate,,,21.3706,39.1663,FALSE,
+301,وادي المرواني,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Khulais Governorate,Wadi Murwani / Jabal ash-shamansir,TPA,22.1798,39.5712,FALSE,
+302,وادي داماء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.6892,40.8936,FALSE,
+303,آل بسام,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,18.0354,43.1886,TRUE,W185
+304,وادي الحشرج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.9214,43.8182,TRUE,W478
+305,وادي الحج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Najran Governorate,,,17.5693,44.187,FALSE,
+306,وادي رابغ,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Rabigh Governorate,,,22.8216,39.376,FALSE,
+307,سد داف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.0767,43.2355,TRUE,W179
+308,العقـدة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,18.2804,42.8648,FALSE,
+309,وادي شغب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,27.2933,36.4965,FALSE,
+310,وادي اباد (المشيريف),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Aqiq Governorate,,,20.2345,41.673,FALSE,
+311,وادي ليه (السداد),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.2178,40.4552,TRUE,W606
+312,الرشيد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.2599,43.2309,FALSE,
+313,دغيبجة,,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,R,Makkah,Al-Muwayh Governorate,,,22.5598,41.3821,TRUE,W612
+314,شلال الدهناء,,,,,,,Asir,Tanumah Governorate,Imam Faisal bin Turki,TPA-MPA,18.9167,42.2,FALSE,
+315,وادي مطارة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,17.741,43.6964,FALSE,
+316,المرير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Sakaka Governorate,,,30.0475,39.9287,FALSE,
+317,العوشقي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,30.9,40.854,FALSE,
+318,شعيب الغدير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Shaqra Governorate,,,25.2294,45.2266,TRUE,W452
+319,عيون وادي رابغ,,F - Freshwater,,,Inland Wetlands,Y,Makkah,Rabigh Governorate,,,22.8178,39.4397,FALSE,
+320,وادي عفال,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Haql Governorate,NEOM,TPA-MPA,28.9421,35.1807,FALSE,
+321,سليم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,,,26.6525,41.5045,FALSE,
+322,النحيتة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,,6,Madinah,Al-Hanakiyah Governorate,,,25.214,40.375,FALSE,
+323,كرا القوامه,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Turbah Governorate,,,20.7333,41.6956,FALSE,
+324,معداه (الجنش),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.2074,41.3328,FALSE,
+325,المراغة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Ahad Rafidah Governorate,,,18.1625,42.7976,FALSE,
+326,الدهناء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Tanumah Governorate,Imam Faisal bin Turki,TPA-MPA,18.9088,42.2083,FALSE,
+327,وادي السليم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Muwayh Governorate,,,22.5758,41.3495,TRUE,W616
+328,غالبة (الغر),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Tanumah Governorate,Imam Faisal bin Turki,TPA-MPA,19.0395,42.2149,FALSE,
+329,عقدة (رميض),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5325,41.5957,TRUE,W335
+330,آل درهم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.9939,43.1751,FALSE,
+331,سروم الحرجة,,F - Freshwater,F3 Artificial fresh waters biome,,,,Asir,Al-Harja Governorate,,,17.9035,43.4709,TRUE,W168
+332,ريع تقريب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.8835,42.0414,FALSE,
+333,وادي فيحان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Rafha Governorate,Imam Turki bin Abdullah Royal Reserve,TPA,29.5515,43.3989,TRUE,W227
+334,وادي النجد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,26.8185,37.0256,FALSE,
+335,وادي بريمان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Jeddah Governorate,,,21.6458,39.2531,FALSE,
+336,روض بن هادي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Hait Governorate,,,26.1902,40.5024,TRUE,W287
+337,حم-حجر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Rabigh Governorate,,,22.9492,39.7752,FALSE,
+338,تربة العالي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Turbah Governorate,,,21.0133,41.5046,TRUE,W620
+339,الحفاة (آل زيان),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.5365,42.3945,FALSE,
+340,شلالات تنومة - موقع خاطئ الإحداثيات,,F - Freshwater,F1 Rivers and streams biome,F1.4 Seasonal upland streams,Inland Wetlands,N,Asir,Tanumah Governorate,Imam Faisal bin Turki,TPA-MPA,18.9434,42.1837,FALSE,
+341,ظرك,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Mandaq Governorate,,,20.1887,41.2909,FALSE,
+342,وادي روضان السليل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,18.5806,42.8165,FALSE,
+343,وادي ترج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Tanumah Governorate,Imam Faisal bin Turki,TPA-MPA,19.0398,42.215,FALSE,
+344,صبح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.6774,42.3318,FALSE,
+345,وادي حلي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Qunfudhah Governorate,Imam Faisal bin Turki,TPA-MPA,18.7678,41.5738,FALSE,
+346,فوهة الوعبة (مقلع طمية),,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,Ss,Makkah,Al-Muwayh Governorate,Maqla' Timiyah / Harrat Kishb,TPA,22.9014,41.139,FALSE,
+347,الرويع,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,,,26.9604,41.084,TRUE,W312
+348,جزيرة أبو علي,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,Jubail Marine Area,TPA-MPA,27.3263,49.493,FALSE,
+349,وادي الكر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,26.642,36.9572,FALSE,
+350,وادي أبا القور,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,30.7699,41.4776,FALSE,
+351,الرتيق (شعيب الهضب),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,King Slaman Royal Reserve,TPA,27.3067,41.2775,TRUE,W344
+352,وادي طابا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,27.0177,42.1024,FALSE,
+353,الملك فهد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Bisha Governorate,Imam Faisal bin Turki,TPA-MPA,19.6964,42.4871,FALSE,
+354,الخالة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.8269,41.631,FALSE,
+355,أثيثية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Marat Governorate,,,25.1578,45.3681,TRUE,W459
+356,وادي الضحيان (وادي العامر، خيرة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Bani Hasan Governorate,,,20.0756,41.3856,FALSE,
+357,الأخوان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,26.5131,45.3396,FALSE,
+358,الغائل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Dhahran Al-Janoub Governorate,Imam Faisal bin Turki,TPA-MPA,17.6775,43.3467,TRUE,W159
+359,القبضة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,3,Asir,Dhahran Al-Janoub Governorate,,,17.6347,43.5259,TRUE,W162
+360,وادي تعشر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Samtah Governorate,,,16.5445,42.8191,TRUE,W065
+361,تهلل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.4037,42.4,FALSE,
+362,الأخضر آل مسفر (الوادي الأخضر),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.5909,42.4731,FALSE,
+363,عقلة الصقور,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Uqlat As Suqur Governorate,,,25.8476,42.1064,FALSE,
+364,المرزوق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.9326,41.6066,FALSE,
+365,تمرة الأيمن,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Sulayyil Governorate,,,20.3443,45.3734,FALSE,
+366,مشار الشمالي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5709,41.6035,TRUE,W322
+367,أم الدوم (وادي ضري),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Muwayh Governorate,,,22.6526,41.3365,TRUE,W613
+368,تندحة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,18.3127,42.8768,FALSE,
+369,وادي حنيفة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Riyadh Governorate,,,24.6578,46.6089,TRUE,W402
+370,تلاع الجنوبي؟,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Tabuk Governorate,,,28.2156,36.6245,FALSE,
+371,ثمالة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.12,40.5051,TRUE,W315
+372,شعيرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.5098,41.0291,FALSE,
+373,المضـة (الغضاه),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Tarib Governorate,,,18.7877,43.2106,FALSE,
+374,مغورة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Al-Dayer Governorate,,,17.3322,43.2555,FALSE,
+375,التمريه,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.6632,45.9068,FALSE,
+376,وادي تريمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Habouna Governorate,,,17.8933,44.0945,TRUE,W486
+377,الربيـق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Muznib Governorate,,,25.4201,43.8477,FALSE,
+378,الحائر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Riyadh Governorate,,,24.4198,46.8135,TRUE,W386
+379,الزهرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.9421,43.2261,FALSE,
+380,تبالة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Bisha Governorate,,,19.9547,42.1455,FALSE,
+381,أوثـال,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,21.0861,40.6655,TRUE,W594
+382,حديجة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Dawadmi Governorate,Hima Dariyah,TPA,24.5478,43.249,FALSE,
+383,وادي المحالية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.838,41.6377,FALSE,
+384,دوحة الدافي,,,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,Jubail Marine Area,TPA-MPA,27.2254,49.4249,FALSE,
+385,بحيرة أم حزم,,F - Freshwater,F2 Lakes biome,F2.1 Large permanent freshwater lakes,Inland Wetlands,R,Al-Qassim,Al-Shamasiya Governorate,,,25.8286,44.6412,FALSE,
+386,وادي ثماء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,,,19.5223,41.9819,FALSE,
+387,سقف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,,,26.9657,41.0049,TRUE,W304
+388,الجرفية,,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,R,Al-Qassim,Dariyah Governorate,Nufud Al urayq,TPA,24.6027,42.5052,FALSE,
+389,عصام,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,5,Riyadh,Al-Dawadmi Governorate,,,24.7204,43.6104,FALSE,
+390,الوسيعة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Ghat Governorate,,,25.9867,45.0146,FALSE,
+391,وسانب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Muhayil Asir Governorate,Imam Faisal bin Turki,TPA-MPA,18.3579,42.2422,FALSE,
+392,التمريات,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Sakaka Governorate,,,30.5213,40.3414,FALSE,
+393,بني عمرو,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,,,19.4122,42.0557,FALSE,
+394,العلب (الدرعية),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.7745,46.5314,FALSE,
+395,خضار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.1553,43.1878,FALSE,
+396,راده,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,18.2367,42.2055,FALSE,
+397,فرافرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,As-Sulaymi Governorate,,,26.3314,41.3178,FALSE,
+398,الفحيحيل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Thadiq Governorate,,,25.2904,45.9976,TRUE,W439
+399,الغيالين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Ahad Rafidah Governorate,Imam Faisal bin Turki,TPA-MPA,18.0559,42.9516,FALSE,
+400,القاصد (راجح),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5162,41.5799,TRUE,W329
+401,القلتة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,24.0537,45.0146,FALSE,
+402,وادي ضمد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Al-Eidabi Governorate,,,17.1986,42.9889,TRUE,W059
+403,جدة (الوسطى) شمال الميناء,,MT - Marine–Terrestrial (transitional realms),MT3 Anthropogenic shorelines biome,MT3.1 Artificial shores,Human-made wetlands,6,Makkah,Jeddah Governorate,,,21.5015,39.1742,FALSE,
+404,أبو حنك,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.1329,40.3725,FALSE,
+405,خور عمق,,MFT - Marine–Freshwater–Terrestrial (transitional realms),MFT1 Brackish tidal systems biome,MFT1.2 Intertidal forests and shrublands,Marine/Coastal Wetlands,I,Asir,Al-Birk Governorate,Imam Faisal bin Turki,TPA-MPA,18.4448,41.4475,FALSE,
+406,حوطة سدير(الأمالح),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.5894,45.587,FALSE,
+407,هدادة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,Murtafa'at Najran,TPA,17.5952,43.7314,TRUE,W473
+408,الدحل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,,,21.1253,43.7961,FALSE,
+409,أم الرجلين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.8477,41.653,FALSE,
+410,ضرماء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Durma Governorate,Tuwaiq,TPA,24.6759,46.1111,TRUE,W453
+411,محلاة عرعرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,Imam Faisal bin Turki,TPA-MPA,17.9316,43.2867,TRUE,W171
+412,عوص,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.3193,42.1213,FALSE,
+413,العيينة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.944,46.3465,FALSE,
+414,الجن,,,,,Inland Wetlands,R,Al-Qassim,Al-Rass Governorate,Hima Dariyah,TPA,25.3488,43.5751,FALSE,
+415,الحريقة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.7578,46.5276,FALSE,
+416,الهويدى (العقيلة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,,,27.0726,41.3408,TRUE,W309
+417,وادي ضبعان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Tabuk Governorate,,,28.2422,36.596,FALSE,
+418,عتود تهامة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,17.8996,42.4727,FALSE,
+419,فيضة المسلح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,22.4785,40.7333,FALSE,
+420,روام,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,18.3297,42.0929,FALSE,
+421,وادي شوان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Kamil Governorate,Wadi Murwani / Jabal ash-shamansir,TPA,22.4832,40.0169,FALSE,
+422,القريحاء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.1108,43.1427,FALSE,
+423,أبو خضاعة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Ahad Rafidah Governorate,,,18.2085,42.8973,FALSE,
+424,جبل مصودعة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Riyadh Al-Khobara Governorate,,,26.3179,42.2974,FALSE,
+425,الفوارة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Buraydah Governorate,,,26.1948,42.7291,FALSE,
+426,بحيرة الضلفعة,,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,R,Al-Qassim,Al-Bukayriyah Governorate,,,26.3042,43.7063,FALSE,
+427,الرياس,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Dammam Governorate,,,26.5805,49.735,FALSE,
+428,المذنب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Muznib Governorate,,,25.8227,44.1892,FALSE,
+429,السليمي الشمالي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,As-Sulaymi Governorate,,,26.3081,41.3618,FALSE,
+430,شري,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Bariq Governorate,Imam Faisal bin Turki,TPA-MPA,18.9823,41.9113,FALSE,
+431,آل عيفة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,Imam Faisal bin Turki,TPA-MPA,17.7908,43.4177,TRUE,W166
+432,الأرطاوية (الملك عبدالله),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,26.4552,45.2999,FALSE,
+433,زقـط,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.8417,41.579,FALSE,
+434,وادي فاطمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Jumum Governorate,,,21.7247,39.8284,TRUE,W588
+435,الكان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.7475,41.5398,FALSE,
+436,ابا الرماح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Nabhaniyah Governorate,Al-banat/wadi ar-rimah,TPA,25.4932,42.81,FALSE,
+437,عتود الخميس,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,18.2604,42.7159,FALSE,
+438,بحيرات أم الحيش (عروق المعترضة),,F - Freshwater,F2 Lakes biome,F2.8 Artesian springs and oases,Inland Wetlands,Zg,Eastern Province,Al-Udayd Governorate,Al-'Uruq al-Mu'taridah,TPA,20.7088,54.7282,FALSE,
+439,مخضوب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Yadamah Governorate,Wadi al-Hizmah / Wadi Tathlith,TPA,18.4532,44.0936,FALSE,
+440,زهرة بني بشر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.942,43.226,TRUE,W188
+441,الوسيطاء (وسيطاء الحفن),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.7933,41.7337,FALSE,
+442,القصيباء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.0923,40.5777,TRUE,W591
+443,وادي أرنما,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Bisha Governorate,,,19.5044,42.1852,FALSE,
+444,الحرجة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,Imam Faisal bin Turki,TPA-MPA,17.9157,43.3321,TRUE,W153
+445,وادي العلا (وادي الخالص),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Ula Governorate,,,26.6145,37.9145,FALSE,
+446,القرية,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Buqayq Governorate,Salwa,TPA-MPA,25.9683,50.0542,FALSE,
+447,غمرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Simira Governorate,,,26.5586,42.312,FALSE,
+448,سروم (النماص، آل برياع),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.1401,42.1926,FALSE,
+449,نقبين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.6208,41.6141,FALSE,
+450,الغرابة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Arar Governorate,,,30.8778,40.8359,FALSE,
+451,الحمادة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,26.5574,45.2815,FALSE,
+452,اللصب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.1662,40.4867,TRUE,W592
+453,وادي كتام,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Dhahran Al-Janoub Governorate,Murtafa'at Najran,TPA,17.5864,43.5427,TRUE,W172
+454,وادي الصدر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Bani Hasan Governorate,,,20.1269,41.358,FALSE,
+455,ثراد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,20.1575,41.7215,FALSE,
+456,وادي سحاب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Aflaj Governorate,,,22.3245,46.6819,FALSE,
+457,بولان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Extention to Majami' al-Hadb,TPA,21.5427,44.035,FALSE,
+458,عشران,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,,6,Asir,Abha Governorate,,,18.2691,42.4379,FALSE,
+459,وادي عيوج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Rafha Governorate,,,29.7892,43.0588,TRUE,W226
+460,المحزمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.1347,43.1059,FALSE,
+461,وادي كلاخ,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.2627,40.7828,TRUE,W605
+462,الحنابج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Afif Governorate,,,23.9918,43.3323,FALSE,
+463,حجيلاء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,23.8514,45.3963,FALSE,
+464,الغـاب (الخليل),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,,,24.6353,39.5162,FALSE,
+465,النعامة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Extention to Majami' al-Hadb,TPA,21.3942,44.1099,FALSE,
+466,التوفيق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,,Makkah,Jeddah Governorate,,,21.5748,39.2579,FALSE,
+467,الشقة,,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,P,Al-Qassim,Buraydah Governorate,,,26.3911,43.8042,FALSE,
+468,الحليفة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Hait Governorate,,,25.9175,40.7601,FALSE,
+469,عريعرة الجنوبي 1,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Zulfi Governorate,,,26.337,44.8446,FALSE,
+470,أم الخباره,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Samtah Governorate,,,16.7046,43.1399,FALSE,
+471,حسوة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,18.2042,42.315,FALSE,
+472,عضيدان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Ghat Governorate,,,26.0706,44.9669,FALSE,
+473,الحمر,,MT - Marine–Terrestrial (transitional realms),MT1 Shoreline systems biome,MT1.2 Muddy shores,Marine/Coastal Wetlands,G,Eastern Province,Al-Udayd Governorate,,,23.8178,51.452,TRUE,W279
+474,الفوهة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,,,19.7481,41.9844,FALSE,
+475,خرص,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.9077,42.3194,FALSE,
+476,المزيريعية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.7816,46.3366,FALSE,
+477,الفيض,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,,,17.9992,43.4287,TRUE,W161
+478,السودة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.2362,42.4132,FALSE,
+479,المستجدة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.7265,41.5008,FALSE,
+480,بني بكر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,Imam Faisal bin Turki,TPA-MPA,19.1044,42.1433,FALSE,
+481,شعب شداد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,,,19.5665,41.8971,FALSE,
+482,ثار,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Thar Governorate,,,17.9788,44.3542,FALSE,
+483,حجلا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,18.2958,42.6545,FALSE,
+484,الصلحانية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Mahd Governorate,,,22.8633,40.4595,FALSE,
+485,الحريق بالوشم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Shaqra Governorate,,,25.4809,45.38,FALSE,
+486,عيون الأفلاج,,F - Freshwater,F2 Lakes biome,,Human-made wetlands,Zk(b),Riyadh,Al-Aflaj Governorate,,,22.1683,46.7074,FALSE,
+487,وادي مخش,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Thar Governorate,,,18.2077,44.4583,TRUE,W480
+488,العليا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.827,41.4691,FALSE,
+489,الحليـة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.8149,41.6208,FALSE,
+490,باعج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Ghat Governorate,,,26.0207,45.0181,FALSE,
+491,طليحة الشرف (روضة بن نوره),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.4467,43.3717,FALSE,
+492,وادي الأديرع (الغرايب),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,,,27.3674,41.5834,TRUE,W337
+493,النجيل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,Jibal Wirqan / Idqis/as-Suddah,TPA,23.8864,39.3183,FALSE,
+494,النستق الجنوبي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,23.9949,45.0123,FALSE,
+495,مرات (كافت),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Marat Governorate,,,25.0495,45.4673,TRUE,W460
+496,وادي قوس 3,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Jeddah Governorate,,,21.4975,39.3083,FALSE,
+497,حريملاء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Huraymila Governorate,Tuwaiq,TPA,25.0993,46.0811,TRUE,W445
+498,الشحمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,King Abdul-Aziz Royal Reserve,TPA,26.1116,45.8078,FALSE,
+499,قنونا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Ardiyat Governorate,,,19.2554,41.5591,FALSE,
+500,العفج,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,,,23.5635,45.6168,FALSE,
+501,جزيل,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,23.9804,45.1198,FALSE,
+502,وادي البجيدي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Makkah Al-Mukarramah Governorate,,,21.5092,40.138,TRUE,W585
+503,المعترضة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.8681,41.4877,FALSE,
+504,جزيرة حرقوص,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,,,27.9351,49.685,FALSE,
+505,مدهاس,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.2222,41.2742,FALSE,
+506,الفقاع,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,18.0125,43.2458,FALSE,
+507,النحرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.9931,43.2022,TRUE,W184
+508,شراقب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,Imam Faisal bin Turki,TPA-MPA,17.882,43.3505,TRUE,W169
+509,المجمعة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.8636,45.2833,FALSE,
+510,ريـم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,18.2359,42.1785,FALSE,
+511,دخنة (وادي درعه),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Rass Governorate,,,25.3377,43.6019,FALSE,
+512,وسمي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5091,41.5795,TRUE,W338
+513,المـرباة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,Jabal Uthrub / Al-Balas,TPA,19.8356,41.6725,FALSE,
+514,وادي نعام,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Tabuk Governorate,,,28.1338,36.6873,FALSE,
+515,الصفرات,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Thadiq Governorate,,,25.2752,46.0251,TRUE,W436
+516,وادي طلال,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,24.6481,41.9597,FALSE,
+517,طبب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,Imam Faisal bin Turki,TPA-MPA,18.3675,42.3619,FALSE,
+518,عقلة بن جبرين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,,,27.0771,41.2758,TRUE,W310
+519,وادي نعوان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Thar Governorate,,,18.223,44.33,FALSE,
+520,تلاع الأوسط؟ (رجوم شوهر),,,,,,,Tabuk,Tabuk Governorate,,,28.2424,36.5968,FALSE,
+521,المظلمات (مشنية),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Mandaq Governorate,,,20.174,41.3169,FALSE,
+522,وادي دغيج (بريمان الجديد),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Jumum Governorate,,,21.6656,39.2548,FALSE,
+523,حصيدة الشرقية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Al-Qurayyat Governorate,King Slaman Royal Reserve,TPA,31.2455,37.3517,FALSE,
+524,مشار الجنوبي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,King Slaman Royal Reserve,TPA,27.5599,41.6061,TRUE,W321
+525,المطلاع الأيمن,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Nabhaniyah Governorate,Al-banat/wadi ar-rimah,TPA,25.8485,43.0152,FALSE,
+526,اللاحجة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.9178,41.5918,FALSE,
+527,غابات مانجروف الشقيق,,MFT - Marine–Freshwater–Terrestrial (transitional realms),MFT1 Brackish tidal systems biome,MFT1.2 Intertidal forests and shrublands,Marine/Coastal Wetlands,I,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,17.8053,41.8712,FALSE,
+528,القويعية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,24.0406,45.2317,FALSE,
+529,قـاع حظوظـا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,,,24.4205,39.9807,FALSE,
+530,أم الرخم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,As-sawadah/Al-hasat,TPA,23.2957,44.5992,FALSE,
+531,الذيبية (وادي الباطن),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Eastern Province,Hafar Al-Batin Governorate,,,28.0947,45.6504,FALSE,
+532,وادي الليث,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Lith Governorate,,,20.5098,40.4775,FALSE,
+533,الكشرية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Hail Governorate,,,27.494,41.621,FALSE,
+534,المشقر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.8583,45.2757,FALSE,
+535,النفيشي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,27.122,42.2735,FALSE,
+536,حوطة بني تميم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Bin Tamim Governorate,,,23.5238,46.7916,FALSE,
+537,طريف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Northern Borders,Tarif Governorate,King Slaman Royal Reserve,TPA,31.6109,38.5214,FALSE,
+538,الصفاح,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Thar Governorate,Wadi al-Hizmah / Wadi Tathlith,TPA,18.3123,43.8529,TRUE,W482
+539,الأرطاوية القديم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,26.5034,45.3344,FALSE,
+540,الضحياء,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.2414,40.3462,TRUE,W589
+541,احامر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.2504,40.4215,FALSE,
+542,وادي النظر (ثريبان),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Ardiyat Governorate,,,19.4595,41.8425,FALSE,
+543,الجحافين,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.8414,41.6422,FALSE,
+544,الحليفه المساعد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Marat Governorate,,,25.1266,45.3717,TRUE,W457
+545,سبيحة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.3375,41.304,FALSE,
+546,العظيم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Simira Governorate,,,26.5442,42.3792,FALSE,
+547,بيدة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.1962,41.402,FALSE,
+548,وادي خضيران,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Badr Al-Janoub Governorate,,,18.0006,43.8616,TRUE,W472
+549,وادي السيل الكبير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.5898,40.4,TRUE,W601
+550,طاشا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Badr Governorate,,,24.039,38.899,FALSE,
+551,الصهوة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Mawqaq Governorate,King Slaman Royal Reserve,TPA,27.146,41.1755,TRUE,W342
+552,الخنيقية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,24.2733,45.0596,FALSE,
+553,الأحسبة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Makhwah Governorate,,,19.6972,41.3924,FALSE,
+554,حصيده الغربية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Al-Qurayyat Governorate,King Slaman Royal Reserve,TPA,31.4232,37.247,FALSE,
+555,السبعان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.995,41.9432,FALSE,
+556,وادي العياب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Al-Kamil Governorate,Wadi Murwani / Jabal ash-shamansir,TPA,22.4642,40.0488,FALSE,
+557,الوق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,,,18.0136,43.3289,FALSE,
+558,قرضان,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.994,43.1156,TRUE,W190
+559,سيسد,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,Hima Saysad,TPA,21.2933,40.4942,TRUE,W596
+560,ياصب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Taif Governorate,,,21.35,40.3282,FALSE,
+561,يفيف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Balqarn Governorate,,,19.7407,41.9257,FALSE,
+562,غويمض (قاع الظليم),,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,R,Riyadh,Al-Zulfi Governorate,,,26.3219,44.5412,FALSE,
+563,وادي ضقط,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.8416,41.579,FALSE,
+564,وادي حلال,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Habouna Governorate,Murtafa'at Najran,TPA,17.6501,43.8663,TRUE,W487
+565,الجوة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,Imam Faisal bin Turki,TPA-MPA,17.9143,43.249,TRUE,W173
+566,الجحفة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,27.1472,42.3447,FALSE,
+567,الـرمة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Unaizah Governorate,,,26.1999,44.0216,FALSE,
+568,شهبـا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Baha Governorate,,,20.0351,41.4808,FALSE,
+569,الاعيلي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Jawf,Tubarjal Governorate,King Slaman Royal Reserve,TPA,30.5928,38.6336,FALSE,
+570,الصويغية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Ghazalah Governorate,Jabal_salma/jibal Ar-ramman,TPA,26.8151,41.4619,FALSE,
+571,جوف الهجلة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Ahad Rafidah Governorate,,,18.1321,43.0025,FALSE,
+572,العادية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Harja Governorate,Imam Faisal bin Turki,TPA-MPA,17.9588,43.2642,TRUE,W156
+573,وراط,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Shaqra Governorate,,,25.5121,45.5188,FALSE,
+574,يبه,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Majardah Governorate,Imam Faisal bin Turki,TPA-MPA,19.0147,41.6432,FALSE,
+575,المسيرق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Khamis Mushait Governorate,,,19.0483,42.9092,FALSE,
+576,خنقة عروى,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,24.0741,44.9381,FALSE,
+577,غبيرة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Diriyah Governorate,Tuwaiq,TPA,24.7481,46.5443,TRUE,W391
+578,مويسل الحمره,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Extention to Majami' al-Hadb,TPA,21.7608,43.8997,FALSE,
+579,الجزل (الفارعة),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Harrat 'Uwayrid,TPA,27.1786,37.0346,FALSE,
+580,الاجاعدة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.9313,41.5473,FALSE,
+581,حراضة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Aflaj Governorate,Nafud ad-Dahi/Al-Ghayl,TPA,22.7927,46.1995,FALSE,
+582,أبهـا,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.2122,42.4879,FALSE,
+583,عردة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Qura Governorate,,,20.5471,41.2896,FALSE,
+584,جزيرة جنا,,M - Marine,,,Marine/Coastal Wetlands,A,Eastern Province,Al-Jubail Governorate,Gulf Islands Wildlife Sanctuary,MPA,27.3683,49.8973,FALSE,
+585,وادي قرى,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Al-Rayth Governorate,,,17.5112,42.7292,FALSE,
+586,عراعر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Dhahran Al-Janoub Governorate,Imam Faisal bin Turki,TPA-MPA,17.6564,43.4627,TRUE,W170
+587,العاقول,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Madinah Al-Munawwarah Governorate,Hima ash-Shajar,TPA,24.5228,39.7281,FALSE,
+588,آل عاصم,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Abha Governorate,,,18.2916,42.4441,FALSE,
+589,العوص,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,18.2799,42.3336,FALSE,
+590,مليح (بحيرة الركنة),,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,R,Al-Qassim,Dariyah Governorate,,,25.2837,42.5284,FALSE,
+591,بحيرة العوشزية,,F - Freshwater,F2 Lakes biome,F2.7 Ephemeral salt lakes,Inland Wetlands,R,Al-Qassim,Unaizah Governorate,,,26.0391,44.1591,FALSE,
+592,مطي,,MT - Marine–Terrestrial (transitional realms),MT1 Shoreline systems biome,MT1.2 Muddy shores,Marine/Coastal Wetlands,G,Eastern Province,Al-Udayd Governorate,,,23.6853,51.8451,TRUE,W281
+593,وادي العطاء (الصماء),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.7319,40.8702,FALSE,
+594,الماوية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Shanan Governorate,Jabal_salma/jibal Ar-ramman,TPA,27.1112,42.2053,FALSE,
+595,البوضة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Majma'ah Governorate,,,25.819,45.6738,FALSE,
+596,عياش (بني عمار),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Namas Governorate,,,19.4121,42.0557,FALSE,
+597,الطلقية,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Baljurashi Governorate,,,19.8552,41.6039,FALSE,
+598,وادي الرامة الحضن,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Maysan Governorate,,,20.5997,41.0906,FALSE,
+599,شواق,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Tabuk,Al-Wajh Governorate,Prince Mohammad bin Salman Royal Reserve,TPA-MPA,27.4797,36.6113,FALSE,
+600,الترعـة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Badr Governorate,,,24.015,39.0498,FALSE,
+601,قبيبان (الشفاء),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,,,23.4836,45.536,FALSE,
+602,الرويقي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Wadi Al-Dawasir Governorate,Al-hadb north and east,TPA,21.6675,44.1664,FALSE,
+603,وعال,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Jizan,Bish Governorate,,,17.4972,42.747,TRUE,W070
+604,وادي نمار,,,,,,,Riyadh,Riyadh Governorate,,,24.5745,46.6863,TRUE,W403
+605,وادي داف,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.1015,43.2081,FALSE,
+606,رابغ (مسند),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Makkah,Rabigh Governorate,,,22.8092,39.0283,FALSE,
+607,هجرة زهير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Sarat Abidah Governorate,,,18.2831,43.2936,FALSE,
+608,الجفير,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Muzahmiyya Governorate,,,23.9859,46.2484,TRUE,W434
+609,قصيباء التدعيمي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Madinah,Al-Hanakiyah Governorate,,,25.0105,40.5073,FALSE,
+610,الدابية (المخروق),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Hail,Al-Hait Governorate,,,25.7521,40.5731,FALSE,
+611,جرب,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Baha,Al-Aqiq Governorate,,,20.4184,41.8503,FALSE,
+612,الرشيدي,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Ar-Rayn Governorate,,,23.7145,45.4507,FALSE,
+613,خليج جيزان,,MT - Marine–Terrestrial (transitional realms),MT3 Anthropogenic shorelines biome,MT3.1 Artificial shores,Marine/Coastal Wetlands,D,Jizan,Jazan Governorate,,,16.9172,42.5448,TRUE,W063
+614,محيرقة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Riyadh,Al-Quwayiyah Governorate,,,23.9513,45.0758,FALSE,
+615,ناصفة ابان الأحمر,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Al-Qassim,Al-Nabhaniyah Governorate,,,25.4379,42.7136,FALSE,
+616,بني قيس,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Al-Majardah Governorate,Imam Faisal bin Turki,TPA-MPA,19.1447,42.034,FALSE,
+617,شاطئ الوجه,,M - Marine,M1 Marine shelf biome,M1.3 Photic coral reefs,Marine/Coastal Wetlands,C,Tabuk,Al-Wajh Governorate,,,26.166,36.4864,FALSE,
+618,رأس الغار,,MFT - Marine–Freshwater–Terrestrial (transitional realms),MFT1 Brackish tidal systems biome,MFT1.3 Coastal saltmarshes and reedbeds,Marine/Coastal Wetlands,H,Eastern Province,Ras Tanura Governorate,,,26.8483,49.8775,FALSE,
+619,افيض الطلحة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Dhahran Al-Janoub Governorate,,,17.7842,43.51,TRUE,W152
+620,وادي لجب,,F - Freshwater,F1 Rivers and streams biome,F1.4 Seasonal upland streams,Inland Wetlands,N,Jizan,Al-Rayth Governorate,Imam Faisal bin Turki,TPA-MPA,17.6042,42.9258,TRUE,W055
+621,وادي نجران (المضيق),,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Najran,Najran Governorate,Murtafa'at Najran,TPA,17.408,44.0143,TRUE,W490
+622,العاينة,,F - Freshwater,F3 Artificial fresh waters biome,F3.1 Large reservoirs,Human-made wetlands,6,Asir,Rijal Alma Governorate,Imam Faisal bin Turki,TPA-MPA,18.0533,42.2683,FALSE,

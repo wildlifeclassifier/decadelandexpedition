@@ -1,0 +1,13 @@
+code,eco_name,n_cells,n_sample,n_sample_with_data,n_sample_with_field,n_cells_with_data,n_records,n_species,n_expected,n_expected_found,n_sp_Amphibians,n_sp_Birds,n_sp_Fish,n_sp_Invertebrates,n_sp_Mammals,n_sp_Reptiles,n_sp_Other,n_sp_src_birds,n_sp_src_ncw,n_sp_src_partner,n_sp_src_ranger,n_sp_src_wetlands,n_rec_birds,n_rec_ncw,n_rec_partner,n_rec_ranger,n_rec_wetlands,pct_sample_with_data,pct_expected_found
+ARAB,Arabian desert,556,159,103,88,361,16812,657,163,104,6,273,6,247,69,56,0,216,270,187,133,290,6036,1643,3489,3765,1879,64.8,63.8
+EMED,Eastern Mediterranean conifer-broadleaf forests,565,158,10,2,37,265,64,107,19,1,30,0,14,15,4,0,23,13,41,0,0,31,26,208,0,0,6.3,17.8
+ESCP,Southwest Arabian Escarpment shrublands and woodlands,521,159,102,49,364,8676,629,156,92,8,281,5,252,56,27,0,257,262,0,12,278,5840,1972,0,95,769,64.2,59
+GULF,Arabian Gulf coastal plain desert,555,158,31,16,112,2025,256,85,25,1,191,6,25,30,3,0,160,145,0,22,0,1255,667,0,103,0,19.6,29.4
+MONT,Southwest Arabian montane woodlands and grasslands,527,158,62,17,244,2434,391,137,62,7,141,1,185,44,13,0,121,115,0,11,225,732,598,0,230,874,39.2,45.3
+NAHS,North Arabian highland shrublands,557,159,11,8,43,869,139,93,17,2,71,0,46,14,6,0,62,9,0,0,96,253,17,0,0,599,6.9,18.3
+NARB,North Arabian desert,572,158,72,62,293,4043,255,111,41,1,192,1,23,34,4,0,185,74,26,0,21,3740,226,37,0,40,45.6,36.9
+REDS,Red Sea Arabian desert shrublands,548,158,107,69,394,31130,700,167,104,5,280,8,287,68,51,1,185,267,329,11,297,3498,1346,24833,31,1422,67.7,62.3
+SAND,Arabian sand desert,533,157,45,29,119,1864,275,123,51,3,156,1,58,35,22,0,114,120,0,44,69,917,280,0,575,92,28.7,41.5
+SWCX,Southwest Arabian coastal xeric shrublands,542,158,69,18,234,7817,543,125,56,4,250,12,209,45,23,0,190,279,0,82,262,2044,2282,0,2724,767,43.7,44.8
+SWHX,Southwest Arabian highland xeric scrub,520,158,24,18,41,1432,279,84,17,2,93,1,159,11,13,0,40,12,0,0,257,87,22,0,0,1323,15.2,20.2
+WETL,Terrestrial Wetlands,567,158,13,8,38,461,188,176,25,1,137,1,32,16,1,0,118,78,0,3,10,322,123,0,4,12,8.2,14.2

@@ -1,0 +1,1324 @@
+species,taxon_group,common_name,n_records,n_sources,sources,has_range,iucn_global
+Bufotes sitibundus,Amphibians,ضفدع البوفوت الأخضر,6,2,ncw;ranger,TRUE,LC
+Duttaphrynus dhufarensis,Amphibians,Omantoad,104,3,ncw;partner;wetlands,TRUE,LC
+Euphlyctis ehrenbergii,Amphibians,Ehrenberg’s Skittering Frog,56,3,ncw;ranger;wetlands,TRUE,LC
+Firouzophrynus dhufarensis,Amphibians,Dhofar Toad,1,1,wetlands,FALSE,LC
+Gymnocarpos decander,Amphibians,العضرس,2,1,ranger,FALSE,
+Hyla felixarabica,Amphibians,,20,1,ncw,TRUE,LC
+Pelophylax ridibundus,Amphibians,Marsh Frog,63,2,ncw;wetlands,TRUE,LC
+Sclerophrys arabica,Amphibians,Arabian Toad,302,3,ncw;ranger;wetlands,TRUE,LC
+Sclerophrys tihamica,Amphibians,Balletto's Toad,32,3,ncw;ranger;wetlands,TRUE,LC
+Accipiter brevipes,Birds,,1,1,partner,FALSE,
+Accipiter nisus,Birds,Eurasian Sparrowhawk,97,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Acridotheres ginginianus,Birds,Bank Myna,3,2,birds;wetlands,FALSE,LC
+Acridotheres tristis,Birds,Common Myna,134,3,birds;ncw;wetlands,FALSE,LC
+Acridotheres trstis,Birds,Common Myna,2,1,wetlands,FALSE,LC
+Acrocephalus arundinaceus,Birds,Great Reed Warbler,4,1,birds,FALSE,LC
+Acrocephalus melanopogon,Birds,Moustached Warbler,1,1,birds,FALSE,LC
+Acrocephalus palustris,Birds,Marsh Warbler,7,4,birds;ncw;partner;ranger,FALSE,LC
+Acrocephalus schoenobaenus,Birds,Sedge Warbler,14,3,birds;partner;wetlands,FALSE,LC
+Acrocephalus scirpaceus,Birds,Common Reed-warbler,99,4,birds;ncw;partner;wetlands,FALSE,LC
+Acrocephalus stentoreus,Birds,Clamorous Reed Warbler,56,3,birds;partner;ranger,FALSE,LC
+Actitis hypoleucos,Birds,Common Sandpiper,190,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Aegypius monachus,Birds,Cinereous Vulture,1,1,birds,FALSE,LC
+African stonechat,Birds,Common Stonechat,11,1,birds,FALSE,LC
+Alaemon alaudipes,Birds,Hoopoe lark,940,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Alauda arvensis,Birds,Eurasian Skylark,39,2,birds;ncw,FALSE,LC
+Alaudala rufescens,Birds,Lesser Short-toed Lark,45,2,birds;ncw,FALSE,LC
+Alcedo atthis,Birds,Common Kingfisher,41,3,birds;ncw;partner,FALSE,LC
+Alectoris chukar,Birds,Chukar Partridge,6,1,birds,FALSE,LC
+Alectoris melanocephala,Birds,Arabian Partridge,28,3,birds;partner;wetlands,FALSE,LC
+Alectoris philbyi,Birds,Philby's Partridge,12,1,birds,FALSE,LC
+Ammomanes cinctura,Birds,Bar-tailed Lark,162,4,birds;partner;ranger;wetlands,FALSE,LC
+Ammomanes cincturus,Birds,,4,1,ncw,FALSE,LC
+Ammomanes deserti,Birds,Desert Lark,3102,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Ammoperdix heyi,Birds,Sand Partridge,954,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Anarhynchus alexandrinus,Birds,Kentish Plover,140,3,birds;ncw;wetlands,FALSE,LC
+Anarhynchus asiaticus,Birds,Caspian Plover,3,2,birds;wetlands,FALSE,LC
+Anarhynchus atrifrons,Birds,Tibetan Sand Plover,39,2,birds;ncw,FALSE,LC
+Anarhynchus leschenaultii,Birds,Greater Sand Plover,28,2,birds;wetlands,FALSE,LC
+Anarhynchus mongolus,Birds,Siberian Sand Plover,1,1,wetlands,FALSE,LC
+Anas acuta,Birds,Northern Pintail,12,3,birds;ncw;wetlands,FALSE,LC
+Anas crecca,Birds,Eurasian Teal,5,2,birds;ncw,FALSE,LC
+Anas platyrhynchos,Birds,Mallard,14,3,birds;ncw;wetlands,FALSE,LC
+Anous stolidus,Birds,Brown Noddy,8,2,birds;ncw,FALSE,LC
+Anser anser,Birds,,1,1,ncw,FALSE,LC
+Anthropoides virgo,Birds,,2,1,partner,FALSE,
+Anthus campestris,Birds,Tawny Pipit,87,4,birds;ncw;partner;wetlands,FALSE,LC
+Anthus cervinus,Birds,Red-throated Pipit,37,2,birds;partner,FALSE,LC
+Anthus cinnamomeus,Birds,African Pipit,1,1,birds,FALSE,LC
+Anthus pratensis,Birds,Meadow Pipit,6,1,birds,FALSE,LC
+Anthus richardi,Birds,Richard's Pipit,2,1,birds,FALSE,LC
+Anthus similis,Birds,Long-billed Pipit,24,2,birds;wetlands,FALSE,LC
+Anthus spinoletta,Birds,Water Pipit,4,1,birds,FALSE,LC
+Anthus trivialis,Birds,Tree Pipit,51,2,birds;partner,FALSE,LC
+Apus affinis,Birds,Little Swift,109,2,birds;wetlands,FALSE,LC
+Apus apus,Birds,Common Swift,131,3,birds;ncw;wetlands,FALSE,LC
+Apus pallidus,Birds,Pallid Swift,106,3,birds;partner;wetlands,FALSE,LC
+Aquila chrysaetos,Birds,Golden Eagle,7,3,birds;ncw;ranger,FALSE,LC
+Aquila fasciata,Birds,Bonelli's Eagle,48,2,birds;partner,FALSE,LC
+Aquila heliaca,Birds,Eastern Imperial Eagle,18,1,birds,FALSE,VU
+Aquila nipalensis,Birds,Steppe Eagle,174,5,birds;ncw;partner;ranger;wetlands,FALSE,EN
+Aquila verreauxii,Birds,Verreaux's eagle,8,1,birds,FALSE,LC
+Ardea alba,Birds,Great White Egret,54,4,birds;ncw;ranger;wetlands,FALSE,LC
+Ardea cinerea,Birds,Grey Heron,224,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Ardea cinereal,Birds,البلشون الرمادي,15,2,ncw;ranger,FALSE,
+Ardea goliath,Birds,Goliath Heron,38,4,birds;ncw;partner;ranger,FALSE,LC
+Ardea ibis,Birds,Cattle egret,1,1,wetlands,FALSE,LC
+Ardea intermedia,Birds,Medium Egret,1,1,birds,FALSE,LC
+Ardea melanocephala,Birds,,10,1,ncw,FALSE,LC
+Ardea purpurea,Birds,Purple Heron,91,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Ardeola ralloides,Birds,Squacco Heron,105,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Arenaria interpres,Birds,Ruddy Turnstone,196,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Argya squamiceps,Birds,Arabian Babbler,627,4,birds;ncw;partner;wetlands,FALSE,LC
+Asio flammeus,Birds,Short-eared Owl,4,2,birds;partner,FALSE,LC
+Athene noctua,Birds,Little owl,120,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Aythya fuligula,Birds,Tufted Duck,6,3,birds;ncw;wetlands,FALSE,LC
+Aythya nyroca,Birds,Ferruginous Duck,4,2,birds;ncw,FALSE,NT
+Botaurus minutus,Birds,Common Little Bittern,4,2,birds;wetlands,FALSE,LC
+Botaurus stellaris,Birds,Eurasian Bittern,3,2,birds;ncw,FALSE,LC
+Bubo ascalaphus,Birds,Pharoah Eagle-Owl,53,4,birds;ncw;partner;ranger,FALSE,LC
+Bubo bubo,Birds,Eurasian Eagle-owl,1,1,birds,FALSE,LC
+Bubulcus ibis,Birds,Cattle Egret,193,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Bucanetes githagineus,Birds,Trumpeter Finch,265,4,birds;ncw;partner;wetlands,FALSE,LC
+Burhinus oedicnemus,Birds,Eurasian Stone Curlew,2,1,birds,FALSE,LC
+Buteo buteo,Birds,Common Buzzard,30,3,birds;partner;wetlands,FALSE,LC
+Buteo rufinus,Birds,Long-legged Buzzard,134,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Buteo vulpinus,Birds,Steppe Buzzard,164,1,birds,FALSE,LC
+Butorides striata,Birds,Striated Heron,99,4,birds;ncw;partner;ranger,FALSE,LC
+Calandrella brachydactyla,Birds,Greater Short-toed Lark,212,4,birds;ncw;partner;ranger,FALSE,LC
+Calandrella eremica,Birds,Rufous-capped Lark,9,1,wetlands,FALSE,LC
+Calidris alba,Birds,Sanderling,47,3,birds;ncw;partner,FALSE,LC
+Calidris alpina,Birds,Dunlin,170,3,birds;ncw;partner,FALSE,LC
+Calidris falcinellus,Birds,Broad-billed Sandpiper,5,2,birds;ncw,FALSE,LC
+Calidris ferruginea,Birds,Curlew Sandpiper,50,3,birds;ncw;partner,FALSE,LC
+Calidris minuta,Birds,Little Stint,124,4,birds;ncw;partner;wetlands,FALSE,LC
+Calidris pugnax,Birds,Ruff,57,2,birds;ncw,FALSE,LC
+Calidris temminckii,Birds,Temminck's Stint,25,3,birds;ncw;wetlands,FALSE,LC
+Caprimulgus aegyptius,Birds,Egyptian Nightjar,20,3,birds;partner;wetlands,FALSE,LC
+Caprimulgus europaeus,Birds,European Nightjar,3,2,birds;partner,FALSE,LC
+Caprimulgus inornatus,Birds,Plain Nightjar,2,1,wetlands,FALSE,LC
+Caprimulgus nubicus,Birds,Nubian Nightjar,35,4,birds;ncw;partner;wetlands,FALSE,LC
+Carpodacus synoicus,Birds,Sinai Rosefinch,64,2,birds;partner,FALSE,LC
+Carpospiza brachydactyla,Birds,Pale rockfinch,10,3,birds;ncw;wetlands,FALSE,LC
+Cecropis daurica,Birds,Eastern Red-rumped Swallow,20,3,ncw;partner;wetlands,FALSE,LC
+Cecropis rufula,Birds,Red-rumped Swallow,100,1,birds,FALSE,LC
+Centropus superciliosus,Birds,White-browed Coucal,58,4,birds;ncw;ranger;wetlands,FALSE,LC
+Cercomela melanura,Birds,طائر الذيل الأسود,13,2,ncw;ranger,FALSE,LC
+Cercotrichas galactotes,Birds,Rufous-tailed Scrub Robin,117,3,birds;partner;wetlands,FALSE,LC
+Cercotrichas podobe,Birds,Black Scrub Robin,537,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Ceryle rudis,Birds,Pied Kingfisher,4,2,birds;ncw,FALSE,LC
+Cettia cetti,Birds,,1,1,ncw,FALSE,LC
+Charadrius alexandrinus,Birds,الزقزاق الإسكندري,348,3,ncw;partner;ranger,FALSE,LC
+Charadrius asiaticus,Birds,الزقزاق الآسيوي,3,2,ncw;ranger,FALSE,LC
+Charadrius dubius,Birds,Little Ringed Plover,55,2,ncw;wetlands,FALSE,LC
+Charadrius hiaticula,Birds,Common Ringed Plover,263,4,birds;ncw;partner;wetlands,FALSE,LC
+Charadrius leschenaultii,Birds,الزقزاق رملي اللون,179,3,ncw;partner;ranger,FALSE,LC
+Charadrius mongolus,Birds,Siberian Sandplover (lesser),128,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Chlamydotis macqueenii,Birds,الحبارى الآسيوية,2,2,ncw;ranger,FALSE,VU
+Chlidonias hybrida,Birds,Whiskered Tern,33,4,birds;ncw;ranger;wetlands,FALSE,LC
+Chlidonias leucopterus,Birds,White-winged Tern,38,3,birds;ncw;partner,FALSE,LC
+Chlidonias niger,Birds,Black Tern,1,1,birds,FALSE,LC
+Chroicocephalus genei,Birds,Slender-billed Gull,64,2,birds;ncw,FALSE,LC
+Chroicocephalus ridibundus,Birds,Black-headed Gull,18,3,birds;ncw;wetlands,FALSE,LC
+Ciconia abdimii,Birds,Abdim's Stork,8,2,birds;wetlands,FALSE,LC
+Ciconia ciconia,Birds,White Stork,8,2,birds;ncw,FALSE,LC
+Ciconia nigra,Birds,Black Stork,17,4,birds;ncw;partner;ranger,FALSE,LC
+Cinnyricinclus leucogaster,Birds,Violet-backed Starling,49,2,birds;wetlands,FALSE,LC
+Cinnyris habessinicus,Birds,Shining Sunbird,11,2,birds;wetlands,FALSE,LC
+Cinnyris hellmayri,Birds,Arabian Sunbird,304,3,birds;partner;wetlands,FALSE,LC
+Cinnyris metallica,Birds,Nile Valley Sunbird,1,1,wetlands,FALSE,LC
+Cinnyris osea,Birds,Palestine Sunbird,319,4,birds;ncw;partner;wetlands,FALSE,LC
+Circaetus gallicus,Birds,Short-toed Snake Eagle,59,4,birds;ncw;partner;ranger,FALSE,LC
+Circus aeruginosus,Birds,Western Marsh Harrier,257,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Circus cyaneus,Birds,Hen Harrier,3,2,birds;ncw,FALSE,LC
+Circus macrourus,Birds,Pallid Harrier,102,5,birds;ncw;partner;ranger;wetlands,FALSE,NT
+Circus pygargus,Birds,Montagu's Harrier,137,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Cisticola juncidis,Birds,Zitting Cisticola,6,1,birds,FALSE,LC
+Clamator glandarius,Birds,,7,2,ncw;partner,FALSE,LC
+Clamator jacobinus,Birds,Pied Cuckoo (Jacbin Cuchoo),12,3,birds;ncw;wetlands,FALSE,LC
+Clanga clanga,Birds,Greater Spotted Eagle,24,5,birds;ncw;partner;ranger;wetlands,FALSE,VU
+Clanga pomarina,Birds,Lesser Spotted Eagle,11,1,birds,FALSE,LC
+Cleora cinctaria,Birds,عثة الشريط القمري,4,2,ncw;ranger,FALSE,
+Columba arquatrix,Birds,African Olive-pigeon,2,1,birds,FALSE,LC
+Columba livia,Birds,Rock Dove,819,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Columba palumbus,Birds,Common wood pigeon,4,2,birds;wetlands,FALSE,LC
+Convolvulus siculus,Birds,الرخامي,1,1,ranger,FALSE,
+Coracias abyssinicus,Birds,Abyssinian Roller,13,3,birds;ncw;ranger,FALSE,LC
+Coracias garrulus,Birds,European Roller,43,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Corvus corax,Birds,Common Raven,6,1,birds,FALSE,LC
+Corvus rhipidurus,Birds,Fan-tailed Raven,74,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Corvus ruficollis,Birds,Brown-necked Raven,486,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Corvus splendens,Birds,House Crow,70,4,birds;ncw;ranger;wetlands,FALSE,LC
+Coturnix coturnix,Birds,Common Quail,21,3,birds;partner;wetlands,FALSE,LC
+Crex crex,Birds,Corn Crake,6,2,birds;partner,FALSE,LC
+Crithagra menachensis,Birds,Yemen Serin,7,2,birds;wetlands,FALSE,LC
+Crithagra rothschildi,Birds,Arabian Serin,272,3,birds;partner;wetlands,FALSE,LC
+Cuculus canorus,Birds,Common Cuckoo,6,1,birds,FALSE,LC
+Curruca borin,Birds,Garden Warbler,1,1,wetlands,FALSE,LC
+Curruca buryi,Birds,Yemen Warbler,4,1,birds,FALSE,LC
+Curruca cantillans,Birds,Eastern Subalpine Warbler,3,1,birds,FALSE,LC
+Curruca communis,Birds,Common Whitethroat,134,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Curruca crassirostris,Birds,Eastern Orphean Warbler,24,2,birds;partner,FALSE,LC
+Curruca curruca,Birds,Lesser Whitethroat,558,3,birds;partner;wetlands,FALSE,LC
+Curruca leucomelaena,Birds,Arabian Warbler,234,3,birds;partner;wetlands,FALSE,LC
+Curruca melanocephala,Birds,Sardinian Warbler,2,1,birds,FALSE,LC
+Curruca melanothorax,Birds,Cyprus Warbler,1,1,birds,FALSE,LC
+Curruca mystacea,Birds,Menetries's Warbler,84,3,birds;partner;wetlands,FALSE,LC
+Curruca nana,Birds,Asian Desert Warbler,11,1,birds,FALSE,LC
+Curruca nisoria,Birds,Barred Warbler,91,2,birds;partner,FALSE,LC
+Curruca ruppeli,Birds,,1,1,partner,FALSE,
+Cursorius cursor,Birds,Cream-coloured Courser,144,4,birds;ncw;partner;ranger,FALSE,LC
+Cygnus atratus,Birds,,1,1,ncw,FALSE,LC
+Cypsiurus parvus,Birds,African Palm-swift,56,3,birds;ncw;wetlands,FALSE,LC
+Delichon urbicum,Birds,Common House Martin,33,3,birds;partner;wetlands,FALSE,LC
+Dendrocoptes dorae,Birds,Arabian Woodpecker,13,2,birds;wetlands,FALSE,NT
+Dendropicos dorae,Birds,,12,1,partner,FALSE,
+Dromas ardeola,Birds,Crab-plover,217,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Egretta garzetta,Birds,Little Egret,202,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Egretta gularis,Birds,Western Reef Heron,358,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Elanus caeruleus,Birds,Black-winged Kite,52,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Emberiza caesia,Birds,,11,1,partner,FALSE,
+Emberiza calandra,Birds,Corn Bunting,11,1,birds,FALSE,LC
+Emberiza hortulana,Birds,Ortolan Bunting,46,3,birds;partner;wetlands,FALSE,LC
+Emberiza striolata,Birds,Striolated Bunting,464,4,birds;ncw;partner;wetlands,FALSE,LC
+Emberiza tahapisi,Birds,Cinnamon-breasted Bunting,88,2,birds;wetlands,FALSE,LC
+Epomophorus labiatus,Birds,,2,1,ncw,TRUE,LC
+Eremalauda eremodites,Birds,Arabian Lark,105,4,birds;ncw;ranger;wetlands,FALSE,LC
+Eremophila bilopha,Birds,Temminck's Lark,258,2,birds;wetlands,FALSE,LC
+Eremopterix nigriceps,Birds,Black-crowned Sparrow-Lark,169,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Erithacus rubecula,Birds,European Robin,1,1,birds,FALSE,LC
+Estrilda rufibarba,Birds,Arabian Waxbill,35,3,birds;ncw;wetlands,FALSE,LC
+Euodice cantans,Birds,African Silverbill,164,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Euodice malabarica,Birds,Indian Silverbill,48,3,birds;ncw;wetlands,FALSE,LC
+Falco biarmicus,Birds,Lanner Falcon,1,1,birds,FALSE,LC
+Falco concolor,Birds,Sooty Falcon,23,3,birds;ncw;partner,FALSE,EN
+Falco eleonorae,Birds,Eleonora's Falcon,34,4,birds;ncw;partner;ranger,FALSE,LC
+Falco naumanni,Birds,Lesser Kestrel,80,3,birds;partner;wetlands,FALSE,LC
+Falco peregrinus,Birds,Peregrine Falcon,16,3,birds;ncw;partner,FALSE,LC
+Falco subbuteo,Birds,Eurasian Hobby,4,1,birds,FALSE,LC
+Falco tinnunculus,Birds,Common Kestrel,793,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Ficedula albicollis,Birds,Collared Flycatcher,4,2,birds;partner,FALSE,LC
+Ficedula parva,Birds,Red-breasted Flycatcher,5,1,birds,FALSE,LC
+Ficedula semitorquata,Birds,Semicollared Flycatcher,2,1,birds,FALSE,LC
+Fringilla coelebs,Birds,Common Chaffinch,7,1,birds,FALSE,LC
+Fulica atra,Birds,Common Coot,26,3,birds;ncw;wetlands,FALSE,LC
+Fulica cristata,Birds,Red-knobbed Coot,6,2,birds;wetlands,FALSE,LC
+Galerida cristata,Birds,Crested Lark,1246,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Gallinago gallinago,Birds,Common Snipe,23,4,birds;ncw;ranger;wetlands,FALSE,LC
+Gallinula chloropus,Birds,Common Moorhen,76,4,birds;ncw;partner;wetlands,FALSE,LC
+Geater cressted,Birds,,1,1,ncw,FALSE,LC
+Gelochelidon nilotica,Birds,Gull-billed Tern,110,4,birds;ncw;partner;wetlands,FALSE,LC
+Glareola nordmanni,Birds,Black-winged Pratincole,3,1,birds,FALSE,NT
+Glareola pratincola,Birds,Collared Pratincole,29,2,birds;ncw,FALSE,LC
+Gymnoris xanthocollis,Birds,Chestnut-shouldered Bush-sparrow,1,1,birds,FALSE,LC
+Gyps fulvus,Birds,Griffon Vulture,281,3,birds;ncw;partner,FALSE,LC
+Haematopus ostralegus,Birds,Eurasian Oystercatcher,106,5,birds;ncw;partner;ranger;wetlands,FALSE,NT
+Halcyon leucocephala,Birds,Grey headed Kingfisher,30,2,birds;wetlands,FALSE,LC
+Halcyon smyrnensis,Birds,White-throated Kingfisher,6,2,birds;wetlands,FALSE,LC
+Haplophyllum tuberculatum,Birds,الذفراء,1,1,ranger,FALSE,
+Hedydipna metallica,Birds,Nile Valley Sunbird,506,3,birds;ncw;wetlands,FALSE,LC
+Hibiscus vitifolius,Birds,كرش الغراب,1,1,ranger,FALSE,
+Hieraaetus pennatus,Birds,Booted Eagle,60,2,birds;partner,FALSE,LC
+Himantopus himantopus,Birds,Black-winged Stilt,143,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Hippolais icterina,Birds,Icterine Warbler,1,1,birds,FALSE,LC
+Hippolais languida,Birds,Upcher's Warbler,27,4,birds;ncw;partner;wetlands,FALSE,LC
+Hippolais olivetorum,Birds,Olive-tree Warbler,11,1,birds,FALSE,LC
+Hirundo rustica,Birds,Barn Swallow,1109,4,birds;ncw;partner;wetlands,FALSE,LC
+Hydroprogne caspia,Birds,Caspian Tern,230,4,birds;ncw;partner;wetlands,FALSE,LC
+Hypocolius ampelinus,Birds,Grey Hypocolius,7,4,birds;ncw;partner;wetlands,FALSE,LC
+Ichthyaetus hemprichii,Birds,Sooty Gull,49,2,birds;wetlands,FALSE,LC
+Ichthyaetus leucophthalmus,Birds,White-eyed Gull,12,1,birds,FALSE,LC
+Iduna pallida,Birds,Olivaceous Warbler,199,3,birds;partner;wetlands,FALSE,LC
+Irania gutturalis,Birds,White-throated Robin,14,1,birds,FALSE,LC
+Ixobrychus minutus,Birds,Little Bittern,7,3,ncw;partner;wetlands,FALSE,LC
+Jynx torquilla,Birds,Eurasian Wryneck,30,2,birds;partner,FALSE,LC
+Lanius collurio,Birds,Red-backed Shrike,284,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Lanius excubitor,Birds,Great Grey Shrike,1121,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Lanius isabellinus,Birds,Isabelline Shrike,139,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Lanius lahtora,Birds,,1,1,ncw,FALSE,
+Lanius meridionalis,Birds,Arabian grey shrike,4,1,wetlands,FALSE,VU
+Lanius minor,Birds,Lesser Grey Shrike,57,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Lanius nubicus,Birds,Masked Shrike,195,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Lanius phoenicuroides,Birds,Turkestan Shrike,25,2,birds;wetlands,FALSE,LC
+Lanius senator,Birds,Woodchat Shrike,150,3,birds;partner;wetlands,FALSE,NT
+Larus armenicus,Birds,Armenian Gull,32,3,birds;ncw;ranger,FALSE,LC
+Larus cachinnans,Birds,Caspian Gull,22,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Larus fuscus,Birds,Lesser Black-backed Gull (Heuglin's),54,4,birds;ncw;partner;ranger,FALSE,LC
+Larus genei,Birds,النورس جيني,124,3,ncw;partner;ranger,FALSE,LC
+Larus hemprichii,Birds,النورس هيمبريشي,365,3,ncw;partner;ranger,FALSE,LC
+Larus ichthyaetus,Birds,النورس الصياد,5,2,ncw;ranger,FALSE,LC
+Larus leucophthalmus,Birds,النورس ذو العين البيضاء,213,3,ncw;partner;ranger,FALSE,LC
+Larus michahellis,Birds,,6,1,ncw,FALSE,LC
+Larus ridibundus,Birds,Black-headed gull,30,4,ncw;partner;ranger;wetlands,FALSE,LC
+Limosa lapponica,Birds,Bar-tailed Godwit,117,3,birds;ncw;partner,FALSE,LC
+Limosa limosa,Birds,Black-tailed Godwit,30,2,birds;ncw,FALSE,LC
+Linaria cannabina,Birds,Eurasian Linnet,1,1,birds,FALSE,LC
+Linaria yemenensis,Birds,Yemen Linnet,21,2,birds;wetlands,FALSE,LC
+Locustella luscinioides,Birds,Savi's Warbler,2,1,birds,FALSE,LC
+Locustella naevia,Birds,Grasshopper Warbler,1,1,birds,FALSE,LC
+Lophoceros nasutus,Birds,African Grey Hornbill,55,3,birds;ncw;wetlands,FALSE,LC
+Luscinia luscinia,Birds,Thrush Nightingale,7,2,birds;partner,FALSE,LC
+Luscinia megarhynchos,Birds,Common Nightingale,4,1,birds,FALSE,LC
+Luscinia svecica,Birds,Bluethroat,5,3,birds;partner;wetlands,FALSE,LC
+Lymnocryptes minimus,Birds,Jack Snipe,2,2,birds;partner,FALSE,LC
+Mareca penelope,Birds,,2,1,ncw,FALSE,LC
+Melanocorypha bimaculata,Birds,Bimaculated Lark,3,1,birds,FALSE,LC
+Melanocorypha calandra,Birds,Calandra Lark,7,1,birds,FALSE,LC
+Melierax metabates,Birds,Dark Chanting-Goshawk,1,1,birds,FALSE,LC
+Merops albicollis,Birds,White-throated Bee-eater,17,3,birds;ncw;wetlands,FALSE,LC
+Merops apiaster,Birds,European Bee-eater,349,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Merops cyanophrys,Birds,Arabian Green Bee-eater,809,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Merops orientalis,Birds,Arabian green bee-eater,9,3,ncw;ranger;wetlands,FALSE,LC
+Merops persicus,Birds,Blue-cheeked Bee-eater,129,3,birds;partner;wetlands,FALSE,LC
+Micronisus gabar,Birds,Gabar Goshawk,3,2,birds;ncw,FALSE,LC
+Milvus migrans,Birds,Black Kite,277,4,birds;ncw;partner;ranger,FALSE,LC
+Monticola rufocinereus,Birds,Little Rock-thrush,14,1,birds,FALSE,LC
+Monticola saxatilis,Birds,Common Rock Thrush,25,3,birds;partner;wetlands,FALSE,LC
+Monticola solitarius,Birds,Blue Rock Thrush,18,3,birds;ncw;wetlands,FALSE,LC
+Motacilla alba,Birds,White Wagtail,116,4,birds;ncw;partner;wetlands,FALSE,LC
+Motacilla cinerea,Birds,Grey Wagtail,56,3,birds;partner;wetlands,FALSE,LC
+Motacilla citreola,Birds,Citrine Wagtail,10,3,birds;ncw;ranger,FALSE,LC
+Motacilla flava,Birds,Western Yellow Wagtail,216,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Motacilla tschutschensis,Birds,Eastern Yellow Wagtail,11,1,birds,FALSE,LC
+Muscicapa gambagae,Birds,Gambaga Flycatcher,22,2,birds;wetlands,FALSE,LC
+Muscicapa striata,Birds,Spotted Flycatcher,194,4,birds;ncw;partner;wetlands,FALSE,LC
+Neophron percnopterus,Birds,Egyptian Vulture,61,3,birds;ncw;ranger,FALSE,EN
+Nepa cinerea,Birds,النسر المصري,5,2,ncw;ranger,FALSE,LC
+Numenius arquata,Birds,Eurasian Curlew,235,5,birds;ncw;partner;ranger;wetlands,FALSE,NT
+Numenius phaeopus,Birds,Whimbrel,178,4,birds;ncw;partner;ranger,FALSE,LC
+Numida meleagris,Birds,Helmeted Guineafowl,10,1,birds,FALSE,LC
+Nuxia congesta,Birds,الصر الأسود,3,1,ranger,FALSE,
+Nycticorax nycticorax,Birds,Black-crowned Night Heron,36,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Oena capensis,Birds,Namaqua Dove,781,4,birds;ncw;partner;wetlands,FALSE,LC
+Oenanthe bottae,Birds,Buff-breasted Wheatear,15,2,birds;wetlands,FALSE,LC
+Oenanthe chrysopygia,Birds,Red-tailed Wheatear,3,2,birds;wetlands,FALSE,LC
+Oenanthe deserti,Birds,Desert Wheatear,330,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Oenanthe finschii,Birds,Finsch's Wheatear,1,1,birds,FALSE,LC
+Oenanthe hispanica,Birds,Black-eared Wheatear,96,2,birds;partner,FALSE,LC
+Oenanthe isabellina,Birds,Isabelline Wheatear,463,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Oenanthe isabelline,Birds,Isabelline Wheatear,1,1,wetlands,FALSE,LC
+Oenanthe leucopyga,Birds,White-crowned Wheatear,1454,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Oenanthe lugens,Birds,Mourning Wheatear,132,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Oenanthe lugentoides,Birds,Arabian wheatear,81,2,birds;wetlands,FALSE,LC
+Oenanthe melanoleuca,Birds,Eastern Black-eared Wheatear,29,1,birds,FALSE,LC
+Oenanthe melanura,Birds,Blackstart,1620,4,birds;ncw;partner;wetlands,FALSE,LC
+Oenanthe moesta,Birds,Red-rumped Wheatear,2,1,birds,FALSE,LC
+Oenanthe monacha,Birds,Hooded Wheatear,52,4,birds;ncw;partner;wetlands,FALSE,LC
+Oenanthe oenanthe,Birds,Northern Wheatear,357,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Oenanthe pleschanka,Birds,Pied Wheatear,128,2,birds;partner,FALSE,LC
+Oenanthe xanthoprymna,Birds,Kurdish Wheatear,6,3,birds;partner;wetlands,FALSE,LC
+Onychognathus tristramii,Birds,Tristram's Starling,364,3,birds;partner;wetlands,FALSE,LC
+Onychoprion anaethetus,Birds,Bridled Tern,102,4,ncw;partner;ranger;wetlands,FALSE,LC
+Onychoprion fuscatus,Birds,,5,1,ncw,FALSE,LC
+Oriolus oriolus,Birds,Eurasian Golden Oriole,43,4,birds;ncw;partner;wetlands,FALSE,LC
+Otus brucei,Birds,,1,1,partner,FALSE,
+Otus pamelae,Birds,Arabian Scops-owl,2,1,birds,FALSE,LC
+Otus scops,Birds,,3,1,partner,FALSE,
+Pandion haliaetus,Birds,Western Osprey,564,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Passer domesticus,Birds,House sparrow,1868,4,birds;ncw;partner;wetlands,FALSE,LC
+Passer euchlorus,Birds,Arabian Golden Sparrow,12,3,birds;ncw;ranger,FALSE,LC
+Passer hispaniolensis,Birds,Spanish Sparrow,91,4,birds;ncw;partner;ranger,FALSE,LC
+Pastor roseus,Birds,Rosy Starling,1,1,birds,FALSE,LC
+Pelecanus onocrotalus,Birds,Great White Pelican,9,4,birds;ncw;ranger;wetlands,FALSE,LC
+Pelecanus rufescens,Birds,Pink backed Pelican,203,4,birds;ncw;ranger;wetlands,FALSE,LC
+Pernis apivorus,Birds,European Honey Buzzard,40,2,birds;partner,FALSE,LC
+Pernis ptilorhynchus,Birds,Crested Honey Buzzard,3,1,birds,FALSE,LC
+Phaethon aethereus,Birds,,3,1,partner,FALSE,
+Phalacrocorax carbo,Birds,Great Cormorant,36,2,birds;ncw,FALSE,LC
+Phalacrocorax nigrogularis,Birds,Socotra Cormorant,90,3,birds;ncw;ranger,FALSE,VU
+Phalaropus fulicarius,Birds,Red Phalarope,2,1,birds,FALSE,LC
+Phalaropus lobatus,Birds,,2,1,ncw,FALSE,LC
+Phoeniconaias minor,Birds,Lesser Flamingo,1,1,birds,FALSE,LC
+Phoenicopterus roseus,Birds,Greater Flamingo,112,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Phoenicurus ochruros,Birds,Black Redstart,42,3,birds;partner;wetlands,FALSE,LC
+Phoenicurus phoenicurus,Birds,Common Redstart,158,3,birds;partner;wetlands,FALSE,LC
+Phylloscopus collybita,Birds,Common Chiffchaff,317,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Phylloscopus inornatus,Birds,Yellow-browed Warbler,1,1,birds,FALSE,LC
+Phylloscopus nitidus,Birds,Green Warbler,2,1,birds,FALSE,LC
+Phylloscopus orientalis,Birds,Eastern Bonelli's Warbler,9,2,birds;partner,FALSE,LC
+Phylloscopus sibilatrix,Birds,Wood Warbler,9,1,birds,FALSE,LC
+Phylloscopus trochilus,Birds,Willow Warbler,233,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Phylloscopus umbrovirens,Birds,Brown Woodland-warbler,14,1,birds,FALSE,LC
+Pica asirensis,Birds,Asir Magpie,11,3,birds;ncw;ranger,FALSE,EN
+Platalea leucorodia,Birds,Eurasian Spoonbill,96,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Plegadis falcinellus,Birds,Glossy Ibis,43,4,birds;ncw;partner;wetlands,FALSE,LC
+Ploceus galbula,Birds,Ruppell's Weaver,510,3,birds;ncw;wetlands,FALSE,LC
+Ploceus manyar,Birds,Streaked Weaver,2,1,birds,FALSE,LC
+Pluvialis apricaria,Birds,Eurasian Golden Plover,26,2,birds;ncw,FALSE,LC
+Pluvialis squatarola,Birds,Grey Plover,205,4,birds;ncw;partner;ranger,FALSE,LC
+Podiceps cristatus,Birds,,7,1,ncw,FALSE,LC
+Podiceps nigricollis,Birds,Black-necked Grebe,11,3,birds;ncw;ranger,FALSE,LC
+Porphyrio poliocephalus,Birds,Grey-headed swamphen,8,1,birds,FALSE,LC
+Porphyrio porphyrio,Birds,,5,1,ncw,FALSE,LC
+Porzana porzana,Birds,Spotted Crake,3,1,birds,FALSE,LC
+Prinia gracilis,Birds,Graceful Prinia,543,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Prinia gracillis,Birds,Nimnimah dhanub,1,1,wetlands,FALSE,LC
+Prinia lepida,Birds,Delicate Prinia,3,1,birds,FALSE,LC
+Psittacula krameri,Birds,Rose-ringed Parakeet,5,3,birds;ncw;wetlands,FALSE,LC
+Pterocles alchata,Birds,Pin-tailed Sandgrouse,4,2,birds;wetlands,FALSE,LC
+Pterocles exustus,Birds,Chestnut-bellied Sandgrouse,66,4,birds;ncw;ranger;wetlands,FALSE,LC
+Pterocles lichtensteinii,Birds,Lichtenstein's Sandgrouse,52,3,birds;partner;wetlands,FALSE,LC
+Pterocles orientalis,Birds,Black-bellied Sandgrouse,2,1,birds,FALSE,LC
+Pterocles senegallus,Birds,Spotted Sandgrouse,1,1,birds,FALSE,LC
+Ptyonoprogne obsoleta,Birds,Pale Crag Martin,787,4,birds;ncw;partner;wetlands,FALSE,LC
+Ptyonoprogne obsolete,Birds,Pale Crag-Martin,1,1,wetlands,FALSE,LC
+Ptyonoprogne rupestris,Birds,Eurasian Crag Martin,19,2,birds;ncw,FALSE,LC
+Pycnonotus goiavier,Birds,بلبل أصفر البطن,13,2,ncw;ranger,FALSE,LC
+Pycnonotus leucotis,Birds,White-eared Bulbul,270,4,birds;ncw;ranger;wetlands,FALSE,LC
+Pycnonotus xanthopygos,Birds,White-spectacled Bulbul,1617,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Pytonoprogne fuligula,Birds,,5,1,ncw,FALSE,LC
+Rallus aquaticus,Birds,Western Water Rail,8,2,birds;ncw,FALSE,LC
+Ramphocoris clotbey,Birds,Thick-billed Lark,11,1,birds,FALSE,LC
+Recurvirirostra avosetta,Birds,,4,1,ncw,FALSE,LC
+Recurvirostra avosetta,Birds,Pied Avocet,9,2,birds;wetlands,FALSE,LC
+Rhodospiza obsoleta,Birds,Desert Finch,44,2,birds;wetlands,FALSE,LC
+Riparia diluta,Birds,Pale Sand Martin,2,1,birds,FALSE,LC
+Riparia riparia,Birds,Sand Martin,240,3,birds;partner;wetlands,FALSE,LC
+Saxicola maurus,Birds,Siberian Stonechat,25,1,birds,FALSE,LC
+Saxicola rubetra,Birds,Whinchat,67,3,birds;partner;wetlands,FALSE,LC
+Saxicola rubicola,Birds,European Stonechat,24,1,birds,FALSE,LC
+Saxicola torquatus,Birds,African Stonechat,12,4,birds;ncw;partner;wetlands,FALSE,LC
+Scopus umbretta,Birds,Hamerkop,49,4,birds;ncw;ranger;wetlands,FALSE,LC
+Scopus umbrette,Birds,Hamerkop,1,1,wetlands,FALSE,LC
+Scotocerca inquieta,Birds,Streaked Scrub Warbler,556,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Spatula clypeata,Birds,Northern Shoveler,14,2,birds;ncw,FALSE,LC
+Spatula querquedula,Birds,Garganey,25,3,birds;ncw;wetlands,FALSE,LC
+Spilopelia senegalensis,Birds,Laughing Dove,1943,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Spinus spinus,Birds,Eurasian Siskin,1,1,birds,FALSE,LC
+Sterna hirundo,Birds,Common Tern,100,3,ncw;ranger;wetlands,FALSE,LC
+Sterna repressa,Birds,White-cheeked Tern,162,4,birds;ncw;partner;wetlands,FALSE,LC
+Sternula albifrons,Birds,Little Tern,86,4,birds;ncw;ranger;wetlands,FALSE,LC
+Sternula saundersi,Birds,Saunder's Tern,66,4,birds;ncw;partner;ranger,FALSE,LC
+Streptopelia decaocto,Birds,Eurasian Collared-dove,1992,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Streptopelia lugens,Birds,Dusky Turtle-dove,27,2,birds;wetlands,FALSE,LC
+Streptopelia orientalis,Birds,Oriental Turtle-dove,1,1,birds,FALSE,LC
+Streptopelia roseogrisea,Birds,African Collared Dove,344,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Streptopelia semitorquata,Birds,Red-eyed Dove,7,2,birds;wetlands,FALSE,LC
+Streptopelia turtur,Birds,European Turtle Dove,16,3,birds;ncw;partner,FALSE,VU
+Strix hadorami,Birds,Desert Tawny Owl,35,2,birds;partner,FALSE,LC
+Sula leucogaster,Birds,Brown Booby,181,4,birds;ncw;partner;ranger,FALSE,LC
+Sylvia atricapilla,Birds,Eurasian Blackcap,228,2,birds;partner,FALSE,LC
+Sylvia borin,Birds,Garden Warbler,53,3,birds;partner;wetlands,FALSE,LC
+Sylvia communis,Birds,Common Whitethroat,8,3,ncw;ranger;wetlands,FALSE,LC
+Sylvia leucomelaena,Birds,White-cheeked whitethroat,3,1,wetlands,FALSE,LC
+Sylvia mystacea,Birds,Menetries's Warbler,1,1,wetlands,FALSE,LC
+Sylvia nana,Birds,دخلة صحراوية,9,2,ncw;ranger,FALSE,LC
+Tachybaptus ruficollis,Birds,Little Grebe,57,4,birds;ncw;ranger;wetlands,FALSE,LC
+Tachymarptis melba,Birds,Alpine Swift,61,3,birds;partner;wetlands,FALSE,LC
+Tachyspiza badia,Birds,Shikra,14,1,birds,FALSE,LC
+Tachyspiza brevipes,Birds,Levant Sparrowhawk,7,1,birds,FALSE,LC
+Tadorna tadorna,Birds,Common Shelduck,7,2,birds;ncw,FALSE,LC
+Tchagra senegalus,Birds,Black-crowned Tchagra,11,1,birds,FALSE,LC
+Terpsiphone viridis,Birds,African Paradise-Flycatcher,1,1,birds,FALSE,LC
+Thalasseus bengalensis,Birds,Lesser Crested Tern,184,4,birds;ncw;partner;ranger,FALSE,LC
+Thalasseus bergii,Birds,Greater Crested Tern,88,4,birds;ncw;partner;ranger,FALSE,LC
+Thalasseus sandvicensis,Birds,Sandwich Tern,8,3,birds;ncw;ranger,FALSE,LC
+Thinornis dubius,Birds,Little Ringed Plover,26,1,birds,FALSE,LC
+Todiramphus chloris,Birds,Collared Kingfisher,5,2,birds;ncw,FALSE,EN
+Torgos tracheliotos,Birds,النسر النوبي,13,2,ncw;ranger,FALSE,EN
+Treron waalia,Birds,Bruce's Green-pigeon,20,2,birds;wetlands,FALSE,LC
+Trichodesma africanum,Birds,الحمحم,1,1,ranger,FALSE,
+Tringa erythropus,Birds,Spotted Redshank,35,4,birds;ncw;partner;ranger,FALSE,LC
+Tringa glareola,Birds,Wood sandpiper,38,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Tringa nebularia,Birds,Common Greenshank,176,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Tringa ochropus,Birds,Green Sandpiper,97,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Tringa stagnatilis,Birds,Marsh Sandpiper,45,4,birds;ncw;ranger;wetlands,FALSE,LC
+Tringa totanus,Birds,Common Redshank,313,4,birds;ncw;partner;ranger,FALSE,LC
+Turdoides squamiceps,Birds,Arabian babbler,26,3,ncw;ranger;wetlands,FALSE,LC
+Turdus menachensis,Birds,Yemen Thrush,11,1,birds,FALSE,LC
+Turdus merula,Birds,Common Blackbird,2,1,birds,FALSE,LC
+Tyto alba,Birds,Western Barn Owl,2,1,birds,FALSE,LC
+Unidentified warbler,Birds,Warbler sp,1,1,birds,FALSE,LC
+Upupa epops,Birds,Common Hoopoe,656,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Vanellus gregarius,Birds,دريج كورشي,5,2,ncw;ranger,FALSE,CR
+Vanellus indicus,Birds,Red-wattled Lapwing,3,3,birds;ncw;ranger,FALSE,LC
+Vanellus leucurus,Birds,White-tailed Lapwing,11,3,birds;ncw;partner,FALSE,LC
+Vanellus spinosus,Birds,Spur-winged Lapwing,72,5,birds;ncw;partner;ranger;wetlands,FALSE,LC
+Vanellus vanellus,Birds,Northern Lapwing,17,3,birds;ncw;ranger,FALSE,NT
+Xenus cinereus,Birds,Terek Sandpiper,141,4,birds;ncw;partner;ranger,FALSE,LC
+Zapornia parva,Birds,Little Crake,1,1,birds,FALSE,LC
+Zosterops abyssinicus,Birds,Abyssinian White-eye,32,2,birds;wetlands,FALSE,LC
+Aetobatus narinari,Fish,سمكة الشفنين النقطي (الشفنين ذو البقع البيضاء),42,2,ncw;ranger,FALSE,EN
+Aetobatus ocellatus,Fish,سمكة الشفنين ذات العيون,43,2,ncw;ranger,FALSE,EN
+Aphaniops dispar,Fish,Arabian Toothcarp,5,1,wetlands,FALSE,LC
+Aphaniops stoliczkanus,Fish,,21,1,partner,FALSE,
+Arabibarbus arabicus,Fish,Arabian Shabout,1,1,wetlands,FALSE,LC
+Carasobarbus apoensis,Fish,Arabian Himri,1,1,wetlands,FALSE,NE
+Carcharhinus amblyrhynchos,Fish,القرش ذو الطرف الأبيض الشعابي,12,2,ncw;ranger,FALSE,EN
+Carcharhinus falciformis,Fish,,4,1,ncw,FALSE,EN
+Carcharhinus melanopterus,Fish,القرش ذو الطرف الأسود الشعابي,8,2,ncw;ranger,FALSE,EN
+Clarias gariepinus,Fish,Sharptooth catfish,4,1,wetlands,FALSE,LC
+Galeocerdo cuvier,Fish,,4,1,ncw,FALSE,CR
+Gambusia holbrooki,Fish,Eastern mosquitofish,4,2,ncw;wetlands,FALSE,LC
+Garra tibanica,Fish,Arabian Doctor Fish,4,1,wetlands,FALSE,LC
+Heterotilapia buttikoferi,Fish,Sharptooth catfish,1,1,wetlands,FALSE,LC
+Hydrophis lapemoides,Fish,,13,1,ncw,TRUE,LC
+Hypostomus plecostomus,Fish,Suckermouth Catfish,1,1,wetlands,FALSE,LC
+Lutjanus argentimaculatus,Fish,Mangrove Red Snapper,1,1,wetlands,FALSE,LC
+Lutjanus ehrenbergi,Fish,Blackspot Snapper,1,1,wetlands,FALSE,LC
+Mobula alfredi,Fish,شيطان البحر الألفريد,11,2,ncw;ranger,FALSE,VU
+Mobula birostris,Fish,شيطان البحر العملاق (مانتا راي العملاق),6,2,ncw;ranger,FALSE,EN
+Mobula mobular,Fish,شيطان البحر المتوسطي,3,2,ncw;ranger,FALSE,EN
+Mobula thurstoni,Fish,,3,1,ncw,FALSE,EN
+Monodactylus argenteus,Fish,Silver Moonyfish,1,1,wetlands,FALSE,LC
+Nebrius ferrugineus,Fish,,12,1,ncw,FALSE,CR
+Oreochromis niloticus,Fish,Nile Tilapia,8,1,wetlands,FALSE,LC
+Pastinachus sephen,Fish,,14,1,ncw,FALSE,CR
+Poecilia latipinna,Fish,Zebra tilapia,1,1,wetlands,FALSE,LC
+Rhincodon typus,Fish,قرش الحوت (القرش الحوتي),33,2,ncw;ranger,FALSE,EN
+Rhinobatos schlegelii,Fish,,1,1,ncw,FALSE,EN
+Taeniura lymma,Fish,,11,1,ncw,FALSE,LC
+Taeniurops meyeni,Fish,,2,1,ncw,FALSE,VU
+Terapon jarbua,Fish,Jarbua Terapon,1,1,wetlands,FALSE,LC
+Torpedo panthera,Fish,,2,1,ncw,FALSE,EN
+Triaenodon obesus,Fish,,19,1,ncw,FALSE,CR
+Unknown ray,Fish,,7,1,ncw,FALSE,
+Unknown shark,Fish,,6,1,ncw,FALSE,
+Urogymnus asperrimus,Fish,,1,1,ncw,FALSE,VU
+Abacetus crenulatus,Invertebrates,Ground Beetle,6,1,wetlands,FALSE,DD
+Abedus lutarium,Invertebrates,,1,1,ncw,FALSE,LC
+Acheta domesticus,Invertebrates,House Cricket,14,1,wetlands,FALSE,LC
+Achroia grisella,Invertebrates,farāshat al-shamʿ al-ṣughrā,16,1,wetlands,FALSE,NE
+Acrida ungarica,Invertebrates,,1,1,ncw,FALSE,
+Acrotylus longipes,Invertebrates,short-horned grasshoppers,15,1,wetlands,FALSE,NE
+Acrotylus patruelis,Invertebrates,Spur-throated Locust,6,1,wetlands,FALSE,LC
+Actocetor margaritatus,Invertebrates,Shore Fly,15,1,wetlands,FALSE,LC
+Adesemia cancellata,Invertebrates,Caper,16,1,wetlands,FALSE,NE
+Adesmia cancellata,Invertebrates,Pitted Beetle,236,4,ncw;partner;ranger;wetlands,FALSE,LC
+Adesmia interrupta,Invertebrates,Darkling Beetle,30,1,wetlands,FALSE,LC
+Aedes aegypti,Invertebrates,yellow fever mosquito larvae,8,1,wetlands,FALSE,NE
+Aedes caspius,Invertebrates,,1,1,ncw,FALSE,
+Aelurillus faragallai,Invertebrates,,3,1,ncw,FALSE,
+Aeoloides grisescens,Invertebrates,Jewel Beetle,1,1,wetlands,FALSE,NE
+Afrafacilla braunsi,Invertebrates,,1,1,ncw,FALSE,
+Afraflacilla tamaricis,Invertebrates,,2,1,ncw,FALSE,LC
+Afraflacilla wadis,Invertebrates,,12,1,ncw,FALSE,
+Afrotarus scotti,Invertebrates,,7,1,partner,FALSE,
+Agabiformius lentus,Invertebrates,,1,1,wetlands,FALSE,NE
+Agrostis ipsilon,Invertebrates,Dark Sword-grass,3,1,wetlands,FALSE,LC
+Agrotis ipsilon,Invertebrates,Black Cutworm,22,2,partner;wetlands,FALSE,LC
+Aiolopus simulatrix,Invertebrates,Band-winged Grasshopper,5,1,wetlands,FALSE,NE
+Akis elegans,Invertebrates,Darkling beetles,4,1,wetlands,FALSE,NE
+Akis elevata,Invertebrates,Darkling Beetle,9,1,wetlands,FALSE,NE
+Aleurothrixus floccosus,Invertebrates,Woolly whitefly,10,1,wetlands,FALSE,NE
+Amara aulica,Invertebrates,Bombardier Beetle,9,1,wetlands,FALSE,LC
+Amblystomus villiersanus,Invertebrates,Ground Beetle,4,1,wetlands,FALSE,LC
+Anacanthotermes ochraceous,Invertebrates,Desert beetle,8,1,wetlands,FALSE,NE
+Anacridium aegyptium,Invertebrates,,6,1,ncw,FALSE,
+Anagasta kuehniella,Invertebrates,flour moth,1,1,wetlands,FALSE,LC
+Anagyrus pseudococci,Invertebrates,Parasitoid Wasp,1,1,wetlands,FALSE,LC
+Anastoechus trisignatus,Invertebrates,Bee Fly,3,1,wetlands,FALSE,NE
+Anax ephippiger,Invertebrates,Vagrant emperor,50,3,ncw;partner;wetlands,FALSE,LC
+Anax imperator,Invertebrates,,15,1,ncw,FALSE,LC
+Anax parthenope,Invertebrates,,8,1,ncw,FALSE,LC
+Anax speratus,Invertebrates,Orange Emperor,10,2,ncw;wetlands,FALSE,LC
+Androctonus crassicauda,Invertebrates,Arabian fat-tailed scorpion,220,4,ncw;partner;ranger;wetlands,TRUE,NE
+Androctonus tihamicus,Invertebrates,,7,1,ncw,TRUE,NE
+Angulaphthona latipennis,Invertebrates,Flea Beetle,3,1,wetlands,FALSE,LC
+Anisops sardea,Invertebrates,Backswimmer,6,1,wetlands,FALSE,LC
+Anoplolepis longitarsus,Invertebrates,Yellow crazy ant,33,1,wetlands,FALSE,NE
+Ansiea buettikeri,Invertebrates,,1,1,ncw,FALSE,
+Anthene amarah,Invertebrates,,110,2,ncw;partner,FALSE,LC
+Anthia duodecimguttata,Invertebrates,Saber-toothed ground beetle,44,2,partner;wetlands,FALSE,NE
+Anthrax sticticus,Invertebrates,Bee Fly,6,1,wetlands,FALSE,LC
+Anthrenus flavipes,Invertebrates,Furniture Carpet Beetle,7,1,wetlands,FALSE,LC
+Apanteles galleriae,Invertebrates,Parasitoid Wasp,19,1,wetlands,FALSE,LC
+Apanteles glomeratus,Invertebrates,Braconid Wasp,2,1,wetlands,FALSE,NE
+Aphis gossypi,Invertebrates,melon aphid,1,1,wetlands,FALSE,NE
+Aphis gossypii,Invertebrates,Greenfly,19,1,wetlands,FALSE,LC
+Apis florea,Invertebrates,Dwarf Honey Bee,23,1,wetlands,FALSE,DD
+Apis mellifera,Invertebrates,Arabian Honey Bee,122,3,ncw;ranger;wetlands,FALSE,LC
+Apistobuthus pterygocercus,Invertebrates,,8,1,ncw,TRUE,NE
+Aplemonus arabicus,Invertebrates,Pear-shaped Weevil,19,1,wetlands,FALSE,LC
+Apoclea femoralis,Invertebrates,,2,1,ncw,FALSE,
+Archispirostreptus gigas,Invertebrates,Giant African Millipede,3,1,wetlands,FALSE,LC
+Archispirostreptus transmarinus,Invertebrates,Giant African millipede,6,1,wetlands,FALSE,LC
+Argiolaus glaucus,Invertebrates,,9,1,partner,FALSE,
+Argiope sector,Invertebrates,,7,1,ncw,FALSE,
+Ariathisa abyssinia,Invertebrates,Owlet Moth,7,1,wetlands,FALSE,LC
+Army cutworm,Invertebrates,Army Cutworm,2,1,wetlands,FALSE,NE
+Artema atlanta,Invertebrates,,4,1,ncw,FALSE,
+Artema nephilit,Invertebrates,Daddy Long-legs Spider,14,1,wetlands,FALSE,LC
+Atranus pubescens,Invertebrates,,1,1,ncw,FALSE,
+Atylotus agrestis,Invertebrates,Deer flies,1,1,wetlands,FALSE,NE
+Azanus mirza,Invertebrates,الفراشات,3,2,ncw;ranger,FALSE,
+Azanus ubaldus,Invertebrates,,1,1,partner,FALSE,
+Azuragrion vansomereni,Invertebrates,,1,1,ncw,FALSE,
+Bactrocera oleae,Invertebrates,Olive Fruit Fly,1,1,wetlands,FALSE,NE
+Bactrocera zonata,Invertebrates,Fruit Fly,9,1,wetlands,FALSE,LC
+Bagrada hilaris,Invertebrates,Bagrada bug,2,1,wetlands,FALSE,NE
+Barbaracurus kabateki,Invertebrates,,1,1,ncw,TRUE,NE
+Barbaracurus yemenensis,Invertebrates,,1,1,ncw,TRUE,NE
+Bassaniodes tristrami,Invertebrates,,3,1,ncw,FALSE,
+Belenais aurota,Invertebrates,Pointed caper,21,1,wetlands,FALSE,LC
+Belenois aurota,Invertebrates,Pioneer White,48,2,partner;wetlands,FALSE,LC
+Belenois creona,Invertebrates,,1,1,ncw,FALSE,
+Belonogaster juncea,Invertebrates,,2,1,ncw,FALSE,
+Bembidion atlanticum,Invertebrates,Ground Beetle,3,1,wetlands,FALSE,LC
+Bembidion wittmeri,Invertebrates,Ground Beetle,1,1,wetlands,FALSE,NE
+Bembix oculata,Invertebrates,Sand Wasp,23,1,wetlands,FALSE,LC
+Bembix rufiventris,Invertebrates,Cricket Hunter,6,1,wetlands,FALSE,LC
+Benoitia lepida,Invertebrates,Sac spider,23,2,ncw;wetlands,FALSE,NE
+Bitoma sicciana,Invertebrates,Cylindrical Bark Beetle,13,1,wetlands,FALSE,LC
+Blaps gigas,Invertebrates,,1,1,ncw,FALSE,
+Blaps kollari,Invertebrates,Darkling Beetles,16,2,ncw;wetlands,FALSE,NE
+Blaps mucronata,Invertebrates,churchyard beetle,9,1,wetlands,FALSE,NE
+Blatta orientalis,Invertebrates,Oriental Cockroach,1,1,wetlands,FALSE,NE
+Blattella germanica,Invertebrates,German Cockroach,22,1,wetlands,FALSE,LC
+Blepharopsis mendica,Invertebrates,Arab mantis,2,2,partner;wetlands,FALSE,NE
+Bombylella delicata,Invertebrates,Bee Fly,9,1,wetlands,FALSE,LC
+Brachinus exhalans,Invertebrates,Bombardier Beetle,9,1,wetlands,FALSE,LC
+Brachythemis impartita,Invertebrates,Groundling,9,2,ncw;wetlands,FALSE,LC
+Brachythemis leucosticta,Invertebrates,,5,1,ncw,FALSE,LC
+Bracon hebetor,Invertebrates,Parasitoid Wasp,9,1,wetlands,FALSE,LC
+Bulaea lividula,Invertebrates,Ladybird,9,1,wetlands,FALSE,LC
+Bulinus beccari,Invertebrates,Bubble snails,1,1,wetlands,FALSE,LC
+Buthacus leptochelys,Invertebrates,Desert scorpion,1,1,wetlands,FALSE,NE
+Buthacus nigroaculeatus,Invertebrates,,10,1,ncw,TRUE,NE
+Butheolus villosus,Invertebrates,,1,1,ncw,TRUE,NE
+Cadra figulilella,Invertebrates,,1,1,ncw,FALSE,
+Calliphora albiceps,Invertebrates,Blow Fly,3,1,wetlands,FALSE,LC
+Calliphora nuba,Invertebrates,Bluebottle Fly,1,1,wetlands,FALSE,NE
+Calliphora vicina,Invertebrates,Blue Bottle Fly,11,1,wetlands,FALSE,LC
+Calomera aulicoides,Invertebrates,Tiger Beetle,2,1,wetlands,FALSE,LC
+Calopertha truncatula,Invertebrates,Scarab Beetle,3,1,wetlands,FALSE,LC
+Calosoma imbricatum,Invertebrates,Caterpillar Hunter,14,1,wetlands,FALSE,LC
+Calosoma olivieri,Invertebrates,Caterpillar Hunter,27,2,partner;wetlands,FALSE,LC
+Camponotus aegyptiacus,Invertebrates,Carpenter Ant,6,1,wetlands,FALSE,LC
+Camponotus flavomarginatus,Invertebrates,Ant,3,1,wetlands,FALSE,LC
+Camponotus sericeus,Invertebrates,Ant,25,1,wetlands,FALSE,LC
+Campsomeriella collaris,Invertebrates,Mammoth Wasp,1,1,wetlands,FALSE,NE
+Campsomeriella thoracica,Invertebrates,Scoliid Wasp,7,1,wetlands,FALSE,LC
+Camptocoris longicornis,Invertebrates,Milkweed bugs,7,1,wetlands,FALSE,NE
+Capitites augur,Invertebrates,Fruit fly,1,1,wetlands,FALSE,NE
+Cataglyphis minima,Invertebrates,Desert ant,33,1,wetlands,FALSE,NE
+Cataglyphis niger,Invertebrates,Desert ants,19,1,wetlands,FALSE,NE
+Catocala maestosa,Invertebrates,,1,1,ncw,FALSE,
+Catopsilia florella,Invertebrates,Emigrant Butterfly,116,3,ncw;partner;wetlands,FALSE,LC
+Cebrennus aethiopicus,Invertebrates,,3,1,ncw,FALSE,LC
+Cebrennus intermedius,Invertebrates,,1,1,ncw,FALSE,
+Cephalota littorea,Invertebrates,Tiger Beetle,5,1,wetlands,FALSE,LC
+Ceratitis capitata,Invertebrates,Mediterranean Fruit Fly,6,1,wetlands,FALSE,NE
+Cerceris chlorotica,Invertebrates,,1,1,ncw,FALSE,
+Ceriagrion glabrum,Invertebrates,,10,1,ncw,FALSE,LC
+Chaetocnema tibialis,Invertebrates,Flea Beetle,6,1,wetlands,FALSE,LC
+Chaetopelma olivaceum,Invertebrates,,1,1,ncw,FALSE,
+Cheilomenes lunata,Invertebrates,Ladybird,4,1,wetlands,FALSE,LC
+Cheiracanthium inclusum,Invertebrates,The black-footed yellow sac spider,3,1,wetlands,FALSE,NE
+Cheiracanthium mildei,Invertebrates,long-legged sac spider,5,1,wetlands,FALSE,NE
+Cheiracanthium molle,Invertebrates,,4,1,ncw,FALSE,
+Chironomus plumosus,Invertebrates,Buzzer Midge,1,1,wetlands,FALSE,LC
+Chloropsina enigma,Invertebrates,Grass Fly,4,1,wetlands,FALSE,LC
+Chorthippus jucundus,Invertebrates,,1,1,ncw,FALSE,
+Chrilidia gracilas,Invertebrates,,1,1,ncw,FALSE,
+Chrysis elegantula,Invertebrates,Cuckoo Wasp,4,1,wetlands,FALSE,NE
+Chrysomya albiceps,Invertebrates,Blow flies,20,1,wetlands,FALSE,NE
+Chrysomya megacephala,Invertebrates,Oriental Latrine Fly,20,1,wetlands,FALSE,LC
+Chrysoperla carnea,Invertebrates,Common Green Lacewing,30,2,ncw;wetlands,FALSE,LC
+Clivina collaris,Invertebrates,Ground Beetle,2,1,wetlands,FALSE,NE
+Coccinella septempunctata,Invertebrates,Seven-spot Ladybird,11,1,wetlands,FALSE,LC
+Coccinella undecimpunctata,Invertebrates,,5,1,partner,FALSE,
+Cola marnaana,Invertebrates,,1,1,ncw,FALSE,
+Colotis amata,Invertebrates,White Butterfly,26,1,wetlands,FALSE,LC
+Colotis antevippe,Invertebrates,,10,1,ncw,FALSE,LC
+Colotis chrysonome,Invertebrates,,7,1,partner,FALSE,
+Colotis danae,Invertebrates,,56,2,ncw;partner,FALSE,LC
+Colotis fausta,Invertebrates,,3,2,ncw;partner,FALSE,
+Colotis halimede,Invertebrates,,13,1,partner,FALSE,
+Colotis liagore,Invertebrates,,57,1,partner,FALSE,
+Colotis phisadia,Invertebrates,,8,2,ncw;partner,FALSE,
+Compobuthus arabicus,Invertebrates,Arabian scorpion,3,1,wetlands,FALSE,NE
+Compsobuthus arabicus,Invertebrates,العقرب العربي,25,2,ncw;ranger,TRUE,NE
+Compsobuthus khaybari,Invertebrates,,166,2,ncw;partner,TRUE,NE
+Compsobuthus longipalpis,Invertebrates,,10,2,ncw;partner,TRUE,NE
+Compsobuthus mahazat,Invertebrates,,1,1,ncw,TRUE,NE
+Compsobuthus manzoni,Invertebrates,,47,1,ncw,FALSE,
+Compsobuthus manzonii,Invertebrates,Scorpion,34,2,partner;wetlands,TRUE,LC
+Compsobuthus pallidas,Invertebrates,,1,1,ncw,TRUE,NE
+Compsobuthus pallidus,Invertebrates,Pale-yellow buthid scorpion,2,1,wetlands,FALSE,NE
+Compsobuthus setosus,Invertebrates,,14,1,ncw,TRUE,NE
+Copepod crustaceans,Invertebrates,Copepod,1,1,wetlands,FALSE,NE
+Coridius viduatus,Invertebrates,Stink Bug,40,2,ncw;wetlands,FALSE,LC
+Corizus hyoscyami,Invertebrates,Cinnamon bug,19,1,wetlands,FALSE,NE
+Cornutiplusia circumflexa,Invertebrates,,2,1,ncw,FALSE,
+Cotesia icipe,Invertebrates,Parasitoid Wasp,9,1,wetlands,FALSE,LC
+Crabro dpinus,Invertebrates,,1,1,ncw,FALSE,
+Creoleon antennatus,Invertebrates,Antlion,1,1,wetlands,FALSE,NE
+Crocothemis erythrae,Invertebrates,,38,1,ncw,FALSE,LC
+Crocothemis erythraea,Invertebrates,Broad Scarlet Dragonfly,33,2,partner;wetlands,FALSE,LC
+Crocothemis sanguinolenta,Invertebrates,Little Scarlet,10,2,ncw;wetlands,FALSE,LC
+Crocothemis servilia,Invertebrates,,3,1,ncw,FALSE,
+Cueta variegata,Invertebrates,Ant lion,20,1,wetlands,FALSE,NE
+Culex pipiens,Invertebrates,Mosquito,23,1,wetlands,FALSE,LC
+Culex quinquefasciatus,Invertebrates,Southern House Mosquito,4,1,wetlands,FALSE,LC
+Cymbionotum pictulum,Invertebrates,Ground Beetle,3,1,wetlands,FALSE,LC
+Cymindis andreae,Invertebrates,Ground Beetle,2,1,wetlands,FALSE,NE
+Cyphononyx bretonii,Invertebrates,Spider wasp,3,1,wetlands,FALSE,LC
+Cyphononyx castaneus,Invertebrates,Spider Wasp,11,1,wetlands,FALSE,LC
+Cyrtophora citricola,Invertebrates,,2,1,partner,FALSE,
+Dacus zonatus,Invertebrates,Peach Fruit Fly,1,1,wetlands,FALSE,NE
+Dalbulus maidis,Invertebrates,,1,1,ncw,FALSE,
+Danaus chrysippus,Invertebrates,Plain Tiger Butterfly,91,3,ncw;partner;wetlands,FALSE,LC
+Delta dimidiatipenne,Invertebrates,Mud Dauber,5,1,wetlands,FALSE,NE
+Delta dimidiatipennis,Invertebrates,Potter Wasp,5,1,wetlands,FALSE,LC
+Deraeocoris martini,Invertebrates,Plant Bug,4,1,wetlands,FALSE,LC
+Dermestes maculatus,Invertebrates,,2,1,ncw,FALSE,
+Deudorix livia,Invertebrates,,43,1,partner,FALSE,
+Diadegma mollipla,Invertebrates,,1,1,ncw,FALSE,
+Diaeretiella rapae,Invertebrates,Aphid,1,1,wetlands,FALSE,NE
+Dichochrysa venosa,Invertebrates,Lacewing,14,1,wetlands,FALSE,LC
+Dineutes aereus,Invertebrates,whirligig beetles,8,1,wetlands,FALSE,NE
+Diopsis apicalis,Invertebrates,Stalk-Eyed Fly,16,1,wetlands,FALSE,LC
+Diplacodes lefebvrii,Invertebrates,,11,1,ncw,FALSE,LC
+Distichus planus,Invertebrates,Ground Beetle,9,1,wetlands,FALSE,LC
+Drosophila melanogaster,Invertebrates,Fruit Fly,33,2,ncw;wetlands,FALSE,LC
+Dryops sulcipennis,Invertebrates,Long-toed Water Beetle,16,1,wetlands,FALSE,LC
+Dysdercus cingulatus,Invertebrates,,1,1,ncw,FALSE,
+Elaphropus variabilis,Invertebrates,Minute Beetle,2,1,wetlands,FALSE,NE
+Empoasca decipiens,Invertebrates,Green Leafhopper,3,1,wetlands,FALSE,NE
+Enneadesmus forficula,Invertebrates,Auger Beetle,2,1,wetlands,FALSE,LC
+Ensina sonchi,Invertebrates,Fruit Fly,20,1,wetlands,FALSE,LC
+Epallage fatime,Invertebrates,,1,1,ncw,FALSE,LC
+Ephysteris promptella,Invertebrates,Twirler Moth,15,1,wetlands,FALSE,LC
+Eremiaphila bauerialso,Invertebrates,السرعوف الصحراوي,4,2,ncw;ranger,FALSE,
+Eremiaphila baueriin,Invertebrates,السرعوف الصحراوي,2,2,ncw;ranger,FALSE,
+Eretes sticticus,Invertebrates,Diving Beetle,5,1,wetlands,FALSE,LC
+Eristalinus taeniops,Invertebrates,Band-eyed Drone Fly,5,1,wetlands,FALSE,LC
+Eristalis taeniops,Invertebrates,Hoverfly,3,1,wetlands,FALSE,NE
+Erythmelus flavovarius,Invertebrates,Fairyfly,3,1,wetlands,FALSE,LC
+Erythmelus rex,Invertebrates,Fairyfly,3,1,wetlands,FALSE,LC
+Euchloe charlonia,Invertebrates,,1,1,ncw,FALSE,
+Euchrysops osiris,Invertebrates,African Cupid,7,1,wetlands,FALSE,LC
+Eucymatodera senegalensis,Invertebrates,,2,1,partner,FALSE,
+Eumenes dimidiatipennis,Invertebrates,Sand Wasp,10,1,wetlands,FALSE,LC
+Eupeodes corollae,Invertebrates,Hoverfly,31,1,wetlands,FALSE,LC
+Eupeodes nuba,Invertebrates,Scaeva Fly / Hoverfly,2,1,wetlands,FALSE,NE
+Euproctis similis,Invertebrates,Tussock Moth,11,1,wetlands,FALSE,LC
+Eurema brigitta,Invertebrates,,3,1,ncw,FALSE,LC
+Eurema hecabe,Invertebrates,,1,1,ncw,FALSE,
+Eusparassus arabicus,Invertebrates,,17,2,ncw;partner,FALSE,
+Eusparassus laevatus,Invertebrates,,3,1,ncw,FALSE,
+Eusparassus walckenaeri,Invertebrates,,6,1,ncw,FALSE,
+Euxoa auxiliaris,Invertebrates,Army Cutworm,4,1,wetlands,FALSE,NE
+Evippa praelongipes,Invertebrates,,40,2,ncw;partner,FALSE,LC
+Exitianus fasciolatus,Invertebrates,Leafhopper,13,1,wetlands,FALSE,LC
+Exoprosopa disrupta,Invertebrates,Bee Fly,5,1,wetlands,FALSE,LC
+Eysarcoris aeneus,Invertebrates,Shield Bug,12,1,wetlands,FALSE,LC
+Forficula auricularia,Invertebrates,Common earwig,3,1,wetlands,FALSE,NE
+Forficula smyrnensis,Invertebrates,,2,1,ncw,FALSE,
+Formica exsectoides,Invertebrates,,2,1,ncw,FALSE,
+Freyeria trochylus,Invertebrates,,21,1,partner,FALSE,
+Friekineilla schultazei,Invertebrates,Thrips,1,1,wetlands,FALSE,NE
+Galeodes arabs,Invertebrates,,1,1,ncw,FALSE,
+Galerita africana,Invertebrates,Bombardier Beetle,3,1,wetlands,FALSE,NE
+Gluvia dorsalis,Invertebrates,,1,1,ncw,FALSE,
+Gnamptonyx innexa,Invertebrates,,10,1,partner,FALSE,
+Gnathamitermes tubiformans,Invertebrates,,1,1,ncw,FALSE,
+Gonatocerus aegyptiacus,Invertebrates,Fairyfly,3,1,wetlands,FALSE,LC
+Gongylus gongylodes,Invertebrates,,1,1,ncw,FALSE,
+Gonia capitata,Invertebrates,Tachinid Fly,8,1,wetlands,FALSE,LC
+Goniurellia tridens,Invertebrates,Gall Fly,11,2,ncw;wetlands,FALSE,LC
+Gonocephalum depressum,Invertebrates,,1,1,ncw,FALSE,
+Gossypii glover,Invertebrates,Cotton aphid,1,1,wetlands,FALSE,NE
+Grammognatha euphratica,Invertebrates,,5,1,partner,FALSE,
+Gryllus bimaculatus,Invertebrates,Field Cricket,13,1,wetlands,FALSE,LC
+Gryllus campestris,Invertebrates,Field Cricket,9,1,wetlands,FALSE,NE
+Habrocestum arabicum,Invertebrates,,1,1,ncw,FALSE,
+Hallodapus costai,Invertebrates,Plant bug,3,1,wetlands,FALSE,NE
+Halodromus barbarae,Invertebrates,,1,1,ncw,FALSE,
+Halodromus patellidens,Invertebrates,,1,1,ncw,FALSE,
+Hasarius adansoni,Invertebrates,Adanson's house jumper,12,1,wetlands,FALSE,NE
+Hecabe solifera,Invertebrates,,1,1,ncw,FALSE,
+Helicoverpa armigera,Invertebrates,Cotton Bollworm,20,2,partner;wetlands,FALSE,LC
+Heliophanillus fulgens,Invertebrates,,1,1,ncw,FALSE,
+Heliophanus saudis,Invertebrates,,2,1,ncw,FALSE,
+Heliothis nubigera,Invertebrates,,13,1,partner,FALSE,
+Heliothis peltigera,Invertebrates,,8,1,partner,FALSE,
+Heliothis viriplaca,Invertebrates,,3,1,ncw,FALSE,
+Hemiargus hanno,Invertebrates,Hanno Blue,4,1,wetlands,FALSE,NE
+Hemiscorpius arabicus,Invertebrates,,9,1,ncw,TRUE,LC
+Heteracris annulosa,Invertebrates,Short-horned Grasshopper,3,1,wetlands,FALSE,NE
+Heteracris punctata,Invertebrates,Grasshopper,9,1,wetlands,FALSE,LC
+Heteropalpia acrosticta,Invertebrates,,10,1,partner,FALSE,
+Hippasa deserticola,Invertebrates,,1,1,ncw,FALSE,
+Hippasosa pilosa,Invertebrates,,1,1,ncw,FALSE,
+Hippodamia variegata,Invertebrates,Variegated Lady Beetle,19,1,wetlands,FALSE,LC
+Hishimonus phycitis,Invertebrates,Leafhopper,6,1,wetlands,FALSE,NE
+Hogna ferox,Invertebrates,,2,1,ncw,FALSE,
+Holocnemus pluchei,Invertebrates,,9,1,partner,FALSE,
+Hottentotta jayakari,Invertebrates,,2,1,ncw,TRUE,NE
+Hottentotta scaber,Invertebrates,Rough Bark Scorpion,18,2,ncw;wetlands,TRUE,NE
+Hybosorus illigeri,Invertebrates,Scavenger Scarab,16,1,wetlands,FALSE,DD
+Hycleus polymorphus,Invertebrates,,6,1,ncw,FALSE,LC
+Hyclleus polymorphus,Invertebrates,,2,1,ncw,FALSE,
+Hydroglyphus signatellus,Invertebrates,Diving Beetle,5,1,wetlands,FALSE,LC
+Hydroptila cruciata,Invertebrates,Micro-caddisfly,5,1,wetlands,FALSE,LC
+Hyles livornica,Invertebrates,,10,1,partner,FALSE,
+Hyperaspis pumila,Invertebrates,Ladybird,14,1,wetlands,FALSE,LC
+Idaea sanctaria,Invertebrates,,4,1,partner,FALSE,
+Idgia asirensis,Invertebrates,Soft-winged Beetle,1,1,wetlands,FALSE,NE
+Iris coeca,Invertebrates,Praying Mantis,5,1,wetlands,FALSE,LC
+Ischnocolus jickelii,Invertebrates,,1,1,ncw,FALSE,
+Ischnura evansi,Invertebrates,,47,2,ncw;partner,FALSE,LC
+Ischnura fountainei,Invertebrates,,3,1,ncw,FALSE,LC
+Italochrysa bimaculata,Invertebrates,Antlion,1,1,wetlands,FALSE,NE
+Julodis caillaudi,Invertebrates,,1,1,ncw,FALSE,
+Julodis euphratica,Invertebrates,,3,1,partner,FALSE,
+Julodis fimbriata,Invertebrates,,2,1,partner,FALSE,
+Junania hierta,Invertebrates,,1,1,ncw,FALSE,
+Junonia hierta,Invertebrates,,11,2,ncw;partner,FALSE,
+Junonia orithya,Invertebrates,,19,1,partner,FALSE,
+Kukulcania hibernalis,Invertebrates,,1,1,ncw,FALSE,
+Labidura riparia,Invertebrates,Earwig,19,1,wetlands,FALSE,LC
+Lachesana insensibilis,Invertebrates,,1,1,ncw,FALSE,
+Lampicles boeticus,Invertebrates,Long-tailed blue butterfly,19,1,wetlands,FALSE,LC
+Lampides boeticus,Invertebrates,long-tailed blue butterfly,22,2,partner;wetlands,FALSE,LC
+Lamyra vorax,Invertebrates,Robber fly,2,1,wetlands,FALSE,NE
+Lanelater fuscipes,Invertebrates,The larvae name wireworms,1,1,wetlands,FALSE,NE
+Lanelater notodonta,Invertebrates,Click Beetle,3,1,wetlands,FALSE,NE
+Langona pallida,Invertebrates,,1,1,ncw,FALSE,
+Latrodectus dahli,Invertebrates,,5,2,ncw;partner,FALSE,
+Latrodectus geometricus,Invertebrates,,1,1,ncw,FALSE,
+Latrodectus renivulvatus,Invertebrates,,2,1,ncw,FALSE,
+Latrodectus tredecimguttatus,Invertebrates,,3,1,ncw,FALSE,
+Leichenum pulchellum,Invertebrates,,1,1,partner,FALSE,
+Leiurus arabicus,Invertebrates,العقرب العربي,30,2,ncw;ranger,TRUE,LC
+Leiurus brachycentrus,Invertebrates,,2,1,ncw,TRUE,NE
+Leiurus hadb,Invertebrates,,2,1,ncw,TRUE,NE
+Leiurus haenggii,Invertebrates,Deathstalker Scorpion,576,3,ncw;partner;wetlands,TRUE,LC
+Leiurus jordanensis,Invertebrates,,3,1,ncw,TRUE,NE
+Leiurus nigellus,Invertebrates,,1,1,ncw,TRUE,NE
+Lepisma saccharina,Invertebrates,Silverfish,1,1,wetlands,FALSE,NE
+Leptotes pirithous,Invertebrates,,24,1,partner,FALSE,
+Lestes pallidus,Invertebrates,,2,1,ncw,FALSE,LC
+Leucolepisma arenaria,Invertebrates,,3,1,ncw,FALSE,
+Levymanus gershomi,Invertebrates,,1,1,ncw,FALSE,LC
+Lindenia tetraphylla,Invertebrates,,6,1,ncw,FALSE,LC
+Locusta migratoria,Invertebrates,Migratory Locust,3,1,wetlands,FALSE,LC
+Loxosceles rufescens,Invertebrates,,1,1,ncw,FALSE,
+Lycaena phlaeas,Invertebrates,Ciliate Blue,4,1,wetlands,FALSE,LC
+Lycosa ferox,Invertebrates,Wolf spiders,4,1,wetlands,FALSE,NE
+Lymaenon aureus,Invertebrates,Fairyfly,10,1,wetlands,FALSE,LC
+Macronychia aurata,Invertebrates,Parasitic fly,1,1,wetlands,FALSE,NE
+Maindronia neotropicalis,Invertebrates,,1,1,ncw,FALSE,
+Malus domestica,Invertebrates,,1,1,ncw,FALSE,
+Mantis religiosa,Invertebrates,Praying mantis,2,1,wetlands,FALSE,LC
+Mantispa styriaca,Invertebrates,Styrian Praying Lacewing,7,1,wetlands,FALSE,NE
+Marinarozelotes jaxartensis,Invertebrates,,2,1,ncw,FALSE,
+Mayfly larvae,Invertebrates,Mayfly larvae,1,1,wetlands,FALSE,
+Megaselia scalaris,Invertebrates,Scuttle Fly,19,1,wetlands,FALSE,LC
+Melanerythrus mactans,Invertebrates,Desert Camel Cricket,2,1,wetlands,FALSE,NE
+Melanoides tuberculata,Invertebrates,Red-rimmed Melania,6,1,wetlands,FALSE,LC
+Melanoides tuberculate,Invertebrates,Red-rimmed Melania,1,1,wetlands,FALSE,LC
+Melanoplus ponderosus,Invertebrates,,9,1,ncw,FALSE,LC
+Melitaea deserticola,Invertebrates,,28,1,partner,FALSE,
+Menemerus animatus,Invertebrates,,1,1,ncw,FALSE,
+Menemerus arabicus,Invertebrates,,1,1,ncw,FALSE,
+Menemerus fagei,Invertebrates,,1,1,ncw,FALSE,
+Mermessus fradeorum,Invertebrates,,3,1,ncw,FALSE,
+Mesocoelopus ingibbosus,Invertebrates,Furniture Beetle,6,1,wetlands,FALSE,LC
+Mesostena angustata,Invertebrates,,4,1,ncw,FALSE,
+Metacosmesis xerostola,Invertebrates,Fruitworm Moth,11,1,wetlands,FALSE,LC
+Microporus nigrita,Invertebrates,Burrowing Bug,2,1,wetlands,FALSE,NE
+Mirperus jaculus,Invertebrates,Plant bug,2,1,wetlands,FALSE,NE
+Mogrus fulvovittatus,Invertebrates,,1,1,ncw,FALSE,
+Mogrus mathisi,Invertebrates,,1,1,ncw,FALSE,
+Mogrus mirabilis,Invertebrates,,1,1,ncw,FALSE,
+Mogrus sinaicus,Invertebrates,,2,1,ncw,FALSE,
+Monomorium destructor,Invertebrates,Singapore Ant,3,1,wetlands,FALSE,LC
+Monomorium exiguum,Invertebrates,Small Ant,4,1,wetlands,FALSE,LC
+Monomorium minimum,Invertebrates,little black ant,2,1,wetlands,FALSE,NE
+Monomorium pharaonis,Invertebrates,Pharaoh ant,24,1,wetlands,FALSE,NE
+Musca domestica,Invertebrates,House Fly,118,2,ncw;wetlands,FALSE,LC
+Musca domistica,Invertebrates,,5,1,ncw,FALSE,
+Musca sorbens,Invertebrates,Bazaar Fly,28,1,wetlands,FALSE,LC
+Mylabris calida,Invertebrates,Blister Beetle,32,1,wetlands,FALSE,LC
+Mymar taprobanicum,Invertebrates,Fairyfly,5,1,wetlands,FALSE,LC
+Myriochila melancholica,Invertebrates,Tiger Beetle,14,1,wetlands,FALSE,LC
+Myrmarachne tristis,Invertebrates,,1,1,ncw,FALSE,
+Myzus persicae,Invertebrates,Green Peach Aphid,4,1,wetlands,FALSE,NE
+Neaetha oculata,Invertebrates,,1,1,ncw,FALSE,
+Nebo hierichonticus,Invertebrates,,58,2,ncw;partner,TRUE,NE
+Nebo jazanensis,Invertebrates,,2,1,ncw,TRUE,NE
+Nebo yemenensis,Invertebrates,,4,1,ncw,TRUE,NE
+Necrobia rufipes,Invertebrates,Seed Beetle,6,1,wetlands,FALSE,LC
+Necrobia violacea,Invertebrates,,1,1,partner,FALSE,
+Nepheronia buqueti,Invertebrates,,4,1,ncw,FALSE,
+Neromia pulvereisparsa,Invertebrates,,1,1,ncw,FALSE,
+Nesciothemis farinose,Invertebrates,,3,1,ncw,FALSE,LC
+Nezara viridula,Invertebrates,,1,1,ncw,FALSE,
+Nomophila nocuella,Invertebrates,Maritime Pine Moth,8,1,wetlands,FALSE,NE
+Notostaurus anatolicus,Invertebrates,,1,1,ncw,FALSE,
+Odontopera integraria,Invertebrates,Geometer moth,1,1,wetlands,FALSE,NE
+Okinawicius sheherezadae,Invertebrates,,1,1,ncw,FALSE,
+Okinawicius shirinae,Invertebrates,,1,1,ncw,FALSE,
+Okinawicius sindbadi,Invertebrates,,1,1,ncw,FALSE,
+Onthophagus infucatus,Invertebrates,Dung Beetle,16,1,wetlands,FALSE,LC
+Opatroides punctulatus,Invertebrates,,15,1,partner,FALSE,
+Ophiuche masurialis,Invertebrates,Erebid Moth,2,1,wetlands,FALSE,NE
+Opsius heydeni,Invertebrates,Leafhopper,1,1,wetlands,FALSE,NE
+Opsius richteri,Invertebrates,Leafhopper,1,1,wetlands,FALSE,NE
+Orius albidipennis,Invertebrates,Minute Pirate Bug,7,1,wetlands,FALSE,LC
+Orius laevigatus,Invertebrates,Pirate Bug,6,1,wetlands,FALSE,NE
+Orthetrum brevistylum,Invertebrates,Epaulet Skimmer,12,2,ncw;wetlands,FALSE,LC
+Orthetrum caffrum,Invertebrates,Two-striped Skimmer,18,2,ncw;wetlands,FALSE,LC
+Orthetrum chrysostigma,Invertebrates,Epaulet Skimmer,65,3,ncw;partner;wetlands,FALSE,LC
+Orthetrum coerulescens,Invertebrates,,1,1,ncw,FALSE,LC
+Orthetrum ramburii,Invertebrates,,1,1,ncw,FALSE,LC
+Orthetrum ransonnetii,Invertebrates,Desert Skimmer,27,2,partner;wetlands,FALSE,LC
+Orthetrum sabina,Invertebrates,,28,2,ncw;partner,FALSE,LC
+Orthetrum taeniolatum,Invertebrates,,4,1,ncw,FALSE,LC
+Orthetrum trinacria,Invertebrates,,13,1,ncw,FALSE,
+Orthochirus arabicus,Invertebrates,,1,1,ncw,TRUE,NE
+Orthochirus innesi,Invertebrates,,79,1,partner,FALSE,
+Orthochirus katerinae,Invertebrates,Pillar-tailed Scorpions,2,2,ncw;wetlands,TRUE,NE
+Orthochirus sp.,Invertebrates,,0,0,,TRUE,NE
+Oscinella acuticornis,Invertebrates,Frit Fly,6,1,wetlands,FALSE,LC
+Otiorhynchus sulcatus,Invertebrates,Whorl-worm weevil,7,1,wetlands,FALSE,NE
+Oxybelus arabicus,Invertebrates,Spiny Digger Wasp,3,1,wetlands,FALSE,LC
+Oxycara saudarabicum,Invertebrates,,18,1,partner,FALSE,
+Oxycarenus hyalinipennis,Invertebrates,Ground Bug,13,1,wetlands,FALSE,LC
+Ozyptila rigida,Invertebrates,,1,1,ncw,FALSE,
+Pachnoda thoracica,Invertebrates,Fruit Chafer,31,1,wetlands,FALSE,LC
+Pachyanthrax circe,Invertebrates,,1,1,ncw,FALSE,
+Pachycondyla sennaarensis,Invertebrates,Samsam,19,1,wetlands,FALSE,NE
+Paederus alfierii,Invertebrates,Rover Beetle,11,1,wetlands,FALSE,LC
+Paidiscura dromedaria,Invertebrates,,2,1,ncw,FALSE,
+Palpopleura deceptor,Invertebrates,,2,1,ncw,FALSE,LC
+Pandesma robusta,Invertebrates,,22,1,partner,FALSE,
+Pantala flavescens,Invertebrates,اليعسوب الأصفر,45,3,ncw;partner;ranger,FALSE,LC
+Papilio demoleus,Invertebrates,Lime Butterfly,3,1,wetlands,FALSE,LC
+Parabuthus liosoma,Invertebrates,العقرب بارابوثوس ليوسوم,39,2,ncw;ranger,TRUE,NE
+Paraclytra sennariensis,Invertebrates,Leaf Beetle,16,1,wetlands,FALSE,LC
+Paracymus aeneus,Invertebrates,,1,1,partner,FALSE,
+Paragomphus genei,Invertebrates,العقارب الطائرة,23,2,ncw;ranger,FALSE,LC
+Paragomphus lineatus,Invertebrates,,1,1,ncw,FALSE,
+Pararaneus spectator,Invertebrates,,2,1,partner,FALSE,
+Paratettix meridionalis,Invertebrates,Painted Grasshopper,9,1,wetlands,FALSE,LC
+Pellenes hadaensis,Invertebrates,,1,1,ncw,FALSE,
+Pelopidas thrax,Invertebrates,Millet Skipper,1,1,wetlands,FALSE,LC
+Phaneroptera albida,Invertebrates,,1,1,ncw,FALSE,
+Phanerotoma arabica,Invertebrates,Braconid Wasp,3,1,wetlands,FALSE,LC
+Pheropsophus africanus,Invertebrates,Bombardier Beetle,2,1,wetlands,FALSE,NE
+Philanthus triangulum,Invertebrates,Square-headed Wasp,10,1,wetlands,FALSE,LC
+Philanthus ventilabris,Invertebrates,flat-collared beewolf,1,1,wetlands,FALSE,NE
+Phlebotomus papatasi,Invertebrates,Moth Fly,11,1,wetlands,FALSE,LC
+Phrynichus gaucheri,Invertebrates,,1,1,ncw,FALSE,
+Phyllotreta vittata,Invertebrates,Leafbeetles,9,1,wetlands,FALSE,NE
+Pieris brassicae,Invertebrates,Large White Butterfly,14,1,wetlands,FALSE,LC
+Pieris rapae,Invertebrates,Cabbage White Butterfly,16,2,ncw;wetlands,FALSE,LC
+Pimelia arabica,Invertebrates,,71,1,partner,FALSE,
+Pinheyschna yemenensis,Invertebrates,,1,1,ncw,FALSE,LC
+Plagiocephalus lobularis,Invertebrates,,1,1,wetlands,FALSE,NE
+Platypalpus albiseta,Invertebrates,Dance Fly,7,1,wetlands,FALSE,LC
+Plexippoides flavescens,Invertebrates,,1,1,ncw,FALSE,
+Plexippus paykulli,Invertebrates,Pantropical jumping spider,22,2,ncw;wetlands,FALSE,LC
+Plume moth,Invertebrates,Plume Moth,2,1,wetlands,FALSE,
+Poecilochroa senilis,Invertebrates,,2,1,ncw,FALSE,
+Poecilus wollastoni,Invertebrates,Ground Beetle,2,1,wetlands,FALSE,NE
+Poekilocerus arabicus,Invertebrates,Arabian Toxic Grasshopper,12,2,ncw;wetlands,FALSE,LC
+Poekilocerus bufonis,Invertebrates,Painted Grasshopper,1,1,wetlands,FALSE,LC
+Poekilocerus bufonius,Invertebrates,Toxic Grasshopper,17,1,wetlands,FALSE,LC
+Polistes canadensis,Invertebrates,Paper wasp,2,1,wetlands,FALSE,NE
+Polistes olivaceus,Invertebrates,Yellow Oriental Paper Wasp,12,1,wetlands,FALSE,LC
+Polistes wattii,Invertebrates,Paper Wasp,11,1,wetlands,FALSE,LC
+Polyodaspis robusta,Invertebrates,Frit Fly,6,1,wetlands,FALSE,LC
+Pomacea diffusa,Invertebrates,Mystery snail,1,1,wetlands,FALSE,LC
+Pontia glauconome,Invertebrates,Desert white butterfly,209,3,ncw;partner;wetlands,FALSE,NE
+Porcellio laevis,Invertebrates,Woodlouse,6,1,wetlands,FALSE,LC
+Porcellio pruinosus,Invertebrates,Woodlouse,1,1,wetlands,FALSE,NE
+Porcellio scaber,Invertebrates,,2,1,ncw,FALSE,
+Porcellionides pruinosus,Invertebrates,Plum Woodlouse,17,1,wetlands,FALSE,LC
+Prinerigone vagans,Invertebrates,,1,1,ncw,FALSE,
+Prionotheca coronata,Invertebrates,Urchin Beetle,22,2,partner;wetlands,FALSE,NE
+Prochiloneurus aegyptiacus,Invertebrates,Parasitoid Wasp,2,1,wetlands,FALSE,LC
+Procladius apicalis,Invertebrates,Non-biting Midge,4,1,wetlands,FALSE,NE
+Promachus sinaiticus,Invertebrates,,1,1,ncw,FALSE,
+Pseudagrion arabicum,Invertebrates,,7,1,ncw,FALSE,LC
+Pseudagrion hamoni,Invertebrates,,32,1,ncw,FALSE,LC
+Pseudagrion sublacteum,Invertebrates,,6,1,ncw,FALSE,LC
+Pseudomogrus saliens,Invertebrates,,1,1,ncw,FALSE,
+Psilopa nilotica,Invertebrates,Shore Fly,8,1,wetlands,FALSE,LC
+Pterotricha dalmasi,Invertebrates,Ground spider,37,3,ncw;partner;wetlands,FALSE,NE
+Pterotricha lesserti,Invertebrates,,1,1,ncw,FALSE,
+Pyrgomorpha conica,Invertebrates,,2,1,ncw,FALSE,
+Rabidosa rabida,Invertebrates,Rabid wolf spider,1,1,wetlands,FALSE,NE
+Rhaconotus carinatus,Invertebrates,,1,1,ncw,FALSE,
+Rhodometra sacraria,Invertebrates,عثّة الخط العريض,2,2,ncw;ranger,FALSE,
+Runcinia grammica,Invertebrates,,1,1,ncw,FALSE,
+Sarcophaga bercaea,Invertebrates,Flesh flies,30,1,wetlands,FALSE,NE
+Sarcophaga dux,Invertebrates,Flesh Fly,30,1,wetlands,FALSE,LC
+Sarcophaga nuba,Invertebrates,Flesh Fly,1,1,wetlands,FALSE,NE
+Sarcophaga ruficornis,Invertebrates,Flesh Fly,9,1,wetlands,FALSE,LC
+Scaurus puncticollis,Invertebrates,Darkling Beetle,12,1,wetlands,FALSE,NE
+Sceliphron spirifex,Invertebrates,Mud-dauber Wasp,6,1,wetlands,FALSE,LC
+Schistocerca gregaria,Invertebrates,Desert Locust,23,1,wetlands,FALSE,LC
+Sclerodermus domesticus,Invertebrates,,1,1,ncw,FALSE,
+Scolopendra valida,Invertebrates,,2,1,ncw,FALSE,
+Scorpio fuscus,Invertebrates,,7,1,ncw,TRUE,NE
+Scorpio kruglovi,Invertebrates,,35,1,ncw,TRUE,NE
+Scorpio palmatus,Invertebrates,,12,1,ncw,TRUE,NE
+Scutigera coleoptrata,Invertebrates,,1,1,ncw,FALSE,
+Scymnus syriacus,Invertebrates,Ladybird Beetle,18,1,wetlands,FALSE,LC
+Scytodes univittata,Invertebrates,,2,1,ncw,FALSE,
+Selysiothemis nigra,Invertebrates,,8,2,ncw;partner,FALSE,LC
+Setaphis subtilis,Invertebrates,,2,1,ncw,FALSE,
+Setodes alalus,Invertebrates,Long-horned Caddisfly,3,1,wetlands,FALSE,LC
+Shistocerca gregaria,Invertebrates,The desert locust,26,1,wetlands,FALSE,NE
+Sinaiella nebulosa,Invertebrates,Sinai Mantis,10,1,wetlands,FALSE,LC
+Sitotroga cerealella,Invertebrates,,1,1,ncw,FALSE,
+Solenopsis geminata,Invertebrates,tropical fire ant,11,1,wetlands,FALSE,NE
+Solenopsis geminate,Invertebrates,Tropical fire ant,17,1,wetlands,FALSE,NE
+Solenopsis invicta,Invertebrates,Red Imported Fire Ant,1,1,wetlands,FALSE,NE
+Sphaerophoria rueppellii,Invertebrates,Hoverfly,3,1,wetlands,FALSE,LC
+Sphaerophoria scripta,Invertebrates,Long Hoverfly,6,1,wetlands,FALSE,NE
+Sphecodes puncticeps,Invertebrates,,1,1,ncw,FALSE,
+Sphenophorus parvulus,Invertebrates,,1,1,ncw,FALSE,
+Sphex fumicatus,Invertebrates,Mud Dauber,10,1,wetlands,FALSE,LC
+Sphingonotus rubescens,Invertebrates,Blue-winged Grasshopper,6,1,wetlands,FALSE,LC
+Sphodromantis lineola,Invertebrates,,1,1,ncw,FALSE,
+Sphodromantis viridis,Invertebrates,Green Mantis,10,1,wetlands,FALSE,LC
+Sphodrus leucophthalmus,Invertebrates,,1,1,partner,FALSE,
+Spilosoma lubricipeda,Invertebrates,,1,1,ncw,FALSE,
+Spilostethus pandurus,Invertebrates,Seed Bug,8,1,wetlands,FALSE,LC
+Spodoptera exigua,Invertebrates,Beet Armyworm,28,2,partner;wetlands,FALSE,LC
+Spodoptera littoralis,Invertebrates,,3,1,partner,FALSE,
+Spodoptera mauritia,Invertebrates,Owlet Moth,7,1,wetlands,FALSE,LC
+Spoladea recurvalis,Invertebrates,Bee webworm moth,21,1,wetlands,FALSE,NE
+Steatoda bipunctata,Invertebrates,,1,1,ncw,FALSE,
+Steatoda paykulliana,Invertebrates,,1,1,ncw,FALSE,
+Stegodyphus lineatus,Invertebrates,,3,1,ncw,FALSE,
+Stenacron interpunctatum,Invertebrates,,1,1,ncw,FALSE,
+Stenocara gracilipes,Invertebrates,Desert Beetles,27,1,wetlands,FALSE,NE
+Stenozygum coloratum,Invertebrates,Painted Bug,1,1,wetlands,FALSE,NE
+Steraspis speciosa,Invertebrates,,39,2,ncw;partner,FALSE,
+Strabala rufa,Invertebrates,,1,1,ncw,FALSE,
+Sympetrum fonscolombei,Invertebrates,,4,1,ncw,FALSE,LC
+Sympetrum fonscolombii,Invertebrates,,11,1,partner,FALSE,
+Sympetrum sinaiticum,Invertebrates,,1,1,ncw,FALSE,
+Synaphosus khashm,Invertebrates,,1,1,ncw,FALSE,
+Synaphosus syntheticus,Invertebrates,,1,1,ncw,FALSE,
+Synema diana,Invertebrates,,7,1,ncw,FALSE,LC
+Syrphophagus aphidivorus,Invertebrates,Hyperparasitoid,3,1,wetlands,FALSE,LC
+Tabanus nigrovittatus,Invertebrates,Horse flies,2,1,wetlands,FALSE,NE
+Tachysphex buyssoni,Invertebrates,Sand Wasp,11,1,wetlands,FALSE,LC
+Tachysphex deserticola,Invertebrates,Sand Wasp,8,1,wetlands,FALSE,LC
+Tamarus piger,Invertebrates,Crab spiders,2,1,wetlands,FALSE,NE
+Tathorhynchus exsiccata,Invertebrates,Owlet Moth,2,1,wetlands,FALSE,LC
+Tathorhynchus philbyi,Invertebrates,Erebid Moth,13,1,wetlands,FALSE,LC
+Taylorilygus pallidulus,Invertebrates,Tarnished plant bug,1,1,wetlands,FALSE,NE
+Tebenna micalis,Invertebrates,Metalmark Moth,16,1,wetlands,FALSE,LC
+Technomymex briani,Invertebrates,White-footed ant,20,1,wetlands,FALSE,NE
+Technomyrmex briani,Invertebrates,white-footed ant,11,1,wetlands,FALSE,NE
+Tegenaria parietina,Invertebrates,Funnel-web spider,1,1,wetlands,FALSE,LC
+Tetragonoderus arcuatus,Invertebrates,Ground Beetle,1,1,wetlands,FALSE,NE
+Thalerastria diaphora,Invertebrates,,2,1,partner,FALSE,
+Theridion spinitarse,Invertebrates,,2,1,ncw,FALSE,
+Thermobia domestica,Invertebrates,,2,1,ncw,FALSE,
+Thomisus arabicus,Invertebrates,عنكبوت السلطعون العربي,1,1,ranger,FALSE,
+Thomisus bidentatus,Invertebrates,,2,1,ncw,FALSE,
+Thomisus citrinellus,Invertebrates,Crab Spider,12,3,ncw;ranger;wetlands,FALSE,LC
+Thomisus zyuzini,Invertebrates,Crab Spider,6,2,ncw;wetlands,FALSE,LC
+Thrips microchaetus,Invertebrates,Thrips,18,1,wetlands,FALSE,LC
+Thyene imperialis,Invertebrates,,5,1,ncw,FALSE,LC
+Tibellus vossioni,Invertebrates,,1,1,ncw,FALSE,
+Tmarus longicaudatus,Invertebrates,,5,1,ncw,FALSE,LC
+Trachyderma hispidum,Invertebrates,خنفساء تراكيديرما ذات الشعر,4,2,ncw;ranger,FALSE,
+Trachyderma philistina,Invertebrates,Darkling beetle,9,3,ncw;ranger;wetlands,FALSE,NE
+Trachyderma philistinum,Invertebrates,,4,1,partner,FALSE,
+Tramea basilaris,Invertebrates,,1,1,ncw,FALSE,
+Trichardis leucocomus,Invertebrates,Robber Fly,15,1,wetlands,FALSE,LC
+Trigonodes hyppasia,Invertebrates,,1,1,ncw,FALSE,
+Triops longicaudatus,Invertebrates,Ongtail tadpole shrimp,5,1,wetlands,FALSE,NE
+Trithemis annulata,Invertebrates,Red-veined Dropwing,30,2,ncw;wetlands,FALSE,LC
+Trithemis arteriosa,Invertebrates,Red-veined Dropwing,109,3,ncw;partner;wetlands,FALSE,LC
+Trithemis dejouxi,Invertebrates,Dropwing,13,2,ncw;wetlands,FALSE,LC
+Trithemis furva,Invertebrates,,6,1,ncw,FALSE,LC
+Trithemis kirbyi,Invertebrates,,51,1,ncw,FALSE,LC
+Truxalis grandis,Invertebrates,Slant-faced Grasshopper,9,1,wetlands,FALSE,LC
+Trybanothacus buettikeri,Invertebrates,,20,1,ncw,TRUE,NE
+Trygetus riyadhensis,Invertebrates,,1,1,ncw,FALSE,
+Trypanothacus buettikeri,Invertebrates,,43,1,partner,FALSE,
+Unidentified species,Invertebrates,-------,1,1,wetlands,FALSE,
+Uroctea limbata,Invertebrates,,2,1,partner,FALSE,
+Utetheisa pulchella,Invertebrates,Crimson-speckled flunkey,9,2,ncw;wetlands,FALSE,NE
+Vachoniolus globimanus,Invertebrates,,24,1,ncw,TRUE,NE
+Vanessa cardui,Invertebrates,,79,2,ncw;partner,FALSE,
+Vespa orientalis,Invertebrates,Oriental Hornet,5,2,ncw;wetlands,FALSE,NE
+Wadicosa fidelis,Invertebrates,عناكب الذئب,2,2,ncw;ranger,FALSE,
+Xenobuthus anthracinus,Invertebrates,عقرب أسود,15,2,ncw;ranger,TRUE,NE
+Xenobuthus arabicus,Invertebrates,Scorpion,6,3,ncw;ranger;wetlands,TRUE,NE
+Xylocopa aestuans,Invertebrates,Carpenter bee,1,1,wetlands,FALSE,NE
+Xylocopa pubescens,Invertebrates,Carpenter Bee,33,1,wetlands,FALSE,LC
+Xylocopa sulcatipes,Invertebrates,Arabian carpenter bee,1,1,wetlands,FALSE,NE
+Zelotes laetus,Invertebrates,العناكب,4,2,ncw;ranger,FALSE,
+Zizeeria knysna,Invertebrates,African Grass Blue,7,1,wetlands,FALSE,LC
+Zizina otis,Invertebrates,فراشة صغيرة,5,2,ncw;ranger,FALSE,
+Zodarion buettikeri,Invertebrates,العناكب,2,2,ncw;ranger,FALSE,LC
+Zodion cinereum,Invertebrates,Thick-headed Fly,9,1,wetlands,FALSE,LC
+Zonocerus elegans,Invertebrates,Elegant Grasshopper,1,1,wetlands,FALSE,NE
+Zoropsis lutea,Invertebrates,False wolf spiders,1,1,wetlands,FALSE,NE
+Zygonyx torrida,Invertebrates,,7,1,ncw,FALSE,LC
+Acomys dimidiatus,Mammals,Arabian Spiny Mouse,630,3,ncw;partner;wetlands,TRUE,LC
+Acomys russatus,Mammals,Golden spiny mouse,111,4,ncw;partner;ranger;wetlands,TRUE,LC
+Asellia patrizii,Mammals,,3,1,ncw,TRUE,LC
+Asellia tridens,Mammals,,18,2,ncw;partner,TRUE,LC
+Balaenoptera edeni,Mammals,,35,1,ncw,FALSE,DD
+Balaenoptera physalus,Mammals,الحوت الزعنفي,1,1,ranger,FALSE,
+Barbastella leucomelas,Mammals,خفاش أبيض الحواف,3,2,ncw;ranger,TRUE,LC
+Canis aureus,Mammals,ابن آوى الذهبي,10,2,ncw;ranger,TRUE,LC
+Canis lupus,Mammals,Arabian Wolf,481,4,ncw;partner;ranger;wetlands,TRUE,LC
+Capra nubiana,Mammals,الوعل النوبي,122,3,ncw;partner;ranger,TRUE,VU
+Caracal caracal,Mammals,Caracal,31,2,ncw;wetlands,TRUE,LC
+Chaerephon nigeriae,Mammals,,5,1,ncw,TRUE,LC
+Chaerephon pumila,Mammals,,4,1,ncw,TRUE,NE
+Cnephaeus bottae,Mammals,,4,1,partner,FALSE,
+Crocidura dhofarensis,Mammals,,2,1,ncw,TRUE,DD
+Crocidura gueldenstaedtii,Mammals,,4,1,ncw,TRUE,LC
+Delphinus delphis,Mammals,الدلفين الشائع,50,2,ncw;ranger,FALSE,LC
+Dipodillus dasyurus,Mammals,Wagner’s gerbil,5,1,wetlands,FALSE,LC
+Dugong dugon,Mammals,,79,1,ncw,FALSE,EN
+Eidolon helvum,Mammals,Straw-colored Fruit Bat,11,2,ncw;wetlands,TRUE,NT
+Eliomys Melanurus,Mammals,,0,0,,TRUE,LC
+Eliomys melanurus,Mammals,,7,1,ncw,FALSE,LC
+Eptesicus bottae,Mammals,,8,1,ncw,TRUE,LC
+Equus asinus,Mammals,Feral donkey,3,1,wetlands,FALSE,LC
+Felis lybica,Mammals,African Wildcat,232,3,ncw;partner;wetlands,TRUE,LC
+Felis margarita,Mammals,القط الرملي,39,2,ncw;ranger,TRUE,LC
+Felis silvestris,Mammals,Arabian wildcat,19,1,wetlands,FALSE,LC
+Gazella arabica,Mammals,الغزال العربي,1317,2,ncw;ranger,TRUE,VU
+Gazella marica,Mammals,الغزال المريخي,854,2,ncw;ranger,TRUE,VU
+Genetta genetta,Mammals,Common Genet,26,2,ncw;wetlands,TRUE,LC
+Gerbillus cheesmani,Mammals,Cheesman’s gerbil,115,4,ncw;partner;ranger;wetlands,TRUE,LC
+Gerbillus dasyurus,Mammals,الجرذ ذو الذيل المشعر,224,3,ncw;partner;ranger,TRUE,LC
+Gerbillus henleyi,Mammals,,5,1,partner,FALSE,
+Gerbillus henleyl,Mammals,,3,1,ncw,TRUE,LC
+Gerbillus nanus,Mammals,الجرذ القزم,102,3,ncw;partner;ranger,TRUE,LC
+Gerbillus poecilops,Mammals,,8,2,ncw;partner,TRUE,LC
+Globicephala macrorhynchus,Mammals,,1,1,ncw,FALSE,LC
+Grampus griseus,Mammals,الدلفين رمادي اللون (ريزوس),11,2,ncw;ranger,FALSE,EN
+Hemiechinus auritus,Mammals,القنفذ ذو الأذنين الكبيرتين,22,2,ncw;ranger,TRUE,LC
+Herpestes edwardsii,Mammals,,3,1,ncw,TRUE,LC
+Hipposideros megalotis,Mammals,,1,1,ncw,TRUE,LC
+Hipposideros tephrus,Mammals,,6,1,ncw,TRUE,LC
+Hyaena Hyaena,Mammals,,0,0,,TRUE,NT
+Hyaena hyaena,Mammals,Striped hyena,80,3,ncw;ranger;wetlands,FALSE,NT
+Hypsugo ariel,Mammals,Desert Pipistrelle,29,2,ncw;wetlands,TRUE,LC
+Hystrix Indica,Mammals,,0,0,,TRUE,LC
+Hystrix indica,Mammals,Indian Crested Porcupine,17,3,ncw;ranger;wetlands,FALSE,LC
+Ichneumia albicauda,Mammals,White-tailed Mongoose,43,3,ncw;ranger;wetlands,TRUE,LC
+Jaculus jaculus,Mammals,Lesser Egyptian jerboa,12,1,wetlands,FALSE,EN
+Jaculus loftusi,Mammals,,122,2,ncw;partner,TRUE,LC
+Lepus capensis,Mammals,Cape Hare,1070,4,ncw;partner;ranger;wetlands,TRUE,LC
+Megaptera novaeangliae,Mammals,,5,1,ncw,FALSE,LC
+Mellivora capensis,Mammals,الوَزّة العسلية,27,2,ncw;ranger,TRUE,LC
+Meriones crassus,Mammals,,74,2,ncw;partner,TRUE,LC
+Meriones ibycus,Mammals,,21,1,ncw,FALSE,LC
+Meriones libycus,Mammals,Libyan jird,4,2,ncw;wetlands,TRUE,LC
+Meriones rex,Mammals,,18,1,ncw,TRUE,LC
+Miniopterus pallidus,Mammals,,4,1,ncw,TRUE,NT
+Mops midas,Mammals,,3,1,ncw,TRUE,LC
+Mus musculus,Mammals,House mouse,24,4,ncw;partner;ranger;wetlands,TRUE,LC
+Myomyscus yemeni,Mammals,,7,1,ncw,TRUE,DD
+Myotis Emarginatus,Mammals,,0,0,,TRUE,LC
+Myotis emarginatus,Mammals,,15,2,ncw;partner,FALSE,LC
+Neophocaena phocaenoides,Mammals,,21,1,ncw,FALSE,VU
+Nesokia indica,Mammals,,2,1,ncw,FALSE,LC
+Nesokia ndica,Mammals,,0,0,,TRUE,
+Nycteris thebaica,Mammals,Egyptian Slit-faced Bat,27,3,ncw;partner;wetlands,TRUE,LC
+Nycticeinops schlieffeni,Mammals,,3,1,ncw,TRUE,LC
+Orcinus orca,Mammals,,10,1,ncw,FALSE,DD
+Oryx leucoryx,Mammals,المها الأبيض,610,2,ncw;ranger,TRUE,VU
+Otonycteris hemprichi,Mammals,Desert long-eared bat,5,1,wetlands,FALSE,LC
+Otonycteris hemprichii,Mammals,,21,2,ncw;partner,TRUE,LC
+Panthera pardus,Mammals,الفهد,73,3,ncw;partner;ranger,TRUE,VU
+Papio hamadryas,Mammals,Hamadryas Baboon,928,3,ncw;ranger;wetlands,TRUE,LC
+Paraechinus aethiopicus,Mammals,Ethiopian Hedgehog,435,4,ncw;partner;ranger;wetlands,TRUE,LC
+Paraechinus hypomelas,Mammals,Brandt's Hedgehog,57,3,ncw;ranger;wetlands,TRUE,LC
+Pipistrellus kuhlii,Mammals,Kuhl's Pipistrelle,58,3,ncw;partner;wetlands,TRUE,LC
+Plecotus christi,Mammals,Gray long-eared bat,1,1,wetlands,FALSE,DD
+Plecotus christii,Mammals,The Egyptian long-eared bat,7,2,ncw;wetlands,TRUE,DD
+Procavia capensis,Mammals,Rock Hyrax,94,4,ncw;partner;ranger;wetlands,TRUE,LC
+Psammomys obesus,Mammals,Fat sand rat,56,4,ncw;partner;ranger;wetlands,TRUE,LC
+Pseudorca crassidens,Mammals,,5,1,ncw,FALSE,NT
+Rattus norvegicus,Mammals,الجرذ البني,6,2,ncw;ranger,TRUE,LC
+Rattus rattus,Mammals,,21,2,ncw;partner,TRUE,LC
+Rhinolophus clivosus,Mammals,,93,2,ncw;partner,TRUE,LC
+Rhinolophus hipposideros,Mammals,,59,2,ncw;partner,TRUE,LC
+Rhinopoma cystops,Mammals,Lesser Mouse-tailed Bat,27,3,ncw;partner;wetlands,TRUE,LC
+Rhinopoma microphyllum,Mammals,,7,1,ncw,TRUE,LC
+Rhyneptesicus nasutus,Mammals,,9,1,ncw,TRUE,LC
+Rousettus aegyptiacus,Mammals,Egyptian fruit bat,41,4,ncw;partner;ranger;wetlands,TRUE,LC
+Salvia aegyptiaca,Mammals,شجيرة الغزال,1,1,ranger,FALSE,
+Scarturs euphratcus,Mammals,,3,1,ncw,TRUE,LC
+Scotophilus dinganii,Mammals,خفاش سكوتوفيليس دينجاني,3,2,ncw;ranger,TRUE,LC
+Sekeetamys calurus,Mammals,Bushy-tailed jird,113,4,ncw;partner;ranger;wetlands,TRUE,LC
+Sousa plumbea,Mammals,الدلفين الأحدب الهندي,125,2,ncw;ranger,FALSE,CR
+Stenella attenuata,Mammals,,37,1,ncw,FALSE,EN
+Stenella coeruleoalba,Mammals,,1,1,ncw,FALSE,LC
+Stenella longirostris,Mammals,الدلفين الدوار (ذو الأنف الطويل),113,2,ncw;ranger,FALSE,CR
+Steno bredanensis,Mammals,,1,1,ncw,FALSE,LC
+Suncus murinus,Mammals,,5,1,ncw,TRUE,LC
+Tadarida aegyptiaca,Mammals,,32,2,ncw;partner,TRUE,LC
+Tadarida teniotis,Mammals,,69,2,ncw;partner,TRUE,LC
+Taphozous nudiventris,Mammals,Naked-rumped Tomb Bat,41,3,ncw;partner;wetlands,TRUE,LC
+Taphozous perforatus,Mammals,,12,1,ncw,TRUE,LC
+Triaenops persicus,Mammals,خفاش ثلاثي الأسنان الفارسي,4,2,ncw;ranger,TRUE,LC
+Tursiops aduncus,Mammals,الدلفين قاروري الأنف الهندي,215,2,ncw;ranger,FALSE,CR
+Tursiops truncatus,Mammals,الدلفين قاروري الأنف,42,2,ncw;ranger,FALSE,LC
+Unknown dolphin,Mammals,,23,1,ncw,FALSE,
+Vansonia rueppellii,Mammals,,1,1,ncw,FALSE,LC
+Vulpes cana,Mammals,ثعلب كانا,253,3,ncw;partner;ranger,TRUE,LC
+Vulpes rueppelli,Mammals,ثعلب روبيلي,43,2,ncw;ranger,TRUE,LC
+Vulpes rueppellii,Mammals,Rüppell's sand fox,4,1,wetlands,FALSE,LC
+Vulpes vulpes,Mammals,Red Fox,2226,4,ncw;partner;ranger;wetlands,TRUE,LC
+Ablepharus pannonicus,Reptiles,,0,0,,TRUE,LC
+Acanthocercus adramitanus,Reptiles,Hadramaut Agama,71,2,ncw;wetlands,TRUE,LC
+Acanthocercus yemensis,Reptiles,,9,1,ncw,TRUE,LC
+Acanthodactylus boskianus,Reptiles,Bosc’s Fringe-fingered Lizard,266,3,ncw;partner;wetlands,TRUE,LC
+Acanthodactylus gongrorhynchatus,Reptiles,,0,0,,TRUE,DD
+Acanthodactylus grandis,Reptiles,,0,0,,TRUE,LC
+Acanthodactylus haasi,Reptiles,,0,0,,TRUE,LC
+Acanthodactylus hardyi,Reptiles,,0,0,,TRUE,NE
+Acanthodactylus opheodurus,Reptiles,Snake-tailed Fringe-toed Lizard,240,3,ncw;partner;wetlands,TRUE,LC
+Acanthodactylus orientalis,Reptiles,,0,0,,TRUE,LC
+Acanthodactylus robustus,Reptiles,,0,0,,TRUE,LC
+Acanthodactylus schmidti,Reptiles,Schmidt's fringe-fingered lizard,13,2,ncw;wetlands,TRUE,LC
+Acanthodactylus scutellatus,Reptiles,,0,0,,TRUE,LC
+Acanthodactylus tilburyi,Reptiles,,0,0,,TRUE,LC
+Acantodactylus boskianus,Reptiles,Bosc's Fringe-toed Lizard,2,1,wetlands,FALSE,LC
+Atractaspis andersonii,Reptiles,Arabian Burrowing Asp,6,2,ncw;wetlands,TRUE,LC
+Atractaspis engaddensis,Reptiles,,7,2,ncw;partner,TRUE,LC
+Bitis arietans,Reptiles,African Puff Adder,7,2,ncw;wetlands,TRUE,LC
+Boaedon fuliginosus,Reptiles,,0,0,,TRUE,LC
+Bunopus tuberculatus,Reptiles,Baluch rock gecko,195,3,ncw;partner;wetlands,TRUE,LC
+Caretta caretta,Reptiles,السلحفاة ضخمة الرأس,6,2,ncw;ranger,TRUE,VU
+Cerastes cerastes,Reptiles,,0,0,,TRUE,LC
+Cerastes gasperetti,Reptiles,Arabian horned viper,7,2,ncw;wetlands,TRUE,LC
+Cerastes gasperettii,Reptiles,Arabian horned viper,21,2,partner;wetlands,FALSE,LC
+Chalcides levitoni,Reptiles,,0,0,,TRUE,DD
+Chalcides ocellatus,Reptiles,,2,1,ncw,TRUE,LC
+Chamaeleo calyptratus,Reptiles,Veiled Chameleon,2,1,wetlands,TRUE,LC
+Chamaeleo chamaeleon,Reptiles,Common Chameleon,7,2,ncw;wetlands,TRUE,LC
+Chameleon coleoptera,Reptiles,,3,1,ncw,FALSE,
+Chelonia mydas,Reptiles,السلحفاة الخضراء,265,2,ncw;ranger,TRUE,CR
+Cyrtopodion scabrum,Reptiles,"rough-tailed gecko,",7,2,partner;wetlands,TRUE,LC
+Dasypeltis arabica,Reptiles,,0,0,,TRUE,LC
+Dermochelys coriacea,Reptiles,,0,0,,TRUE,VU
+Diplometopon zarudnyi,Reptiles,Zarudny's worm lizard,1,1,wetlands,TRUE,LC
+Echis borkini,Reptiles,Borkin's Saw-scaled Viper,7,2,ncw;wetlands,TRUE,LC
+Echis coloratus,Reptiles,Painted Carpet Viper,89,3,ncw;partner;wetlands,TRUE,LC
+Eirenis coronella,Reptiles,,0,0,,TRUE,LC
+Eretmochelys imbricata,Reptiles,السلحفاة صقرية المنقار,117,2,ncw;ranger,TRUE,CR
+Eryx jaculus,Reptiles,,0,0,,TRUE,LC
+Eryx jayakari,Reptiles,Arabian sand boa,4,2,ncw;wetlands,TRUE,LC
+Eumeces schneideri,Reptiles,,0,0,,TRUE,LC
+Eumeces schneiderii,Reptiles,,13,1,partner,FALSE,
+Eurylepis taeniolatus,Reptiles,,0,0,,TRUE,LC
+Hemidactylus alfaraji,Reptiles,,0,0,,TRUE,NE
+Hemidactylus alfarraji,Reptiles,Al Farraj’s house gecko,1,1,wetlands,FALSE,LC
+Hemidactylus almakhwah,Reptiles,,0,0,,TRUE,NE
+Hemidactylus asirensis,Reptiles,Asir Mountains Half-toed Gecko,4,2,ncw;wetlands,TRUE,LC
+Hemidactylus farasani,Reptiles,,20,1,ncw,TRUE,NE
+Hemidactylus flaviviridis,Reptiles,,6,1,partner,TRUE,
+Hemidactylus granosus,Reptiles,,76,1,partner,TRUE,DD
+Hemidactylus robustus,Reptiles,Robust Gecko,20,2,ncw;wetlands,TRUE,LC
+Heremites septemtaeniatus,Reptiles,,0,0,,TRUE,LC
+Hydrophis curtus,Reptiles,,0,0,,TRUE,LC
+Hydrophis cyanocinctus,Reptiles,,0,0,,TRUE,LC
+Hydrophis gracilis,Reptiles,,0,0,,TRUE,LC
+Hydrophis ornatus,Reptiles,,0,0,,TRUE,LC
+Hydrophis platurus,Reptiles,,0,0,,TRUE,LC
+Hydrophis schistosus,Reptiles,,0,0,,TRUE,LC
+Hydrophis spiralis,Reptiles,,0,0,,TRUE,LC
+Hydrophis viperinus,Reptiles,,0,0,,TRUE,LC
+Indotyphlops braminus,Reptiles,,0,0,,TRUE,LC
+Laudakia stellagama,Reptiles,Hardun,2,1,wetlands,FALSE,LC
+Laudakia stellio,Reptiles,,0,0,,TRUE,LC
+Laudakia vulgaris,Reptiles,,84,1,partner,FALSE,
+Lepidochelys olivacea,Reptiles,,0,0,,TRUE,VU
+Lytorhynchus diadema,Reptiles,,3,1,ncw,TRUE,LC
+Lytorhynchus gasperetti,Reptiles,,0,0,,TRUE,DD
+Lytorhynchus kennedyi,Reptiles,,0,0,,TRUE,NE
+Malpolon moilensis,Reptiles,Moila Snake,13,3,ncw;partner;wetlands,TRUE,LC
+Mauremys caspica,Reptiles,Caspian Turtle,1,1,wetlands,TRUE,LC
+Mesalina adramitana,Reptiles,,0,0,,TRUE,LC
+Mesalina arnoldi,Reptiles,,6,1,ncw,TRUE,NE
+Mesalina bahaeldini,Reptiles,Baha El Din's Lizard,373,2,partner;wetlands,FALSE,LC
+Mesalina bernoullii,Reptiles,,0,0,,TRUE,NE
+Mesalina brevirostris,Reptiles,,4,2,ncw;partner,TRUE,LC
+Mesalina cryptica,Reptiles,Small-spotte lizard,16,1,wetlands,FALSE,LC
+Mesalina guttulata,Reptiles,,3,1,ncw,TRUE,LC
+Mesalina olivieri,Reptiles,,0,0,,TRUE,LC
+Mesalina saudiarabica,Reptiles,,0,0,,TRUE,NE
+Myriopholis macrorhyncha,Reptiles,,0,0,,TRUE,LC
+Myriopholis nursii,Reptiles,,0,0,,TRUE,LC
+Naja arabica,Reptiles,Arabian Cobra,17,2,ncw;wetlands,TRUE,LC
+Ophisops elbaensis,Reptiles,,7,2,ncw;partner,TRUE,DD
+Ophisops elegans,Reptiles,,0,0,,TRUE,LC
+Pelomedusa barbata,Reptiles,Helmeted Terrapin,3,1,wetlands,TRUE,LC
+Philochortus neumanni,Reptiles,,0,0,,TRUE,LC
+Phoenicolacerta kulzeri,Reptiles,,0,0,,TRUE,EN
+Phrynocephalus arabicus,Reptiles,الضب العربي,418,2,ncw;ranger,TRUE,LC
+Phrynocephalus longicaudatus,Reptiles,,0,0,,TRUE,LC
+Phrynocephalus macropeltis,Reptiles,,0,0,,TRUE,NE
+Phrynocephalus nejdensis,Reptiles,,0,0,,TRUE,NE
+Platyceps elegantissimus,Reptiles,,0,0,,TRUE,LC
+Platyceps insulanus,Reptiles,,0,0,,TRUE,DD
+Platyceps rhodorachis,Reptiles,Cliff racer,12,2,ncw;wetlands,TRUE,LC
+Platyceps saharicus,Reptiles,,7,1,partner,TRUE,LC
+Platyceps sinai,Reptiles,Sinai Racer,1,1,wetlands,TRUE,LC
+Platyceps variabilis,Reptiles,Variable Racer,2,2,ncw;wetlands,TRUE,LC
+Platyceps ventromaculatus,Reptiles,,0,0,,TRUE,LC
+Pristurus flavipunctatus,Reptiles,,2,1,ncw,TRUE,LC
+Pristurus guweirensis,Reptiles,Guweir Fan-fingered Gecko,366,3,ncw;partner;wetlands,TRUE,LC
+Pristurus minimus,Reptiles,,0,0,,TRUE,LC
+Pristurus popovi,Reptiles,,0,0,,TRUE,LC
+Psammophis aegyptius,Reptiles,,0,0,,TRUE,LC
+Psammophis schokari,Reptiles,Schokari Sand Racer,11,2,ncw;wetlands,TRUE,LC
+Psammophis sibilans,Reptiles,,0,0,,TRUE,LC
+Pseudoceramodactylus khobarensis,Reptiles,,0,0,,TRUE,
+Pseudocerastes fieldi,Reptiles,,0,0,,TRUE,LC
+Pseudotrapelus aqabensis,Reptiles,,146,2,ncw;partner,TRUE,NE
+Pseudotrapelus neumanni,Reptiles,Neumann’s Agama,22,2,ncw;wetlands,TRUE,NE
+Pseudotrapelus sinaitus,Reptiles,,0,0,,TRUE,LC
+Pseudotrapelus tuwaiqensis,Reptiles,Tuwaiq Desert Agama,12,1,wetlands,TRUE,LC
+Ptyodactylus dhofarensis,Reptiles,fan-toed geckos,4,1,wetlands,FALSE,NE
+Ptyodactylus guttatus,Reptiles,,170,1,partner,FALSE,
+Ptyodactylus hasselquistii,Reptiles,Fan-footed Gecko,785,3,ncw;partner;wetlands,TRUE,LC
+Ptyodactylus hasselquistti,Reptiles,The fan-footed gecko,18,1,wetlands,FALSE,LC
+Ptyodactylus hasselquisttii,Reptiles,The fan-footed gecko,1,1,wetlands,FALSE,LC
+Rhynchocalamus hejazicus,Reptiles,,6,1,partner,TRUE,LC
+Scincus conirostis,Reptiles,,0,0,,TRUE,LC
+Scincus conirostris,Reptiles,sandfish skink,71,2,partner;wetlands,FALSE,LC
+Scincus hemprichii,Reptiles,,1,1,ncw,TRUE,LC
+Scincus mitranus,Reptiles,sandfish skink,7,2,ncw;wetlands,TRUE,LC
+Spalerosophis diadema,Reptiles,Diadem snake,27,3,ncw;partner;wetlands,TRUE,LC
+Stellagama stellio,Reptiles,,1,1,ncw,FALSE,LC
+Stenodactylus doriae,Reptiles,short-fingered gecko,148,3,ncw;partner;wetlands,TRUE,LC
+Stenodactylus grandiceps,Reptiles,,0,0,,TRUE,LC
+Stenodactylus slevini,Reptiles,Slevin's short-fingered gecko,101,3,ncw;partner;wetlands,TRUE,LC
+Stenodactylus sthenodactylus,Reptiles,,0,0,,TRUE,
+Stenodactylus yemenensis,Reptiles,Yemen Short-fingered Gecko,2,1,wetlands,TRUE,LC
+Telescopus dhara,Reptiles,,6,1,partner,TRUE,LC
+Trachylepis brevicollis,Reptiles,Short-necked Skink,4,2,ncw;wetlands,TRUE,LC
+Trachylepis tessellata,Reptiles,,0,0,,TRUE,
+Trapelus agnetae,Reptiles,,2,1,ncw,TRUE,LC
+Trapelus flavimaculatus,Reptiles,,5,2,ncw;partner,TRUE,LC
+Trapelus jayakari,Reptiles,,0,0,,TRUE,DD
+Trapelus persicus,Reptiles,,0,0,,TRUE,LC
+Trapelus ruderatus,Reptiles,,0,0,,TRUE,LC
+Trigonodactylus arabicus,Reptiles,,7,1,ncw,TRUE,LC
+Tropiocolotes nattereri,Reptiles,,0,0,,TRUE,LC
+Tropiocolotes wolfgangboehmei,Reptiles,,0,0,,TRUE,DD
+Tropiocolotes yomtovi,Reptiles,,98,1,partner,FALSE,
+Unknown turtle,Reptiles,,14,1,ncw,FALSE,
+Uromastyx aegyptia,Reptiles,Dhab,84,3,ncw;partner;wetlands,TRUE,VU
+Uromastyx ornata,Reptiles,Philby’s ornate spiny-tailed lizard,48,3,ncw;partner;wetlands,TRUE,LC
+Uromastyx ornate,Reptiles,,1,1,ncw,FALSE,LC
+Varanus gresus,Reptiles,,1,1,ncw,FALSE,LC
+Varanus griseus,Reptiles,Desert Monitor,37,3,ncw;partner;wetlands,TRUE,LC
+Varanus yemenensis,Reptiles,,0,0,,TRUE,DD
+Walterinnesia aegyptia,Reptiles,Black Snake,5,2,partner;wetlands,TRUE,LC
+Walterinnesia morgani,Reptiles,,0,0,,TRUE,LC
